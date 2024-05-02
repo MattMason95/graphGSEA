@@ -7,4 +7,4 @@ In this context, genesets are represented as nodes. Nodes are evaluated in a pai
 This package contains several utilities for the parsing of data from the Windows installation of GSEA, the generation of relational network graphs from significantly enriched genesets, the identification of interconnected subgraphs, and a tokenisation of the geneset annotations that populate subgraphs of interest. 
 By evaluating subgraphs of interrelated nodes, instead of individual genesets the redundancy of the analysis is reduced. 
 
-![alt text](https://github.com/MattMason95/GSEA-Network-Graph/GSEA_7m.png?raw=true)
+![alt text](https://github.com/MattMason95/GSEA-Network-Graph/blob/main/GSEA_7m.png?raw=true)
