@@ -1,6 +1,6 @@
 ### GSEA Network Graph
 
-Geneset enrichment analysis (GSEA) is a mainstay of RNA-sequencing analysis workflows. Functional enrichment analyses afford exceptional utility for both unbiased data exploration, and hypothesis driven approaches. However, due to the redundancy of query genesets utilised from the Gene Ontology database, GSEA can output many enriched genesets that overlap significant in both semantic annotation and gene composition. 
+Geneset enrichment analysis (GSEA) is a mainstay of RNA-sequencing analysis workflows. Functional enrichment analyses afford exceptional utility for both unbiased data exploration, and hypothesis driven approaches. However, due to the redundancy of query genesets utilised from the Gene Ontology database, GSEA can output many enriched genesets that overlap significantly in both semantic annotation and gene composition. 
 
 In this context, genesets are represented as nodes. Nodes are evaluated in a pair-wise manner to compute Jaccard indices of their overlapping genes. Edges are drawn between nodes that have a Jaccard index of > 0.5 (i.e. more than 50% of their genes are shared), under the assumption that genesets sharing the majority of their genes will be involved in similar functions. The stringency/leniency of this threshold can be selected at will.
 
