@@ -1,0 +1,95 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	Oasl1	2'-5' oligoadenylate synthetase-like 1 [Source:MGI Symbol;Acc:MGI:2180849]	2	4.315937042236328	0.03652198	Yes	
+row_1	Rsad2	radical S-adenosyl methionine domain containing 2 [Source:MGI Symbol;Acc:MGI:1929628]	9	3.6838767528533936	0.06750275	Yes	
+row_2	Isg15	ISG15 ubiquitin-like modifier [Source:MGI Symbol;Acc:MGI:1855694]	23	3.3169949054718018	0.09505718	Yes	
+row_3	Oasl2	2'-5' oligoadenylate synthetase-like 2 [Source:MGI Symbol;Acc:MGI:1344390]	31	3.215667247772217	0.1220213	Yes	
+row_4	Mx2	MX dynamin-like GTPase 2 [Source:MGI Symbol;Acc:MGI:97244]	56	2.9192843437194824	0.14570838	Yes	
+row_5	Cd74	CD74 antigen (invariant polypeptide of major histocompatibility complex, class II antigen-associated) [Source:MGI Symbol;Acc:MGI:96534]	59	2.8837435245513916	0.17008118	Yes	
+row_6	Trim30c	tripartite motif-containing 30C [Source:MGI Symbol;Acc:MGI:4821257]	66	2.8589673042297363	0.19406432	Yes	
+row_7	Ch25h	cholesterol 25-hydroxylase [Source:MGI Symbol;Acc:MGI:1333869]	75	2.795668601989746	0.21742076	Yes	
+row_8	Oas1b	2'-5' oligoadenylate synthetase 1B [Source:MGI Symbol;Acc:MGI:97430]	92	2.6617660522460938	0.23928232	Yes	
+row_9	Isg20	interferon-stimulated protein [Source:MGI Symbol;Acc:MGI:1928895]	98	2.6285760402679443	0.26135594	Yes	
+row_10	Ccl5	chemokine (C-C motif) ligand 5 [Source:MGI Symbol;Acc:MGI:98262]	104	2.607856512069702	0.2832538	Yes	
+row_11	Sp100	nuclear antigen Sp100 [Source:MGI Symbol;Acc:MGI:109561]	113	2.581181287765503	0.30479077	Yes	
+row_12	Trim30a	tripartite motif-containing 30A [Source:MGI Symbol;Acc:MGI:98178]	114	2.5716850757598877	0.32660612	Yes	
+row_13	Tnf	tumor necrosis factor [Source:MGI Symbol;Acc:MGI:104798]	127	2.5261034965515137	0.3474964	Yes	
+row_14	Apobec3	apolipoprotein B mRNA editing enzyme, catalytic polypeptide 3 [Source:MGI Symbol;Acc:MGI:1933111]	128	2.5224266052246094	0.36889392	Yes	
+row_15	Oas3	2'-5' oligoadenylate synthetase 3 [Source:MGI Symbol;Acc:MGI:2180850]	150	2.4026918411254883	0.3883334	Yes	
+row_16	Oas2	2'-5' oligoadenylate synthetase 2 [Source:MGI Symbol;Acc:MGI:2180852]	182	2.300518035888672	0.40645742	Yes	
+row_17	Rnasel	ribonuclease L (2', 5'-oligoisoadenylate synthetase-dependent) [Source:MGI Symbol;Acc:MGI:1098272]	199	2.2568812370300293	0.42488438	Yes	
+row_18	Bst2	bone marrow stromal cell antigen 2 [Source:MGI Symbol;Acc:MGI:1916800]	212	2.2215960025787354	0.44319153	Yes	
+row_19	Ly6e	lymphocyte antigen 6 complex, locus E [Source:MGI Symbol;Acc:MGI:106651]	220	2.2032387256622314	0.46156728	Yes	
+row_20	Trim5	tripartite motif-containing 5 [Source:MGI Symbol;Acc:MGI:3646853]	286	2.019533395767212	0.47578207	Yes	
+row_21	Trim30d	tripartite motif-containing 30D [Source:MGI Symbol;Acc:MGI:3035181]	294	2.006635904312134	0.49249008	Yes	
+row_22	Stat1	signal transducer and activator of transcription 1 [Source:MGI Symbol;Acc:MGI:103063]	324	1.9518613815307617	0.5077462	Yes	
+row_23	Trim30b	tripartite motif-containing 30B [Source:MGI Symbol;Acc:MGI:4821256]	326	1.9499837160110474	0.5242429	Yes	
+row_24	Trim14	tripartite motif-containing 14 [Source:MGI Symbol;Acc:MGI:1921985]	330	1.9412230253219604	0.5405755	Yes	
+row_25	Ifitm3	interferon induced transmembrane protein 3 [Source:MGI Symbol;Acc:MGI:1913391]	342	1.9112056493759155	0.5562945	Yes	
+row_26	Trim12a	tripartite motif-containing 12A [Source:MGI Symbol;Acc:MGI:1923931]	348	1.9040340185165405	0.5722219	Yes	
+row_27	Oas1a	2'-5' oligoadenylate synthetase 1A [Source:MGI Symbol;Acc:MGI:2180860]	355	1.8884226083755493	0.587972	Yes	
+row_28	Zfp36	zinc finger protein 36 [Source:MGI Symbol;Acc:MGI:99180]	365	1.8683582544326782	0.6034172	Yes	
+row_29	Zc3hav1	zinc finger CCCH type, antiviral 1 [Source:MGI Symbol;Acc:MGI:1926031]	379	1.8341647386550903	0.61839294	Yes	
+row_30	Resf1	retroelement silencing factor 1 [Source:MGI Symbol;Acc:MGI:1914496]	443	1.7601884603500366	0.63049746	Yes	
+row_31	Ifnb1	interferon beta 1, fibroblast [Source:MGI Symbol;Acc:MGI:107657]	565	1.6393029689788818	0.6389739	Yes	
+row_32	Ifih1	interferon induced with helicase C domain 1 [Source:MGI Symbol;Acc:MGI:1918836]	575	1.630929946899414	0.652405	Yes	
+row_33	Trim21	tripartite motif-containing 21 [Source:MGI Symbol;Acc:MGI:106657]	580	1.6266920566558838	0.6660246	Yes	
+row_34	Eif2ak2	eukaryotic translation initiation factor 2-alpha kinase 2 [Source:MGI Symbol;Acc:MGI:1353449]	607	1.6087216138839722	0.6785046	Yes	
+row_35	Oas1c	2'-5' oligoadenylate synthetase 1C [Source:MGI Symbol;Acc:MGI:2149633]	641	1.5743937492370605	0.6903792	Yes	
+row_36	Oas1g	2'-5' oligoadenylate synthetase 1G [Source:MGI Symbol;Acc:MGI:97429]	714	1.4941664934158325	0.69982326	Yes	
+row_37	Trim25	tripartite motif-containing 25 [Source:MGI Symbol;Acc:MGI:102749]	822	1.4036717414855957	0.706929	Yes	
+row_38	Znfx1	zinc finger, NFX1-type containing 1 [Source:MGI Symbol;Acc:MGI:2138982]	850	1.3836989402770996	0.71745527	Yes	
+row_39	Shfl	shiftless antiviral inhibitor of ribosomal frameshifting [Source:MGI Symbol;Acc:MGI:2441788]	924	1.3385322093963623	0.72553414	Yes	
+row_40	Hexim1	hexamethylene bis-acetamide inducible 1 [Source:MGI Symbol;Acc:MGI:2385923]	967	1.3067642450332642	0.73473465	Yes	
+row_41	N4bp1	NEDD4 binding protein 1 [Source:MGI Symbol;Acc:MGI:2136825]	996	1.2891457080841064	0.7444139	Yes	
+row_42	Trim26	tripartite motif-containing 26 [Source:MGI Symbol;Acc:MGI:1337056]	1391	1.1056135892868042	0.7361127	No	
+row_43	Trim12c	tripartite motif-containing 12C [Source:MGI Symbol;Acc:MGI:4821183]	1423	1.0935286283493042	0.74399793	No	
+row_44	Inpp5k	inositol polyphosphate 5-phosphatase K [Source:MGI Symbol;Acc:MGI:1194899]	1609	1.021034836769104	0.7443577	No	
+row_45	Ubp1	upstream binding protein 1 [Source:MGI Symbol;Acc:MGI:104889]	2430	0.8239114880561829	0.71455085	No	
+row_46	Fam111a	family with sequence similarity 111, member A [Source:MGI Symbol;Acc:MGI:1915508]	2625	0.7869521379470825	0.7125211	No	
+row_47	Trim28	tripartite motif-containing 28 [Source:MGI Symbol;Acc:MGI:109274]	2751	0.7658571600914001	0.71340865	No	
+row_48	Mre11a	MRE11A homolog A, double strand break repair nuclease [Source:MGI Symbol;Acc:MGI:1100512]	3353	0.6748383641242981	0.6921644	No	
+row_49	Trim27	tripartite motif-containing 27 [Source:MGI Symbol;Acc:MGI:97904]	3452	0.6620963215827942	0.69338334	No	
+row_50	Ciita	class II transactivator [Source:MGI Symbol;Acc:MGI:108445]	3647	0.6346703171730042	0.6900618	No	
+row_51	Setdb1	SET domain, bifurcated 1 [Source:MGI Symbol;Acc:MGI:1934229]	4511	0.5261626839637756	0.65579957	No	
+row_52	Zfp809	zinc finger protein 809 [Source:MGI Symbol;Acc:MGI:2143362]	4547	0.5214895009994507	0.6586528	No	
+row_53	Ilf3	interleukin enhancer binding factor 3 [Source:MGI Symbol;Acc:MGI:1339973]	4658	0.509253740310669	0.6580367	No	
+row_54	Morc2a	microrchidia 2A [Source:MGI Symbol;Acc:MGI:1921772]	5461	0.4268360733985901	0.6256692	No	
+row_55	Trim56	tripartite motif-containing 56 [Source:MGI Symbol;Acc:MGI:2685298]	5554	0.4177948236465454	0.62508494	No	
+row_56	8030462N17Rik	RIKEN cDNA 8030462N17 gene [Source:MGI Symbol;Acc:MGI:2444951]	5852	0.3879925310611725	0.6150489	No	
+row_57	Snx3	sorting nexin 3 [Source:MGI Symbol;Acc:MGI:1860188]	5856	0.38769766688346863	0.6182031	No	
+row_58	Tasor	transcription activation suppressor [Source:MGI Symbol;Acc:MGI:1921694]	6527	0.3233129680156708	0.59088063	No	
+row_59	Trim8	tripartite motif-containing 8 [Source:MGI Symbol;Acc:MGI:1933302]	6690	0.3077751696109772	0.58622205	No	
+row_60	Trim11	tripartite motif-containing 11 [Source:MGI Symbol;Acc:MGI:2137355]	6772	0.30220210552215576	0.58515084	No	
+row_61	Ifitm2	interferon induced transmembrane protein 2 [Source:MGI Symbol;Acc:MGI:1933382]	7050	0.280350923538208	0.5750992	No	
+row_62	Csnk2b	casein kinase 2, beta polypeptide [Source:MGI Symbol;Acc:MGI:88548]	7288	0.2605128586292267	0.5666741	No	
+row_63	Trim13	tripartite motif-containing 13 [Source:MGI Symbol;Acc:MGI:1913847]	7482	0.24427708983421326	0.5600858	No	
+row_64	Srpk1	serine/arginine-rich protein specific kinase 1 [Source:MGI Symbol;Acc:MGI:106908]	7871	0.2116238921880722	0.54447013	No	
+row_65	Ppia	peptidylprolyl isomerase A [Source:MGI Symbol;Acc:MGI:97749]	8296	0.17690029740333557	0.5269445	No	
+row_66	Trim6	tripartite motif-containing 6 [Source:MGI Symbol;Acc:MGI:2137352]	8326	0.17397654056549072	0.52711904	No	
+row_67	Mavs	mitochondrial antiviral signaling protein [Source:MGI Symbol;Acc:MGI:2444773]	8471	0.1624951809644699	0.5220357	No	
+row_68	Banf1	BAF nuclear assembly factor 1 [Source:MGI Symbol;Acc:MGI:1346330]	8503	0.1599474847316742	0.52200145	No	
+row_69	Larp7	La ribonucleoprotein 7, transcriptional regulator [Source:MGI Symbol;Acc:MGI:107634]	8699	0.14534084498882294	0.5144841	No	
+row_70	Nbn	nibrin [Source:MGI Symbol;Acc:MGI:1351625]	8800	0.13663087785243988	0.5111558	No	
+row_71	Trim15	tripartite motif-containing 15 [Source:MGI Symbol;Acc:MGI:1916347]	8897	0.12780894339084625	0.5079321	No	
+row_72	Rad50	RAD50 double strand break repair protein [Source:MGI Symbol;Acc:MGI:109292]	9177	0.10695270448923111	0.4963198	No	
+row_73	Trim32	tripartite motif-containing 32 [Source:MGI Symbol;Acc:MGI:1917057]	9451	0.08424725383520126	0.48478407	No	
+row_74	Trim62	tripartite motif-containing 62 [Source:MGI Symbol;Acc:MGI:1914775]	9911	0.04674603044986725	0.46458378	No	
+row_75	Ifitm6	interferon induced transmembrane protein 6 [Source:MGI Symbol;Acc:MGI:2686976]	10543	-0.002128511667251587	0.43628684	No	
+row_76	Plscr1	phospholipid scramblase 1 [Source:MGI Symbol;Acc:MGI:893575]	10792	-0.021745139732956886	0.42534274	No	
+row_77	Gsn	gelsolin [Source:MGI Symbol;Acc:MGI:95851]	11025	-0.04058011621236801	0.41527638	No	
+row_78	Slpi	secretory leukocyte peptidase inhibitor [Source:MGI Symbol;Acc:MGI:109297]	11520	-0.08258398622274399	0.39380956	No	
+row_79	Vapb	vesicle-associated membrane protein, associated protein B and C [Source:MGI Symbol;Acc:MGI:1928744]	11816	-0.10738050192594528	0.38148287	No	
+row_80	Prox1	prospero homeobox 1 [Source:MGI Symbol;Acc:MGI:97772]	11865	-0.11154148727655411	0.38027513	No	
+row_81	Crebbp	CREB binding protein [Source:MGI Symbol;Acc:MGI:1098280]	13289	-0.23123279213905334	0.31838205	No	
+row_82	Srpk2	serine/arginine-rich protein specific kinase 2 [Source:MGI Symbol;Acc:MGI:1201408]	13940	-0.2890964150428772	0.29166684	No	
+row_83	Fbln1	fibulin 1 [Source:MGI Symbol;Acc:MGI:95487]	14316	-0.3262796700000763	0.27760717	No	
+row_84	Ltf	lactotransferrin [Source:MGI Symbol;Acc:MGI:96837]	15623	-0.45932307839393616	0.22289914	No	
+row_85	Mphosph8	M-phase phosphoprotein 8 [Source:MGI Symbol;Acc:MGI:1922589]	16163	-0.5251017808914185	0.20316686	No	
+row_86	Trim10	tripartite motif-containing 10 [Source:MGI Symbol;Acc:MGI:1338757]	17713	-0.7367098927497864	0.13990767	No	
+row_87	Ptx3	pentraxin related gene [Source:MGI Symbol;Acc:MGI:104641]	17792	-0.7495100498199463	0.1427656	No	
+row_88	Mid2	midline 2 [Source:MGI Symbol;Acc:MGI:1344333]	18271	-0.8311204314231873	0.12836652	No	
+row_89	Aicda	activation-induced cytidine deaminase [Source:MGI Symbol;Acc:MGI:1342279]	18654	-0.9029378890991211	0.11888448	No	
+row_90	Hmga2	high mobility group AT-hook 2 [Source:MGI Symbol;Acc:MGI:101761]	19437	-1.0754507780075073	0.09291657	No	
+row_91	Plscr2	phospholipid scramblase 2 [Source:MGI Symbol;Acc:MGI:1270860]	20040	-1.2426146268844604	0.07644388	No	
+row_92	Ifitm1	interferon induced transmembrane protein 1 [Source:MGI Symbol;Acc:MGI:1915963]	20079	-1.2511974573135376	0.0853525	No	
+row_93	Trim59	tripartite motif-containing 59 [Source:MGI Symbol;Acc:MGI:1914199]	21880	-2.0943703651428223	0.022347048	No	

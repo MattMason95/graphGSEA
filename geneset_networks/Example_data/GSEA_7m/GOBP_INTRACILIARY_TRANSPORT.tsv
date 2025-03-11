@@ -1,0 +1,53 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	Lca5l	Leber congenital amaurosis 5-like [Source:MGI Symbol;Acc:MGI:3041157]	2207	0.8698359131813049	-0.07946655	No	
+row_1	Bbs12	Bardet-Biedl syndrome 12 (human) [Source:MGI Symbol;Acc:MGI:2686651]	6122	0.36232104897499084	-0.24669646	No	
+row_2	Ttc30a2	tetratricopeptide repeat domain 30A2 [Source:MGI Symbol;Acc:MGI:3700200]	6717	0.30609428882598877	-0.2664804	No	
+row_3	Dynlt2b	dynein light chain Tctex-type 2B [Source:MGI Symbol;Acc:MGI:1913311]	7276	0.2615422308444977	-0.28564465	No	
+row_4	Ssna1	SS nuclear autoantigen 1 [Source:MGI Symbol;Acc:MGI:1915725]	7306	0.25896498560905457	-0.28117308	No	
+row_5	Kif3b	kinesin family member 3B [Source:MGI Symbol;Acc:MGI:107688]	7438	0.24892999231815338	-0.28149354	No	
+row_6	Ttc30a1	tetratricopeptide repeat domain 30A1 [Source:MGI Symbol;Acc:MGI:1926052]	9032	0.11821749061346054	-0.35020792	No	
+row_7	Cilk1	ciliogenesis associated kinase 1 [Source:MGI Symbol;Acc:MGI:1934157]	9213	0.1036357656121254	-0.3559606	No	
+row_8	Ift52	intraflagellar transport 52 [Source:MGI Symbol;Acc:MGI:2387217]	9714	0.06245405599474907	-0.37696338	No	
+row_9	Ift140	intraflagellar transport 140 [Source:MGI Symbol;Acc:MGI:2146906]	10160	0.027540728449821472	-0.3962807	No	
+row_10	Dync2h1	dynein cytoplasmic 2 heavy chain 1 [Source:MGI Symbol;Acc:MGI:107736]	10526	-3.5530325840227306E-4	-0.41262072	No	
+row_11	Pcm1	pericentriolar material 1 [Source:MGI Symbol;Acc:MGI:1277958]	11400	-0.07348652184009552	-0.45008385	No	
+row_12	Ttc21b	tetratricopeptide repeat domain 21B [Source:MGI Symbol;Acc:MGI:1920918]	11402	-0.07357180118560791	-0.44848928	No	
+row_13	Ccdc38	coiled-coil domain containing 38 [Source:MGI Symbol;Acc:MGI:2444738]	11568	-0.08754809945821762	-0.45392862	No	
+row_14	Ift172	intraflagellar transport 172 [Source:MGI Symbol;Acc:MGI:2682064]	12825	-0.19063274562358856	-0.50593555	No	
+row_15	Ift20	intraflagellar transport 20 [Source:MGI Symbol;Acc:MGI:1915585]	12881	-0.1964871734380722	-0.50402063	No	
+row_16	Lca5	Leber congenital amaurosis 5 (human) [Source:MGI Symbol;Acc:MGI:1923032]	13342	-0.23555007576942444	-0.5193748	No	
+row_17	Ssx2ip	synovial sarcoma, X 2 interacting protein [Source:MGI Symbol;Acc:MGI:2139150]	14351	-0.3304235637187958	-0.5571591	No	
+row_18	Cluap1	clusterin associated protein 1 [Source:MGI Symbol;Acc:MGI:1924029]	14463	-0.34178316593170166	-0.5545148	No	
+row_19	Kif17	kinesin family member 17 [Source:MGI Symbol;Acc:MGI:1098229]	14833	-0.37796398997306824	-0.5626198	No	
+row_20	Nme7	NME/NM23 family member 7 [Source:MGI Symbol;Acc:MGI:2449121]	16417	-0.5549547076225281	-0.62115455	No	
+row_21	Traf3ip1	TRAF3 interacting protein 1 [Source:MGI Symbol;Acc:MGI:1921269]	16764	-0.6027844548225403	-0.6232198	No	
+row_22	Ift22	intraflagellar transport 22 [Source:MGI Symbol;Acc:MGI:1914536]	17738	-0.7406665086746216	-0.6502952	Yes	
+row_23	Ift46	intraflagellar transport 46 [Source:MGI Symbol;Acc:MGI:1923818]	17794	-0.7497797608375549	-0.63605136	Yes	
+row_24	Hspb11	heat shock protein family B (small), member 11 [Source:MGI Symbol;Acc:MGI:1920188]	17830	-0.7558572292327881	-0.62077636	Yes	
+row_25	Dynll1	dynein light chain LC8-type 1 [Source:MGI Symbol;Acc:MGI:1861457]	17994	-0.7842080593109131	-0.6106026	Yes	
+row_26	Tub	tubby bipartite transcription factor [Source:MGI Symbol;Acc:MGI:2651573]	18426	-0.861883819103241	-0.6107014	Yes	
+row_27	Fuz	fuzzy planar cell polarity protein [Source:MGI Symbol;Acc:MGI:1917550]	18495	-0.8731899857521057	-0.5942899	Yes	
+row_28	Ift88	intraflagellar transport 88 [Source:MGI Symbol;Acc:MGI:98715]	18583	-0.8904038071632385	-0.57834584	Yes	
+row_29	Ift74	intraflagellar transport 74 [Source:MGI Symbol;Acc:MGI:1914944]	18794	-0.9284688234329224	-0.5670626	Yes	
+row_30	Arl3	ADP-ribosylation factor-like 3 [Source:MGI Symbol;Acc:MGI:1929699]	19020	-0.975049614906311	-0.5554133	Yes	
+row_31	Mak	male germ cell-associated kinase [Source:MGI Symbol;Acc:MGI:96913]	19435	-1.0754183530807495	-0.5499925	Yes	
+row_32	Ift57	intraflagellar transport 57 [Source:MGI Symbol;Acc:MGI:1921166]	19447	-1.0780751705169678	-0.5264627	Yes	
+row_33	Wdpcp	WD repeat containing planar cell polarity effector [Source:MGI Symbol;Acc:MGI:2144467]	19561	-1.1083968877792358	-0.5068256	Yes	
+row_34	Wdr19	WD repeat domain 19 [Source:MGI Symbol;Acc:MGI:2443231]	19807	-1.1757601499557495	-0.49159965	Yes	
+row_35	Ift27	intraflagellar transport 27 [Source:MGI Symbol;Acc:MGI:1914292]	19809	-1.1761912107467651	-0.46543562	Yes	
+row_36	Ift81	intraflagellar transport 81 [Source:MGI Symbol;Acc:MGI:1098597]	19851	-1.189515233039856	-0.44076625	Yes	
+row_37	Intu	inturned planar cell polarity protein [Source:MGI Symbol;Acc:MGI:2443752]	19991	-1.2258085012435913	-0.41967744	Yes	
+row_38	Ift80	intraflagellar transport 80 [Source:MGI Symbol;Acc:MGI:1915509]	20103	-1.2561451196670532	-0.39665857	Yes	
+row_39	Ift43	intraflagellar transport 43 [Source:MGI Symbol;Acc:MGI:1923661]	20353	-1.3365806341171265	-0.37802824	Yes	
+row_40	Ttc26	tetratricopeptide repeat domain 26 [Source:MGI Symbol;Acc:MGI:2444853]	20428	-1.360170841217041	-0.3510342	Yes	
+row_41	Klc3	kinesin light chain 3 [Source:MGI Symbol;Acc:MGI:1277971]	20755	-1.4760955572128296	-0.33274382	Yes	
+row_42	Ift122	intraflagellar transport 122 [Source:MGI Symbol;Acc:MGI:1932386]	20784	-1.4873918294906616	-0.30085465	Yes	
+row_43	Wdr35	WD repeat domain 35 [Source:MGI Symbol;Acc:MGI:1921932]	20842	-1.5095858573913574	-0.26976982	Yes	
+row_44	Dync2li1	dynein cytoplasmic 2 light intermediate chain 1 [Source:MGI Symbol;Acc:MGI:1913996]	21049	-1.5982316732406616	-0.24338324	Yes	
+row_45	Dync2i1	dynein 2 intermediate chain 1 [Source:MGI Symbol;Acc:MGI:2445085]	21131	-1.634171724319458	-0.21059722	Yes	
+row_46	Rpgr	retinitis pigmentosa GTPase regulator [Source:MGI Symbol;Acc:MGI:1344037]	21203	-1.6668344736099243	-0.17663549	Yes	
+row_47	Ttc30b	tetratricopeptide repeat domain 30B [Source:MGI Symbol;Acc:MGI:1919671]	21275	-1.7002956867218018	-0.14192817	Yes	
+row_48	Cep131	centrosomal protein 131 [Source:MGI Symbol;Acc:MGI:107440]	21341	-1.7375465631484985	-0.10612203	Yes	
+row_49	Dync2i2	dynein 2 intermediate chain 2 [Source:MGI Symbol;Acc:MGI:1919070]	21394	-1.7761459350585938	-0.068873554	Yes	
+row_50	Bbs1	Bardet-Biedl syndrome 1 (human) [Source:MGI Symbol;Acc:MGI:1277215]	21649	-1.9343695640563965	-0.037146755	Yes	
+row_51	Ttc21a	tetratricopeptide repeat domain 21A [Source:MGI Symbol;Acc:MGI:1921302]	22313	-3.1303493976593018	0.0029111987	Yes	
