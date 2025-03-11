@@ -1,4 +1,4 @@
-### graphGSEA
+![alt text](https://github.com/MattMason95/graphGSEA/blob/94324aac74576dab7605851f5da81bfb620f3af7/graphGSEA/graphGSEA.png)
 
 ## Table of contents
 - [About](#about)
