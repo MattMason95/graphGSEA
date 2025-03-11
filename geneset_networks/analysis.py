@@ -73,68 +73,68 @@ def significantGenesets(zippedList,threshold,unzip=False):
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 def clusterInformation(graph,clustersize):
-    '''
-    This function will perform several different manipulations:
-    - Filtering the subgraph network to exclude subgraphs below a defined threshold
-    - Evaluate annotation terminology with tokenisation
-    - Compute average normalised enrichment score from the constituent genesets.
-    '''
-  
-    from collections import Counter
+  '''
+  This function will perform several different manipulations:
+  - Filtering the subgraph network to exclude subgraphs below a defined threshold
+  - Evaluate annotation terminology with tokenisation
+  - Compute average normalised enrichment score from the constituent genesets.
+  '''
 
-    ## Access all of the subgraphs detected within the NetworkX graph object
-    subGraphs = nx.connected_components(graph)
-    
-    largeClusters = []
-    graphIndex = []
-    
-    ## Iteratively filter subgraphs that are larger than the user-defined clustersize threshold
-    for idx,i in enumerate(subGraphs):
-        if len(i) > clustersize:
-            largeClusters.append(i)
-            graphIndex.append(idx)
-        else:
-            continue
-    outputClusters = list(zip(graphIndex,largeClusters))
+  from collections import Counter
 
-    ## Prepare output containers for geneset tokenisation 
-    commonWords = []
-    clusterIndex = []
-    
-    ## Iterate through the genesets within each subgraph and quantify tokens 
-    for idx, i in outputClusters:
-        tokens = [item for sublist in [x.split('_') for x in i] for item in sublist]
-        counter = Counter(tokens)
-        highestCounts = counter.most_common()
-        clusterIndex.append(idx)
-        commonWords.append(highestCounts)
-    
-    clusterTokens = list(zip(clusterIndex,commonWords))
+  ## Access all of the subgraphs detected within the NetworkX graph object
+  subGraphs = nx.connected_components(graph)
 
-    return clusterTokens, outputClusters
+  largeClusters = []
+  graphIndex = []
+
+  ## Iteratively filter subgraphs that are larger than the user-defined clustersize threshold
+  for idx,i in enumerate(subGraphs):
+      if len(i) > clustersize:
+          largeClusters.append(i)
+          graphIndex.append(idx)
+      else:
+          continue
+  outputClusters = list(zip(graphIndex,largeClusters))
+
+  ## Prepare output containers for geneset tokenisation 
+  commonWords = []
+  clusterIndex = []
+
+  ## Iterate through the genesets within each subgraph and quantify tokens 
+  for idx, i in outputClusters:
+      tokens = [item for sublist in [x.split('_') for x in i] for item in sublist]
+      counter = Counter(tokens)
+      highestCounts = counter.most_common()
+      clusterIndex.append(idx)
+      commonWords.append(highestCounts)
+
+  clusterTokens = list(zip(clusterIndex,commonWords))
+
+  return clusterTokens, outputClusters
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 def getClusterNES(data):
-     '''
-     This function will access all of the normalised enrichment scores for the constituent genesets in each subgraph and compute an overall average for the subgraph. 
-     '''
-    clusterIndex, clusterLists = zip(*data)
-    
-    averageNES = []
-    moduleIndex = []
-    
-    ## Iterate through the genesets in each subgraph, extract the normalised enrichment scores, and compute an average for the whole subgraph
-    for i in range(len(clusterLists)):
-        moduleIndex.append(clusterIndex[i])
-    
-        moduleNES = []
-        for j in clusterLists[i]:
-            nes = metaDf['nes'][metaDf['node'] == j].values[0]
-            moduleNES.append(nes)
-    
-        average = np.mean(moduleNES)
-        averageNES.append(average)
-    
-    clusterNES = list(zip(moduleIndex,averageNES))
-    return clusterNES
+  '''
+  This function will access all of the normalised enrichment scores for the constituent genesets in each subgraph and compute an overall average for the subgraph. 
+  '''
+  clusterIndex, clusterLists = zip(*data)
+
+  averageNES = []
+  moduleIndex = []
+
+## Iterate through the genesets in each subgraph, extract the normalised enrichment scores, and compute an average for the whole subgraph
+  for i in range(len(clusterLists)):
+    moduleIndex.append(clusterIndex[i])
+
+    moduleNES = []
+    for j in clusterLists[i]:
+        nes = metaDf['nes'][metaDf['node'] == j].values[0]
+        moduleNES.append(nes)
+
+    average = np.mean(moduleNES)
+    averageNES.append(average)
+
+  clusterNES = list(zip(moduleIndex,averageNES))
+  return clusterNES
