@@ -1,0 +1,183 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	Aoah	acyloxyacyl hydrolase [Source:MGI Symbol;Acc:MGI:1350928]	1	4.453059196472168	0.020426638	Yes	
+row_1	Oasl1	2'-5' oligoadenylate synthetase-like 1 [Source:MGI Symbol;Acc:MGI:2180849]	2	4.315937042236328	0.040267948	Yes	
+row_2	Ifit3	interferon-induced protein with tetratricopeptide repeats 3 [Source:MGI Symbol;Acc:MGI:1101055]	19	3.3696792125701904	0.055038285	Yes	
+row_3	Iigp1	interferon inducible GTPase 1 [Source:MGI Symbol;Acc:MGI:1926259]	46	3.016521453857422	0.06773457	Yes	
+row_4	Hck	hemopoietic cell kinase [Source:MGI Symbol;Acc:MGI:96052]	49	2.981877326965332	0.08135281	Yes	
+row_5	Scimp	SLP adaptor and CSK interacting membrane protein [Source:MGI Symbol;Acc:MGI:3610314]	52	2.9619243144989014	0.09487932	Yes	
+row_6	Cd74	CD74 antigen (invariant polypeptide of major histocompatibility complex, class II antigen-associated) [Source:MGI Symbol;Acc:MGI:96534]	59	2.8837435245513916	0.10786622	Yes	
+row_7	Il18bp	interleukin 18 binding protein [Source:MGI Symbol;Acc:MGI:1333800]	68	2.8385562896728516	0.12055528	Yes	
+row_8	Il21r	interleukin 21 receptor [Source:MGI Symbol;Acc:MGI:1890475]	74	2.7973854541778564	0.13319021	Yes	
+row_9	Fgl2	fibrinogen-like protein 2 [Source:MGI Symbol;Acc:MGI:103266]	79	2.758100986480713	0.1456896	Yes	
+row_10	Sp110	Sp110 nuclear body protein [Source:MGI Symbol;Acc:MGI:1923364]	88	2.698460340499878	0.15773462	Yes	
+row_11	Ebi3	Epstein-Barr virus induced gene 3 [Source:MGI Symbol;Acc:MGI:1354171]	94	2.649044990539551	0.1696876	Yes	
+row_12	Igtp	interferon gamma induced GTPase [Source:MGI Symbol;Acc:MGI:107729]	95	2.643606185913086	0.18184084	Yes	
+row_13	Slfn1	schlafen 1 [Source:MGI Symbol;Acc:MGI:1313259]	96	2.6435697078704834	0.19399391	Yes	
+row_14	B2m	beta-2 microglobulin [Source:MGI Symbol;Acc:MGI:88127]	99	2.6254208087921143	0.20597345	Yes	
+row_15	Phf11b	PHD finger protein 11B [Source:MGI Symbol;Acc:MGI:3645789]	100	2.6253902912139893	0.21804294	Yes	
+row_16	Sdc3	syndecan 3 [Source:MGI Symbol;Acc:MGI:1349163]	132	2.5010435581207275	0.2281442	Yes	
+row_17	Themis2	thymocyte selection associated family member 2 [Source:MGI Symbol;Acc:MGI:2446213]	133	2.4973506927490234	0.23962507	Yes	
+row_18	Ly9	lymphocyte antigen 9 [Source:MGI Symbol;Acc:MGI:96885]	137	2.474153757095337	0.25086415	Yes	
+row_19	Sp140	Sp140 nuclear body protein [Source:MGI Symbol;Acc:MGI:3702467]	142	2.428924798965454	0.26185024	Yes	
+row_20	Cxcl10	chemokine (C-X-C motif) ligand 10 [Source:MGI Symbol;Acc:MGI:1352450]	144	2.4240663051605225	0.27294916	Yes	
+row_21	Tgtp2	T cell specific GTPase 2 [Source:MGI Symbol;Acc:MGI:3710083]	175	2.319833278656006	0.2822624	Yes	
+row_22	Zbp1	Z-DNA binding protein 1 [Source:MGI Symbol;Acc:MGI:1927449]	204	2.243920087814331	0.29131678	Yes	
+row_23	Ifi47	interferon gamma inducible protein 47 [Source:MGI Symbol;Acc:MGI:99448]	219	2.2064599990844727	0.30082962	Yes	
+row_24	Irf1	interferon regulatory factor 1 [Source:MGI Symbol;Acc:MGI:96590]	226	2.1873421669006348	0.31061503	Yes	
+row_25	Nlrc5	NLR family, CARD domain containing 5 [Source:MGI Symbol;Acc:MGI:3612191]	235	2.1447503566741943	0.3201145	Yes	
+row_26	Irgm1	immunity-related GTPase family M member 1 [Source:MGI Symbol;Acc:MGI:107567]	250	2.1035046577453613	0.32915404	Yes	
+row_27	Acod1	aconitate decarboxylase 1 [Source:MGI Symbol;Acc:MGI:103206]	272	2.047245979309082	0.33761963	Yes	
+row_28	Slc16a10	solute carrier family 16 (monocarboxylic acid transporters), member 10 [Source:MGI Symbol;Acc:MGI:1919722]	296	2.00329327583313	0.345793	Yes	
+row_29	Tapbpl	TAP binding protein-like [Source:MGI Symbol;Acc:MGI:2384853]	308	1.98310124874115	0.35441422	Yes	
+row_30	Aftph	aftiphilin [Source:MGI Symbol;Acc:MGI:1923012]	316	1.9669116735458374	0.36314118	Yes	
+row_31	Slc15a3	solute carrier family 15, member 3 [Source:MGI Symbol;Acc:MGI:1929691]	319	1.9648847579956055	0.37208408	Yes	
+row_32	Mid1	midline 1 [Source:MGI Symbol;Acc:MGI:1100537]	321	1.9597190618515015	0.3810483	Yes	
+row_33	Stat1	signal transducer and activator of transcription 1 [Source:MGI Symbol;Acc:MGI:103063]	324	1.9518613815307617	0.38993132	Yes	
+row_34	Trim14	tripartite motif-containing 14 [Source:MGI Symbol;Acc:MGI:1921985]	330	1.9412230253219604	0.3986303	Yes	
+row_35	Batf2	basic leucine zipper transcription factor, ATF-like 2 [Source:MGI Symbol;Acc:MGI:1921731]	338	1.9303083419799805	0.40718898	Yes	
+row_36	Cst7	cystatin F (leukocystatin) [Source:MGI Symbol;Acc:MGI:1298217]	340	1.9230457544326782	0.4159846	Yes	
+row_37	Psme1	proteasome (prosome, macropain) activator subunit 1 (PA28 alpha) [Source:MGI Symbol;Acc:MGI:1096367]	357	1.8820322751998901	0.4239159	Yes	
+row_38	Irf5	interferon regulatory factor 5 [Source:MGI Symbol;Acc:MGI:1350924]	366	1.8660202026367188	0.432134	Yes	
+row_39	Gbp4	guanylate binding protein 4 [Source:MGI Symbol;Acc:MGI:97072]	368	1.860465168952942	0.4406419	Yes	
+row_40	Fermt3	fermitin family member 3 [Source:MGI Symbol;Acc:MGI:2147790]	369	1.8603448867797852	0.4491943	Yes	
+row_41	Clec12a	C-type lectin domain family 12, member a [Source:MGI Symbol;Acc:MGI:3040968]	375	1.848021149635315	0.45746484	Yes	
+row_42	Relb	avian reticuloendotheliosis viral (v-rel) oncogene related B [Source:MGI Symbol;Acc:MGI:103289]	388	1.8254129886627197	0.46531603	Yes	
+row_43	Ccl4	chemokine (C-C motif) ligand 4 [Source:MGI Symbol;Acc:MGI:98261]	391	1.8173683881759644	0.47358078	Yes	
+row_44	Cybb	cytochrome b-245, beta polypeptide [Source:MGI Symbol;Acc:MGI:88574]	395	1.8144333362579346	0.48178697	Yes	
+row_45	Cd274	CD274 antigen [Source:MGI Symbol;Acc:MGI:1926446]	466	1.7323538064956665	0.48659742	Yes	
+row_46	Psmb9	proteasome (prosome, macropain) subunit, beta type 9 (large multifunctional peptidase 2) [Source:MGI Symbol;Acc:MGI:1346526]	489	1.708016276359558	0.49345842	Yes	
+row_47	Espl1	extra spindle pole bodies 1, separase [Source:MGI Symbol;Acc:MGI:2146156]	522	1.6784534454345703	0.499733	Yes	
+row_48	Ptpn22	protein tyrosine phosphatase, non-receptor type 22 (lymphoid) [Source:MGI Symbol;Acc:MGI:107170]	529	1.6725187301635742	0.5071516	Yes	
+row_49	Ube2l6	ubiquitin-conjugating enzyme E2L 6 [Source:MGI Symbol;Acc:MGI:1914500]	560	1.64492928981781	0.51336217	Yes	
+row_50	Il27	interleukin 27 [Source:MGI Symbol;Acc:MGI:2384409]	588	1.623626470565796	0.51961	Yes	
+row_51	Vasp	vasodilator-stimulated phosphoprotein [Source:MGI Symbol;Acc:MGI:109268]	604	1.6099462509155273	0.5263355	Yes	
+row_52	Csk	c-src tyrosine kinase [Source:MGI Symbol;Acc:MGI:88537]	630	1.5835384130477905	0.53248906	Yes	
+row_53	H2-M3	histocompatibility 2, M region locus 3 [Source:MGI Symbol;Acc:MGI:95915]	637	1.5770299434661865	0.5394687	Yes	
+row_54	Tmem106a	transmembrane protein 106A [Source:MGI Symbol;Acc:MGI:1922056]	638	1.576654076576233	0.5467169	Yes	
+row_55	Irf8	interferon regulatory factor 8 [Source:MGI Symbol;Acc:MGI:96395]	640	1.5747724771499634	0.55391145	Yes	
+row_56	Gbp5	guanylate binding protein 5 [Source:MGI Symbol;Acc:MGI:2429943]	660	1.5476489067077637	0.5601704	Yes	
+row_57	Ppp1r21	protein phosphatase 1, regulatory subunit 21 [Source:MGI Symbol;Acc:MGI:1921075]	954	1.3170465230941772	0.5530251	Yes	
+row_58	Il2rb	interleukin 2 receptor, beta chain [Source:MGI Symbol;Acc:MGI:96550]	1000	1.2846797704696655	0.55690384	Yes	
+row_59	Itgb2	integrin beta 2 [Source:MGI Symbol;Acc:MGI:96611]	1007	1.2828811407089233	0.5625312	Yes	
+row_60	Kcnj10	potassium inwardly-rectifying channel, subfamily J, member 10 [Source:MGI Symbol;Acc:MGI:1194504]	1011	1.2799148559570312	0.5682801	Yes	
+row_61	H2-Q10	histocompatibility 2, Q region locus 10 [Source:MGI Symbol;Acc:MGI:95929]	1025	1.2673009634017944	0.5735205	Yes	
+row_62	Arhgef2	rho/rac guanine nucleotide exchange factor (GEF) 2 [Source:MGI Symbol;Acc:MGI:103264]	1056	1.2500146627426147	0.57791555	Yes	
+row_63	Cxcl13	chemokine (C-X-C motif) ligand 13 [Source:MGI Symbol;Acc:MGI:1888499]	1075	1.2409578561782837	0.58280957	Yes	
+row_64	Rnf34	ring finger protein 34 [Source:MGI Symbol;Acc:MGI:2153340]	1086	1.2346014976501465	0.5880348	Yes	
+row_65	Rab8a	RAB8A, member RAS oncogene family [Source:MGI Symbol;Acc:MGI:96960]	1137	1.209280014038086	0.59134156	Yes	
+row_66	Ltb	lymphotoxin B [Source:MGI Symbol;Acc:MGI:104796]	1146	1.2064578533172607	0.5965275	Yes	
+row_67	Sh3bp1	SH3-domain binding protein 1 [Source:MGI Symbol;Acc:MGI:104603]	1169	1.1965762376785278	0.6010373	Yes	
+row_68	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	1173	1.1942837238311768	0.60639256	Yes	
+row_69	Calhm6	calcium homeostasis modulator family member 6 [Source:MGI Symbol;Acc:MGI:2443082]	1186	1.18843412399292	0.6113154	Yes	
+row_70	Tank	TRAF family member-associated Nf-kappa B activator [Source:MGI Symbol;Acc:MGI:107676]	1200	1.1809695959091187	0.6161589	Yes	
+row_71	Sh2b3	SH2B adaptor protein 3 [Source:MGI Symbol;Acc:MGI:893598]	1291	1.1488150358200073	0.6173857	Yes	
+row_72	Nbeal2	neurobeachin-like 2 [Source:MGI Symbol;Acc:MGI:2448554]	1293	1.1480138301849365	0.6226183	Yes	
+row_73	Ccrl2	chemokine (C-C motif) receptor-like 2 [Source:MGI Symbol;Acc:MGI:1920904]	1305	1.1419427394866943	0.6273725	Yes	
+row_74	H2-DMa	histocompatibility 2, class II, locus DMa [Source:MGI Symbol;Acc:MGI:95921]	1340	1.1279895305633545	0.6310264	Yes	
+row_75	Havcr2	hepatitis A virus cellular receptor 2 [Source:MGI Symbol;Acc:MGI:2159682]	1358	1.1195122003555298	0.63540715	Yes	
+row_76	Cmtr1	cap methyltransferase 1 [Source:MGI Symbol;Acc:MGI:1921407]	1368	1.1158744096755981	0.6401316	Yes	
+row_77	Morc3	microrchidia 3 [Source:MGI Symbol;Acc:MGI:2136841]	1413	1.0976767539978027	0.6431956	Yes	
+row_78	Slc25a25	solute carrier family 25 (mitochondrial carrier, phosphate carrier), member 25 [Source:MGI Symbol;Acc:MGI:1915913]	1424	1.0926686525344849	0.6477684	Yes	
+row_79	Zbtb32	zinc finger and BTB domain containing 32 [Source:MGI Symbol;Acc:MGI:1891838]	1432	1.0898337364196777	0.6524632	Yes	
+row_80	Mapk14	mitogen-activated protein kinase 14 [Source:MGI Symbol;Acc:MGI:1346865]	1452	1.083935022354126	0.65659034	Yes	
+row_81	Nrm	nurim (nuclear envelope membrane protein) [Source:MGI Symbol;Acc:MGI:2146855]	1509	1.059316635131836	0.65893734	Yes	
+row_82	Cd300ld2	CD300 molecule like family member D2 [Source:MGI Symbol;Acc:MGI:3649405]	1530	1.0521392822265625	0.66287327	Yes	
+row_83	Slamf8	SLAM family member 8 [Source:MGI Symbol;Acc:MGI:1921998]	1533	1.0518094301223755	0.6676186	Yes	
+row_84	Nadk	NAD kinase [Source:MGI Symbol;Acc:MGI:2183149]	1575	1.0347654819488525	0.6705285	Yes	
+row_85	Parp2	poly (ADP-ribose) polymerase family, member 2 [Source:MGI Symbol;Acc:MGI:1341112]	1623	1.018272876739502	0.6730923	Yes	
+row_86	Erlin1	ER lipid raft associated 1 [Source:MGI Symbol;Acc:MGI:2387613]	1719	0.9851348996162415	0.67334133	Yes	
+row_87	Inpp5b	inositol polyphosphate-5-phosphatase B [Source:MGI Symbol;Acc:MGI:103257]	1731	0.9816681742668152	0.67735875	Yes	
+row_88	Pxn	paxillin [Source:MGI Symbol;Acc:MGI:108295]	1773	0.966361403465271	0.67995423	Yes	
+row_89	Tnfrsf1a	tumor necrosis factor receptor superfamily, member 1a [Source:MGI Symbol;Acc:MGI:1314884]	1825	0.9528042674064636	0.6820369	Yes	
+row_90	Zfp513	zinc finger protein 513 [Source:MGI Symbol;Acc:MGI:2141255]	1828	0.952494204044342	0.68632555	Yes	
+row_91	Gbp3	guanylate binding protein 3 [Source:MGI Symbol;Acc:MGI:1926263]	1838	0.9496152997016907	0.6902857	Yes	
+row_92	Riok3	RIO kinase 3 [Source:MGI Symbol;Acc:MGI:1914128]	1865	0.9431782960891724	0.6934504	Yes	
+row_93	Stat6	signal transducer and activator of transcription 6 [Source:MGI Symbol;Acc:MGI:103034]	1929	0.9284353256225586	0.69488037	Yes	
+row_94	Slc11a1	solute carrier family 11 (proton-coupled divalent metal ion transporters), member 1 [Source:MGI Symbol;Acc:MGI:1345275]	1962	0.9217579364776611	0.69767624	Yes	
+row_95	Vav2	vav 2 oncogene [Source:MGI Symbol;Acc:MGI:102718]	1978	0.9185351729393005	0.7012232	Yes	
+row_96	Il12rb2	interleukin 12 receptor, beta 2 [Source:MGI Symbol;Acc:MGI:1270861]	1981	0.9178255200386047	0.70535254	Yes	
+row_97	Klrd1	killer cell lectin-like receptor, subfamily D, member 1 [Source:MGI Symbol;Acc:MGI:1196275]	2062	0.9023011326789856	0.70589656	Yes	
+row_98	Zfp276	zinc finger protein (C2H2 type) 276 [Source:MGI Symbol;Acc:MGI:1888495]	2191	0.8722541332244873	0.70413995	Yes	
+row_99	Max	Max protein [Source:MGI Symbol;Acc:MGI:96921]	2242	0.8594594597816467	0.7058385	Yes	
+row_100	Sipa1	signal-induced proliferation associated gene 1 [Source:MGI Symbol;Acc:MGI:107576]	2244	0.8589310646057129	0.7097421	Yes	
+row_101	Arf2	ADP-ribosylation factor 2 [Source:MGI Symbol;Acc:MGI:99595]	2249	0.8585665822029114	0.71350896	Yes	
+row_102	Vrk2	vaccinia related kinase 2 [Source:MGI Symbol;Acc:MGI:1917172]	2459	0.8180415034294128	0.707854	Yes	
+row_103	Lmf2	lipase maturation factor 2 [Source:MGI Symbol;Acc:MGI:2146015]	2473	0.8159862756729126	0.7110196	Yes	
+row_104	Wasf2	WASP family, member 2 [Source:MGI Symbol;Acc:MGI:1098641]	2501	0.8122268319129944	0.7135372	Yes	
+row_105	Slc15a4	solute carrier family 15, member 4 [Source:MGI Symbol;Acc:MGI:2140796]	2510	0.8107174634933472	0.7169038	Yes	
+row_106	Gnai2	guanine nucleotide binding protein (G protein), alpha inhibiting 2 [Source:MGI Symbol;Acc:MGI:95772]	2517	0.809919536113739	0.7203569	Yes	
+row_107	Tceanc2	transcription elongation factor A (SII) N-terminal and central domain containing 2 [Source:MGI Symbol;Acc:MGI:1913776]	2562	0.7986295819282532	0.72204614	Yes	
+row_108	Donson	downstream neighbor of SON [Source:MGI Symbol;Acc:MGI:1890621]	2746	0.7661874890327454	0.7173241	Yes	
+row_109	Pomp	proteasome maturation protein [Source:MGI Symbol;Acc:MGI:1913787]	2917	0.7400522828102112	0.7130676	Yes	
+row_110	Git2	GIT ArfGAP 2 [Source:MGI Symbol;Acc:MGI:1347053]	2927	0.7372545003890991	0.71605146	Yes	
+row_111	Emp3	epithelial membrane protein 3 [Source:MGI Symbol;Acc:MGI:1098729]	2980	0.7280208468437195	0.7170557	Yes	
+row_112	Rfc5	replication factor C (activator 1) 5 [Source:MGI Symbol;Acc:MGI:1919401]	2992	0.7255441546440125	0.7198956	Yes	
+row_113	Pip4k2a	phosphatidylinositol-5-phosphate 4-kinase, type II, alpha [Source:MGI Symbol;Acc:MGI:1298206]	3049	0.717005729675293	0.720669	Yes	
+row_114	Mapre2	microtubule-associated protein, RP/EB family, member 2 [Source:MGI Symbol;Acc:MGI:106271]	3192	0.6963399648666382	0.7174729	Yes	
+row_115	Cnot8	CCR4-NOT transcription complex, subunit 8 [Source:MGI Symbol;Acc:MGI:1916375]	3213	0.6928619146347046	0.71975714	Yes	
+row_116	Rela	v-rel reticuloendotheliosis viral oncogene homolog A (avian) [Source:MGI Symbol;Acc:MGI:103290]	3245	0.6889782547950745	0.72152793	Yes	
+row_117	Gimap4	GTPase, IMAP family member 4 [Source:MGI Symbol;Acc:MGI:1349656]	3280	0.6843265891075134	0.7231422	Yes	
+row_118	Lrch4	leucine-rich repeats and calponin homology (CH) domain containing 4 [Source:MGI Symbol;Acc:MGI:1917193]	3336	0.6769334673881531	0.7237764	Yes	
+row_119	Ubd	ubiquitin D [Source:MGI Symbol;Acc:MGI:1344410]	3369	0.6719878911972046	0.72542405	Yes	
+row_120	Gga3	golgi associated, gamma adaptin ear containing, ARF binding protein 3 [Source:MGI Symbol;Acc:MGI:2384159]	3388	0.6699573397636414	0.7276931	Yes	
+row_121	Pik3r5	phosphoinositide-3-kinase regulatory subunit 5 [Source:MGI Symbol;Acc:MGI:2443588]	3406	0.6677163243293762	0.7299968	Yes	
+row_122	B4galt5	UDP-Gal:betaGlcNAc beta 1,4-galactosyltransferase, polypeptide 5 [Source:MGI Symbol;Acc:MGI:1927169]	3442	0.662727952003479	0.73146677	Yes	
+row_123	Cxcr6	chemokine (C-X-C motif) receptor 6 [Source:MGI Symbol;Acc:MGI:1934582]	3500	0.6552982330322266	0.73191136	Yes	
+row_124	Gimap3	GTPase, IMAP family member 3 [Source:MGI Symbol;Acc:MGI:1932723]	3554	0.6477549076080322	0.73250157	Yes	
+row_125	Ccl2	chemokine (C-C motif) ligand 2 [Source:MGI Symbol;Acc:MGI:98259]	3889	0.6037455797195435	0.72023	No	
+row_126	Gnpda1	glucosamine-6-phosphate deaminase 1 [Source:MGI Symbol;Acc:MGI:1347054]	3988	0.5895726084709167	0.7185254	No	
+row_127	Ppp6r1	protein phosphatase 6, regulatory subunit 1 [Source:MGI Symbol;Acc:MGI:2442163]	4221	0.5627865195274353	0.7106608	No	
+row_128	Ciao3	cytosolic iron-sulfur assembly component 3 [Source:MGI Symbol;Acc:MGI:1914813]	4240	0.5604416728019714	0.71242636	No	
+row_129	Ifi44l	interferon-induced protein 44 like [Source:MGI Symbol;Acc:MGI:95975]	4400	0.5393045544624329	0.7077425	No	
+row_130	Snx5	sorting nexin 5 [Source:MGI Symbol;Acc:MGI:1916428]	4677	0.5077188014984131	0.6976425	No	
+row_131	Cry1	cryptochrome 1 (photolyase-like) [Source:MGI Symbol;Acc:MGI:1270841]	4726	0.5015265345573425	0.6977857	No	
+row_132	Itgb7	integrin beta 7 [Source:MGI Symbol;Acc:MGI:96616]	4787	0.4951373040676117	0.69735885	No	
+row_133	Ik	IK cytokine [Source:MGI Symbol;Acc:MGI:1345142]	4997	0.47155284881591797	0.690111	No	
+row_134	Pip4p1	phosphatidylinositol-4,5-bisphosphate 4-phosphatase 1 [Source:MGI Symbol;Acc:MGI:2448501]	5234	0.447309285402298	0.6815353	No	
+row_135	Ermard	ER membrane associated RNA degradation [Source:MGI Symbol;Acc:MGI:1917317]	5402	0.4328368902206421	0.6760016	No	
+row_136	Mark2	MAP/microtubule affinity regulating kinase 2 [Source:MGI Symbol;Acc:MGI:99638]	5492	0.4233880341053009	0.67393845	No	
+row_137	Naa60	N(alpha)-acetyltransferase 60, NatF catalytic subunit [Source:MGI Symbol;Acc:MGI:1922013]	5511	0.4219805598258972	0.6750675	No	
+row_138	Klrc1	killer cell lectin-like receptor subfamily C, member 1 [Source:MGI Symbol;Acc:MGI:1336161]	5517	0.42133820056915283	0.6767792	No	
+row_139	Ptpa	protein phosphatase 2 protein activator [Source:MGI Symbol;Acc:MGI:1346006]	5952	0.37887170910835266	0.6589688	No	
+row_140	Gca	grancalcin [Source:MGI Symbol;Acc:MGI:1918521]	6104	0.3644865155220032	0.6538417	No	
+row_141	Cfb	complement factor B [Source:MGI Symbol;Acc:MGI:105975]	6162	0.35810115933418274	0.65292007	No	
+row_142	Hk3	hexokinase 3 [Source:MGI Symbol;Acc:MGI:2670962]	6223	0.35145601630210876	0.6518327	No	
+row_143	Vps54	VPS54 GARP complex subunit [Source:MGI Symbol;Acc:MGI:2178798]	6677	0.3094390034675598	0.6328471	No	
+row_144	Lrp10	low-density lipoprotein receptor-related protein 10 [Source:MGI Symbol;Acc:MGI:1929480]	6767	0.3025222420692444	0.6302283	No	
+row_145	G6pd2	glucose-6-phosphate dehydrogenase 2 [Source:MGI Symbol;Acc:MGI:105977]	6812	0.29901623725891113	0.6296207	No	
+row_146	Rnf13	ring finger protein 13 [Source:MGI Symbol;Acc:MGI:1346341]	6814	0.29897284507751465	0.6309501	No	
+row_147	Axin1	axin 1 [Source:MGI Symbol;Acc:MGI:1096327]	7208	0.2670918405056	0.61447287	No	
+row_148	Csl	citrate synthase like [Source:MGI Symbol;Acc:MGI:1919082]	7334	0.2565148174762726	0.61002076	No	
+row_149	Calm3	calmodulin 3 [Source:MGI Symbol;Acc:MGI:103249]	7465	0.2460697591304779	0.6052953	No	
+row_150	Eif4enif1	eukaryotic translation initiation factor 4E nuclear import factor 1 [Source:MGI Symbol;Acc:MGI:1921453]	7593	0.23611214756965637	0.6006593	No	
+row_151	Cenpj	centromere protein J [Source:MGI Symbol;Acc:MGI:2684927]	7927	0.20706471800804138	0.5866092	No	
+row_152	Hmga1b	high mobility group AT-hook 1B [Source:MGI Symbol;Acc:MGI:96161]	8019	0.2004239857196808	0.58343095	No	
+row_153	Sec24b	Sec24 related gene family, member B (S. cerevisiae) [Source:MGI Symbol;Acc:MGI:2139764]	8363	0.171405628323555	0.56876636	No	
+row_154	Slc28a2	solute carrier family 28 (sodium-coupled nucleoside transporter), member 2 [Source:MGI Symbol;Acc:MGI:1913105]	8726	0.14268334209918976	0.5531138	No	
+row_155	Pank2	pantothenate kinase 2 [Source:MGI Symbol;Acc:MGI:1921700]	8813	0.13541744649410248	0.54986197	No	
+row_156	Zbtb18	zinc finger and BTB domain containing 18 [Source:MGI Symbol;Acc:MGI:1353609]	8844	0.1322624385356903	0.54911846	No	
+row_157	Aldoart2	aldolase 1 A, retrogene 2 [Source:MGI Symbol;Acc:MGI:1931052]	8908	0.1269351840019226	0.5468638	No	
+row_158	Sik3	SIK family kinase 3 [Source:MGI Symbol;Acc:MGI:2446296]	8934	0.12593857944011688	0.5463165	No	
+row_159	Cd247	CD247 antigen [Source:MGI Symbol;Acc:MGI:88334]	8938	0.12574951350688934	0.5467594	No	
+row_160	Srprb	signal recognition particle receptor, B subunit [Source:MGI Symbol;Acc:MGI:102964]	9194	0.10564614832401276	0.53575706	No	
+row_161	Zfp691	zinc finger protein 691 [Source:MGI Symbol;Acc:MGI:3041163]	9278	0.09884589910507202	0.53247225	No	
+row_162	Cherp	calcium homeostasis endoplasmic reticulum protein [Source:MGI Symbol;Acc:MGI:106417]	10542	-0.002097357762977481	0.4755823	No	
+row_163	Ly6c2	lymphocyte antigen 6 complex, locus C2 [Source:MGI Symbol;Acc:MGI:3712069]	11115	-0.04778563231229782	0.45003274	No	
+row_164	Atp6v0a2	ATPase, H+ transporting, lysosomal V0 subunit A2 [Source:MGI Symbol;Acc:MGI:104855]	12593	-0.170261949300766	0.38427496	No	
+row_165	Irak1	interleukin-1 receptor-associated kinase 1 [Source:MGI Symbol;Acc:MGI:107420]	12670	-0.17753635346889496	0.38166723	No	
+row_166	Scaf1	SR-related CTD-associated factor 1 [Source:MGI Symbol;Acc:MGI:2141980]	13190	-0.22253455221652985	0.35930875	No	
+row_167	Gzma	granzyme A [Source:MGI Symbol;Acc:MGI:109266]	13933	-0.28860828280448914	0.3272076	No	
+row_168	Upp1	uridine phosphorylase 1 [Source:MGI Symbol;Acc:MGI:1097668]	13987	-0.29301396012306213	0.32616693	No	
+row_169	Spn	sialophorin [Source:MGI Symbol;Acc:MGI:98384]	14209	-0.31624913215637207	0.3176645	No	
+row_170	Babam1	BRISC and BRCA1 A complex member 1 [Source:MGI Symbol;Acc:MGI:1915501]	14678	-0.3625015318393707	0.29824707	No	
+row_171	Nbdy	negative regulator of P-body association [Source:MGI Symbol;Acc:MGI:1917373]	14921	-0.3869035243988037	0.2891234	No	
+row_172	Kbtbd11	kelch repeat and BTB (POZ) domain containing 11 [Source:MGI Symbol;Acc:MGI:1922151]	15633	-0.461159884929657	0.25921208	No	
+row_173	Il12rb1	interleukin 12 receptor, beta 1 [Source:MGI Symbol;Acc:MGI:104579]	15682	-0.46709081530570984	0.25919694	No	
+row_174	Zap70	zeta-chain (TCR) associated protein kinase [Source:MGI Symbol;Acc:MGI:99613]	17295	-0.672156810760498	0.18966456	No	
+row_175	Cd300ld3	CD300 molecule like family member D3 [Source:MGI Symbol;Acc:MGI:2687214]	17933	-0.7739818096160889	0.16452515	No	
+row_176	Tle5	TLE family member 5, transcriptional modulator [Source:MGI Symbol;Acc:MGI:95806]	18399	-0.8564298748970032	0.14751357	No	
+row_177	Samd4b	sterile alpha motif domain containing 4B [Source:MGI Symbol;Acc:MGI:2448542]	18943	-0.956596314907074	0.1274485	No	
+row_178	Cpne2	copine II [Source:MGI Symbol;Acc:MGI:2387578]	19137	-1.0027093887329102	0.1233633	No	
+row_179	Ly6c1	lymphocyte antigen 6 complex, locus C1 [Source:MGI Symbol;Acc:MGI:96882]	19541	-1.102891206741333	0.11027793	No	
+row_180	Ctsw	cathepsin W [Source:MGI Symbol;Acc:MGI:1338045]	21243	-1.6857069730758667	0.041395515	No	
+row_181	Skap1	src family associated phosphoprotein 1 [Source:MGI Symbol;Acc:MGI:1925723]	21895	-2.1083409786224365	0.021759735	No	

@@ -1,0 +1,40 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	Ttc30a2	tetratricopeptide repeat domain 30A2 [Source:MGI Symbol;Acc:MGI:3700200]	6717	0.30609428882598877	-0.29531863	No	
+row_1	Tekt3	tektin 3 [Source:MGI Symbol;Acc:MGI:1918312]	8113	0.191517636179924	-0.35441354	No	
+row_2	Ttc30a1	tetratricopeptide repeat domain 30A1 [Source:MGI Symbol;Acc:MGI:1926052]	9032	0.11821749061346054	-0.39343846	No	
+row_3	Cfap20	cilia and flagella associated protein 20 [Source:MGI Symbol;Acc:MGI:107428]	11159	-0.05109217390418053	-0.4877106	No	
+row_4	Arfgef2	ADP-ribosylation factor guanine nucleotide-exchange factor 2 (brefeldin A-inhibited) [Source:MGI Symbol;Acc:MGI:2139354]	15802	-0.4804636836051941	-0.68709725	No	
+row_5	Nme7	NME/NM23 family member 7 [Source:MGI Symbol;Acc:MGI:2449121]	16417	-0.5549547076225281	-0.7048769	No	
+row_6	Ccdc173	coiled-coil domain containing 173 [Source:MGI Symbol;Acc:MGI:1923100]	17691	-0.7331423163414001	-0.7490391	No	
+row_7	Fam166b	family with sequence similarity 166, member B [Source:MGI Symbol;Acc:MGI:2445194]	17875	-0.7637345790863037	-0.74387497	No	
+row_8	Fam166c	family with sequence similarity 166, member C [Source:MGI Symbol;Acc:MGI:1922684]	18175	-0.8149145245552063	-0.7430083	No	
+row_9	Tuba1a	tubulin, alpha 1A [Source:MGI Symbol;Acc:MGI:98869]	18998	-0.9709963202476501	-0.7628231	Yes	
+row_10	Tekt2	tektin 2 [Source:MGI Symbol;Acc:MGI:1346335]	19122	-0.9990944266319275	-0.75085735	Yes	
+row_11	Cfap107	cilia and flagella associated protein 107 [Source:MGI Symbol;Acc:MGI:1916614]	19301	-1.0395948886871338	-0.7406453	Yes	
+row_12	Cfap45	cilia and flagella associated protein 45 [Source:MGI Symbol;Acc:MGI:1919120]	19738	-1.1548513174057007	-0.7399665	Yes	
+row_13	Cfap53	cilia and flagella associated protein 53 [Source:MGI Symbol;Acc:MGI:1921703]	19739	-1.1552544832229614	-0.7197641	Yes	
+row_14	Tekt1	tektin 1 [Source:MGI Symbol;Acc:MGI:1333819]	20029	-1.2387638092041016	-0.7110378	Yes	
+row_15	Tubb4b	tubulin, beta 4B class IVB [Source:MGI Symbol;Acc:MGI:1915472]	20336	-1.3318384885787964	-0.70144486	Yes	
+row_16	Cfap161	cilia and flagella associated protein 161 [Source:MGI Symbol;Acc:MGI:1922806]	20546	-1.401161789894104	-0.6862976	Yes	
+row_17	Enkur	enkurin, TRPC channel interacting protein [Source:MGI Symbol;Acc:MGI:1918483]	20600	-1.4180831909179688	-0.6638714	Yes	
+row_18	Cfap126	cilia and flagella associated protein 126 [Source:MGI Symbol;Acc:MGI:1922722]	20846	-1.5104175806045532	-0.64842504	Yes	
+row_19	Fam183b	family with sequence similarity 183, member B [Source:MGI Symbol;Acc:MGI:1922679]	21003	-1.5808466672897339	-0.62776315	Yes	
+row_20	Cep162	centrosomal protein 162 [Source:MGI Symbol;Acc:MGI:1925343]	21089	-1.6127004623413086	-0.603366	Yes	
+row_21	Ttc30b	tetratricopeptide repeat domain 30B [Source:MGI Symbol;Acc:MGI:1919671]	21275	-1.7002956867218018	-0.5819134	Yes	
+row_22	Rpgrip1l	Rpgrip1-like [Source:MGI Symbol;Acc:MGI:1920563]	21305	-1.71443772315979	-0.55323046	Yes	
+row_23	Cfap276	cilia and flagella associated protein 276 [Source:MGI Symbol;Acc:MGI:1922754]	21461	-1.823197841644287	-0.5282857	Yes	
+row_24	Pierce2	piercer of microtubule wall 2 [Source:MGI Symbol;Acc:MGI:3648770]	21594	-1.8966554403305054	-0.5010268	Yes	
+row_25	Efhb	EF hand domain family, member B [Source:MGI Symbol;Acc:MGI:3045296]	21595	-1.8973088264465332	-0.46784782	Yes	
+row_26	Saxo2	stabilizer of axonemal microtubules 2 [Source:MGI Symbol;Acc:MGI:1914618]	21618	-1.9154610633850098	-0.43533617	Yes	
+row_27	Efhc2	EF-hand domain (C-terminal) containing 2 [Source:MGI Symbol;Acc:MGI:1921655]	21652	-1.9359235763549805	-0.40295908	Yes	
+row_28	Spag8	sperm associated antigen 8 [Source:MGI Symbol;Acc:MGI:3056295]	21711	-1.9822026491165161	-0.37089175	Yes	
+row_29	Pierce1	piercer of microtubule wall 1 [Source:MGI Symbol;Acc:MGI:1916577]	21712	-1.9841586351394653	-0.33619398	Yes	
+row_30	Spaca9	sperm acrosome associated 9 [Source:MGI Symbol;Acc:MGI:1917237]	21772	-2.022608757019043	-0.30346483	Yes	
+row_31	Mns1	meiosis-specific nuclear structural protein 1 [Source:MGI Symbol;Acc:MGI:107933]	21868	-2.087987184524536	-0.27120382	Yes	
+row_32	Tekt4	tektin 4 [Source:MGI Symbol;Acc:MGI:1919090]	21926	-2.1337132453918457	-0.23644222	Yes	
+row_33	Cfap95	cilia and flagella associated protein 95 [Source:MGI Symbol;Acc:MGI:1914733]	21991	-2.228639841079712	-0.20033392	Yes	
+row_34	Efhc1	EF-hand domain (C-terminal) containing 1 [Source:MGI Symbol;Acc:MGI:1919127]	22026	-2.272721290588379	-0.16211188	Yes	
+row_35	Cfap52	cilia and flagella associated protein 52 [Source:MGI Symbol;Acc:MGI:1919110]	22065	-2.339508295059204	-0.122900955	Yes	
+row_36	Cfap77	cilia and flagella associated protein 77 [Source:MGI Symbol;Acc:MGI:2685669]	22070	-2.343954086303711	-0.082090355	Yes	
+row_37	Pacrg	PARK2 co-regulated [Source:MGI Symbol;Acc:MGI:1916560]	22220	-2.691437244415283	-0.041693773	Yes	
+row_38	Ribc2	RIB43A domain with coiled-coils 2 [Source:MGI Symbol;Acc:MGI:1914997]	22251	-2.786090135574341	0.005684806	Yes	

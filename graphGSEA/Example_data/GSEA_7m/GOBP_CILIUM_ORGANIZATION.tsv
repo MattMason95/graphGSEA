@@ -1,0 +1,396 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	Disc1	disrupted in schizophrenia 1 [Source:MGI Symbol;Acc:MGI:2447658]	257	2.0849063396453857	-0.005969994	No	
+row_1	Ehd1	EH-domain containing 1 [Source:MGI Symbol;Acc:MGI:1341878]	463	1.733481526374817	-0.01053883	No	
+row_2	Alpk1	alpha-kinase 1 [Source:MGI Symbol;Acc:MGI:1918731]	483	1.7142841815948486	-0.006699639	No	
+row_3	Septin6	septin 6 [Source:MGI Symbol;Acc:MGI:1888939]	613	1.60081148147583	-0.00817542	No	
+row_4	Trappc14	trafficking protein particle complex 14 [Source:MGI Symbol;Acc:MGI:2385896]	665	1.5419374704360962	-0.006264698	No	
+row_5	Ccdc28b	coiled coil domain containing 28B [Source:MGI Symbol;Acc:MGI:1913514]	716	1.4915971755981445	-0.0044466066	No	
+row_6	Kcnj10	potassium inwardly-rectifying channel, subfamily J, member 10 [Source:MGI Symbol;Acc:MGI:1194504]	1011	1.2799148559570312	-0.014308286	No	
+row_7	Ehd4	EH-domain containing 4 [Source:MGI Symbol;Acc:MGI:1919619]	1053	1.2514562606811523	-0.012739676	No	
+row_8	Rab8a	RAB8A, member RAS oncogene family [Source:MGI Symbol;Acc:MGI:96960]	1137	1.209280014038086	-0.013197266	No	
+row_9	Actr2	ARP2 actin-related protein 2 [Source:MGI Symbol;Acc:MGI:1913963]	1183	1.1890041828155518	-0.011981956	No	
+row_10	Snx10	sorting nexin 10 [Source:MGI Symbol;Acc:MGI:1919232]	1271	1.1563870906829834	-0.012766617	No	
+row_11	Neurl1a	neuralized E3 ubiquitin protein ligase 1A [Source:MGI Symbol;Acc:MGI:1334263]	1547	1.0432624816894531	-0.02241333	No	
+row_12	Bbs4	Bardet-Biedl syndrome 4 (human) [Source:MGI Symbol;Acc:MGI:2143311]	1571	1.03611159324646	-0.020616783	No	
+row_13	Hyls1	HYLS1, centriolar and ciliogenesis associated [Source:MGI Symbol;Acc:MGI:1924082]	1663	1.0017244815826416	-0.02200774	No	
+row_14	Tbc1d31	TBC1 domain family, member 31 [Source:MGI Symbol;Acc:MGI:2684931]	1725	0.983493983745575	-0.022084087	No	
+row_15	Cep135	centrosomal protein 135 [Source:MGI Symbol;Acc:MGI:2681869]	1735	0.9789377450942993	-0.019807579	No	
+row_16	Rabep2	rabaptin, RAB GTPase binding effector protein 2 [Source:MGI Symbol;Acc:MGI:1917564]	2020	0.9099788069725037	-0.03022937	No	
+row_17	Tbc1d30	TBC1 domain family, member 30 [Source:MGI Symbol;Acc:MGI:1921944]	2067	0.9016821384429932	-0.029847868	No	
+row_18	E2f4	E2F transcription factor 4 [Source:MGI Symbol;Acc:MGI:103012]	2082	0.8975945711135864	-0.028021978	No	
+row_19	Lca5l	Leber congenital amaurosis 5-like [Source:MGI Symbol;Acc:MGI:3041157]	2207	0.8698359131813049	-0.031275887	No	
+row_20	Csnk1d	casein kinase 1, delta [Source:MGI Symbol;Acc:MGI:1355272]	2309	0.8473932147026062	-0.03354516	No	
+row_21	Cdk10	cyclin-dependent kinase 10 [Source:MGI Symbol;Acc:MGI:2448549]	2463	0.8173756003379822	-0.038262144	No	
+row_22	Tesk1	testis specific protein kinase 1 [Source:MGI Symbol;Acc:MGI:1201675]	2469	0.816440761089325	-0.036249526	No	
+row_23	Cdc14a	CDC14 cell division cycle 14A [Source:MGI Symbol;Acc:MGI:2442676]	2492	0.8129584789276123	-0.03501975	No	
+row_24	Cep120	centrosomal protein 120 [Source:MGI Symbol;Acc:MGI:2147298]	2579	0.7963733077049255	-0.03674669	No	
+row_25	Actr3	ARP3 actin-related protein 3 [Source:MGI Symbol;Acc:MGI:1921367]	2860	0.7494553327560425	-0.047426958	No	
+row_26	Snap29	synaptosomal-associated protein 29 [Source:MGI Symbol;Acc:MGI:1914724]	3009	0.7225175499916077	-0.052176766	No	
+row_27	Poc1a	POC1 centriolar protein A [Source:MGI Symbol;Acc:MGI:1917485]	3070	0.7137305736541748	-0.05294777	No	
+row_28	Dnm2	dynamin 2 [Source:MGI Symbol;Acc:MGI:109547]	3114	0.7078524827957153	-0.052961614	No	
+row_29	Hap1	huntingtin-associated protein 1 [Source:MGI Symbol;Acc:MGI:1261831]	3127	0.7061562538146973	-0.051569995	No	
+row_30	Rab29	RAB29, member RAS oncogene family [Source:MGI Symbol;Acc:MGI:2385107]	3188	0.6967141032218933	-0.05238769	No	
+row_31	Mapre1	microtubule-associated protein, RP/EB family, member 1 [Source:MGI Symbol;Acc:MGI:891995]	3225	0.6916581392288208	-0.05212755	No	
+row_32	Septin7	septin 7 [Source:MGI Symbol;Acc:MGI:1335094]	3255	0.6868954300880432	-0.051562067	No	
+row_33	Wdr44	WD repeat domain 44 [Source:MGI Symbol;Acc:MGI:1919654]	3284	0.6839503049850464	-0.050959177	No	
+row_34	Cep78	centrosomal protein 78 [Source:MGI Symbol;Acc:MGI:1924386]	3347	0.6753963828086853	-0.051926333	No	
+row_35	Dnaaf2	dynein, axonemal assembly factor 2 [Source:MGI Symbol;Acc:MGI:1923566]	3360	0.6739656329154968	-0.050623037	No	
+row_36	Pqbp1	polyglutamine binding protein 1 [Source:MGI Symbol;Acc:MGI:1859638]	3530	0.6511749029159546	-0.056523826	No	
+row_37	Cntrl	centriolin [Source:MGI Symbol;Acc:MGI:1889576]	3680	0.6303800344467163	-0.06157192	No	
+row_38	Ccdc88a	coiled coil domain containing 88A [Source:MGI Symbol;Acc:MGI:1925177]	3707	0.6267944574356079	-0.06103487	No	
+row_39	Gdi2	guanosine diphosphate (GDP) dissociation inhibitor 2 [Source:MGI Symbol;Acc:MGI:99845]	3932	0.598027765750885	-0.0695833	No	
+row_40	Atg5	autophagy related 5 [Source:MGI Symbol;Acc:MGI:1277186]	4038	0.5840338468551636	-0.072757095	No	
+row_41	Cep250	centrosomal protein 250 [Source:MGI Symbol;Acc:MGI:108084]	4068	0.5807280540466309	-0.0724829	No	
+row_42	Sclt1	sodium channel and clathrin linker 1 [Source:MGI Symbol;Acc:MGI:1914411]	4077	0.578446090221405	-0.07125973	No	
+row_43	Dusp23	dual specificity phosphatase 23 [Source:MGI Symbol;Acc:MGI:1915690]	4110	0.5756409168243408	-0.07113595	No	
+row_44	Tapt1	transmembrane anterior posterior transformation 1 [Source:MGI Symbol;Acc:MGI:2683537]	4346	0.5463373064994812	-0.08032657	No	
+row_45	Cep70	centrosomal protein 70 [Source:MGI Symbol;Acc:MGI:1915371]	4371	0.5433436632156372	-0.07992751	No	
+row_46	Dcx	doublecortin [Source:MGI Symbol;Acc:MGI:1277171]	4570	0.5194966793060303	-0.08750872	No	
+row_47	Htt	huntingtin [Source:MGI Symbol;Acc:MGI:96067]	4637	0.5116565227508545	-0.08910708	No	
+row_48	Entr1	endosome associated trafficking regulator 1 [Source:MGI Symbol;Acc:MGI:1915362]	5265	0.4453311860561371	-0.11640598	No	
+row_49	Ocrl	OCRL, inositol polyphosphate-5-phosphatase [Source:MGI Symbol;Acc:MGI:109589]	5308	0.44183656573295593	-0.117104195	No	
+row_50	Kif19a	kinesin family member 19A [Source:MGI Symbol;Acc:MGI:2447024]	5383	0.43535056710243225	-0.119275816	No	
+row_51	Vangl2	VANGL planar cell polarity 2 [Source:MGI Symbol;Acc:MGI:2135272]	5416	0.4316566288471222	-0.11954709	No	
+row_52	Rab11a	RAB11A, member RAS oncogene family [Source:MGI Symbol;Acc:MGI:1858202]	5419	0.4314790666103363	-0.118454225	No	
+row_53	Vdac3	voltage-dependent anion channel 3 [Source:MGI Symbol;Acc:MGI:106922]	5694	0.4038868546485901	-0.12980969	No	
+row_54	Ro60	Ro60, Y RNA binding protein [Source:MGI Symbol;Acc:MGI:106652]	5801	0.39398112893104553	-0.13355042	No	
+row_55	Atg3	autophagy related 3 [Source:MGI Symbol;Acc:MGI:1915091]	5855	0.3878297507762909	-0.13489719	No	
+row_56	Hdac6	histone deacetylase 6 [Source:MGI Symbol;Acc:MGI:1333752]	6055	0.3688200116157532	-0.1429373	No	
+row_57	Septin2	septin 2 [Source:MGI Symbol;Acc:MGI:97298]	6109	0.36360347270965576	-0.14435053	No	
+row_58	Bbs12	Bardet-Biedl syndrome 12 (human) [Source:MGI Symbol;Acc:MGI:2686651]	6122	0.36232104897499084	-0.14390229	No	
+row_59	Arl13b	ADP-ribosylation factor-like 13B [Source:MGI Symbol;Acc:MGI:1915396]	6128	0.3620084822177887	-0.14313649	No	
+row_60	Nudcd3	NudC domain containing 3 [Source:MGI Symbol;Acc:MGI:2144158]	6140	0.3606247305870056	-0.14264742	No	
+row_61	Ttc17	tetratricopeptide repeat domain 17 [Source:MGI Symbol;Acc:MGI:1921819]	6239	0.34976300597190857	-0.14614555	No	
+row_62	Atxn10	ataxin 10 [Source:MGI Symbol;Acc:MGI:1859293]	6294	0.3446207046508789	-0.14765635	No	
+row_63	Prickle1	prickle planar cell polarity protein 1 [Source:MGI Symbol;Acc:MGI:1916034]	6379	0.33709216117858887	-0.15055244	No	
+row_64	C2cd3	C2 calcium-dependent domain containing 3 [Source:MGI Symbol;Acc:MGI:2142166]	6486	0.32724136114120483	-0.15447628	No	
+row_65	Pibf1	progesterone immunomodulatory binding factor 1 [Source:MGI Symbol;Acc:MGI:1261910]	6715	0.30612239241600037	-0.16400756	No	
+row_66	Ttc30a2	tetratricopeptide repeat domain 30A2 [Source:MGI Symbol;Acc:MGI:3700200]	6717	0.30609428882598877	-0.16321322	No	
+row_67	Exoc5	exocyst complex component 5 [Source:MGI Symbol;Acc:MGI:2145645]	6775	0.3019488751888275	-0.16497757	No	
+row_68	Atmin	ATM interactor [Source:MGI Symbol;Acc:MGI:2682328]	6839	0.29686349630355835	-0.16702878	No	
+row_69	Cntrob	centrobin, centrosomal BRCA2 interacting protein [Source:MGI Symbol;Acc:MGI:2443290]	7014	0.28273457288742065	-0.1741679	No	
+row_70	Rttn	rotatin [Source:MGI Symbol;Acc:MGI:2179288]	7224	0.26534467935562134	-0.18294679	No	
+row_71	Dynlt2b	dynein light chain Tctex-type 2B [Source:MGI Symbol;Acc:MGI:1913311]	7276	0.2615422308444977	-0.18454906	No	
+row_72	Ssna1	SS nuclear autoantigen 1 [Source:MGI Symbol;Acc:MGI:1915725]	7306	0.25896498560905457	-0.18515769	No	
+row_73	Kif3b	kinesin family member 3B [Source:MGI Symbol;Acc:MGI:107688]	7438	0.24892999231815338	-0.19043359	No	
+row_74	Map4	microtubule-associated protein 4 [Source:MGI Symbol;Acc:MGI:97178]	7455	0.24765342473983765	-0.1904819	No	
+row_75	Tmem80	transmembrane protein 80 [Source:MGI Symbol;Acc:MGI:1918698]	7474	0.24519023299217224	-0.19062796	No	
+row_76	Poc1b	POC1 centriolar protein B [Source:MGI Symbol;Acc:MGI:1918511]	7695	0.22806282341480255	-0.2000095	No	
+row_77	Cep350	centrosomal protein 350 [Source:MGI Symbol;Acc:MGI:1921331]	7771	0.2206612229347229	-0.20281565	No	
+row_78	B9d2	B9 protein domain 2 [Source:MGI Symbol;Acc:MGI:2387643]	7822	0.21573428809642792	-0.20449813	No	
+row_79	Cenpj	centromere protein J [Source:MGI Symbol;Acc:MGI:2684927]	7927	0.20706471800804138	-0.20866072	No	
+row_80	Tekt3	tektin 3 [Source:MGI Symbol;Acc:MGI:1918312]	8113	0.191517636179924	-0.21655047	No	
+row_81	Spag6	sperm associated antigen 6 [Source:MGI Symbol;Acc:MGI:3040687]	8194	0.18469996750354767	-0.21968271	No	
+row_82	Aurka	aurora kinase A [Source:MGI Symbol;Acc:MGI:894678]	8304	0.17625631392002106	-0.22415727	No	
+row_83	Flna	filamin, alpha [Source:MGI Symbol;Acc:MGI:95556]	8386	0.16973035037517548	-0.22737609	No	
+row_84	Nectin2	nectin cell adhesion molecule 2 [Source:MGI Symbol;Acc:MGI:97822]	8506	0.15957365930080414	-0.23235129	No	
+row_85	Mark4	MAP/microtubule affinity regulating kinase 4 [Source:MGI Symbol;Acc:MGI:1920955]	8541	0.1572916954755783	-0.23346631	No	
+row_86	Wdr11	WD repeat domain 11 [Source:MGI Symbol;Acc:MGI:1920230]	8632	0.15033060312271118	-0.23714775	No	
+row_87	Tpgs1	tubulin polyglutamylase complex subunit 1 [Source:MGI Symbol;Acc:MGI:106618]	8785	0.13813194632530212	-0.24368288	No	
+row_88	Clcn4	chloride channel, voltage-sensitive 4 [Source:MGI Symbol;Acc:MGI:104571]	8957	0.12426505982875824	-0.2511203	No	
+row_89	Ppp1r35	protein phosphatase 1, regulatory subunit 35 [Source:MGI Symbol;Acc:MGI:1922853]	8996	0.12084337323904037	-0.25251728	No	
+row_90	Ttc30a1	tetratricopeptide repeat domain 30A1 [Source:MGI Symbol;Acc:MGI:1926052]	9032	0.11821749061346054	-0.253785	No	
+row_91	Wrap73	WD repeat containing, antisense to Trp73 [Source:MGI Symbol;Acc:MGI:1891749]	9164	0.10814324766397476	-0.25944716	No	
+row_92	Lrrc61	leucine rich repeat containing 61 [Source:MGI Symbol;Acc:MGI:2652848]	9184	0.10642567276954651	-0.26001942	No	
+row_93	Cilk1	ciliogenesis associated kinase 1 [Source:MGI Symbol;Acc:MGI:1934157]	9213	0.1036357656121254	-0.26100874	No	
+row_94	Ccdc32	coiled-coil domain containing 32 [Source:MGI Symbol;Acc:MGI:2685477]	9354	0.09325693547725677	-0.26712114	No	
+row_95	Fnbp1l	formin binding protein 1-like [Source:MGI Symbol;Acc:MGI:1925642]	9415	0.08793138712644577	-0.26960915	No	
+row_96	Fbxw8	F-box and WD-40 domain protein 8 [Source:MGI Symbol;Acc:MGI:1923041]	9487	0.08078979700803757	-0.2726171	No	
+row_97	Atp6v1d	ATPase, H+ transporting, lysosomal V1 subunit D [Source:MGI Symbol;Acc:MGI:1921084]	9539	0.07598485052585602	-0.2747285	No	
+row_98	Akt1	thymoma viral proto-oncogene 1 [Source:MGI Symbol;Acc:MGI:87986]	9630	0.068592369556427	-0.2786342	No	
+row_99	2700049A03Rik	RIKEN cDNA 2700049A03 gene [Source:MGI Symbol;Acc:MGI:1924217]	9691	0.06406987458467484	-0.28118765	No	
+row_100	Ift52	intraflagellar transport 52 [Source:MGI Symbol;Acc:MGI:2387217]	9714	0.06245405599474907	-0.28201702	No	
+row_101	Ttll1	tubulin tyrosine ligase-like 1 [Source:MGI Symbol;Acc:MGI:2443047]	9815	0.054738111793994904	-0.2864156	No	
+row_102	Nherf1	NHERF family PDZ scaffold protein 1 [Source:MGI Symbol;Acc:MGI:1349482]	9879	0.04928034543991089	-0.28914613	No	
+row_103	Dnah17	dynein, axonemal, heavy chain 17 [Source:MGI Symbol;Acc:MGI:1917176]	9994	0.04045981168746948	-0.2942207	No	
+row_104	Tctn3	tectonic family member 3 [Source:MGI Symbol;Acc:MGI:1914840]	10069	0.03457050025463104	-0.29749194	No	
+row_105	Cep83	centrosomal protein 83 [Source:MGI Symbol;Acc:MGI:1924298]	10114	0.031682033091783524	-0.29940647	No	
+row_106	Ift140	intraflagellar transport 140 [Source:MGI Symbol;Acc:MGI:2146906]	10160	0.027540728449821472	-0.30137783	No	
+row_107	Rilpl2	Rab interacting lysosomal protein-like 2 [Source:MGI Symbol;Acc:MGI:1933112]	10200	0.024534383788704872	-0.30308455	No	
+row_108	Gsk3b	glycogen synthase kinase 3 beta [Source:MGI Symbol;Acc:MGI:1861437]	10273	0.017842022702097893	-0.3063107	No	
+row_109	Cyld	CYLD lysine 63 deubiquitinase [Source:MGI Symbol;Acc:MGI:1921506]	10381	0.009829875081777573	-0.3111509	No	
+row_110	Misfa	mitochondrial sheath formation associated [Source:MGI Symbol;Acc:MGI:3642801]	10468	0.002939149970188737	-0.31505477	No	
+row_111	Plk4	polo like kinase 4 [Source:MGI Symbol;Acc:MGI:101783]	10478	0.0020120227709412575	-0.31545866	No	
+row_112	Dync2h1	dynein cytoplasmic 2 heavy chain 1 [Source:MGI Symbol;Acc:MGI:107736]	10526	-3.5530325840227306E-4	-0.3175956	No	
+row_113	Ttc39c	tetratricopeptide repeat domain 39C [Source:MGI Symbol;Acc:MGI:1919997]	10943	-0.03224322944879532	-0.33642998	No	
+row_114	Bbip1	BBSome interacting protein 1 [Source:MGI Symbol;Acc:MGI:1913610]	10956	-0.03375669941306114	-0.33688322	No	
+row_115	Txndc15	thioredoxin domain containing 15 [Source:MGI Symbol;Acc:MGI:1916922]	10969	-0.034501466900110245	-0.3373344	No	
+row_116	Gsn	gelsolin [Source:MGI Symbol;Acc:MGI:95851]	11025	-0.04058011621236801	-0.3397249	No	
+row_117	Rilpl1	Rab interacting lysosomal protein-like 1 [Source:MGI Symbol;Acc:MGI:1922945]	11041	-0.041861966252326965	-0.34029233	No	
+row_118	Cfap20	cilia and flagella associated protein 20 [Source:MGI Symbol;Acc:MGI:107428]	11159	-0.05109217390418053	-0.3454742	No	
+row_119	Tctn1	tectonic family member 1 [Source:MGI Symbol;Acc:MGI:3603820]	11254	-0.05983468517661095	-0.3495859	No	
+row_120	Celsr3	cadherin, EGF LAG seven-pass G-type receptor 3 [Source:MGI Symbol;Acc:MGI:1858236]	11294	-0.06252177804708481	-0.35118836	No	
+row_121	Ttbk2	tau tubulin kinase 2 [Source:MGI Symbol;Acc:MGI:2155779]	11342	-0.06722696125507355	-0.35314184	No	
+row_122	Pcm1	pericentriolar material 1 [Source:MGI Symbol;Acc:MGI:1277958]	11400	-0.07348652184009552	-0.355533	No	
+row_123	Ttc21b	tetratricopeptide repeat domain 21B [Source:MGI Symbol;Acc:MGI:1920918]	11402	-0.07357180118560791	-0.35537663	No	
+row_124	Dnhd1	dynein heavy chain domain 1 [Source:MGI Symbol;Acc:MGI:1924755]	11410	-0.07409423589706421	-0.35549176	No	
+row_125	Sdccag8	serologically defined colon cancer antigen 8 [Source:MGI Symbol;Acc:MGI:1924066]	11472	-0.07914595305919647	-0.35804936	No	
+row_126	Ccdc38	coiled-coil domain containing 38 [Source:MGI Symbol;Acc:MGI:2444738]	11568	-0.08754809945821762	-0.36213046	No	
+row_127	Tmem250-ps	transmembrane protein 250, pseudogene [Source:MGI Symbol;Acc:MGI:1924939]	11747	-0.10016036033630371	-0.36995247	No	
+row_128	Mkks	McKusick-Kaufman syndrome [Source:MGI Symbol;Acc:MGI:1891836]	12014	-0.12456851452589035	-0.38171038	No	
+row_129	Cep97	centrosomal protein 97 [Source:MGI Symbol;Acc:MGI:1921451]	12082	-0.12992966175079346	-0.3844016	No	
+row_130	Ptpdc1	protein tyrosine phosphatase domain containing 1 [Source:MGI Symbol;Acc:MGI:2145430]	12112	-0.13257081806659698	-0.385357	No	
+row_131	Yif1b	Yip1 interacting factor homolog B (S. cerevisiae) [Source:MGI Symbol;Acc:MGI:1924504]	12293	-0.14724670350551605	-0.39314076	No	
+row_132	Ccp110	centriolar coiled coil protein 110 [Source:MGI Symbol;Acc:MGI:2141942]	12443	-0.1585153341293335	-0.3994835	No	
+row_133	Ube2b	ubiquitin-conjugating enzyme E2B [Source:MGI Symbol;Acc:MGI:102944]	12601	-0.17071157693862915	-0.4061567	No	
+row_134	Cfap410	cilia and flagella associated protein 410 [Source:MGI Symbol;Acc:MGI:1915134]	12639	-0.1743621826171875	-0.40736133	No	
+row_135	Avil	advillin [Source:MGI Symbol;Acc:MGI:1333798]	12745	-0.1840333789587021	-0.4116326	No	
+row_136	Ift172	intraflagellar transport 172 [Source:MGI Symbol;Acc:MGI:2682064]	12825	-0.19063274562358856	-0.41470307	No	
+row_137	Ift20	intraflagellar transport 20 [Source:MGI Symbol;Acc:MGI:1915585]	12881	-0.1964871734380722	-0.4166658	No	
+row_138	Kifap3	kinesin-associated protein 3 [Source:MGI Symbol;Acc:MGI:107566]	12940	-0.2010132372379303	-0.41875258	No	
+row_139	Bbs10	Bardet-Biedl syndrome 10 (human) [Source:MGI Symbol;Acc:MGI:1919019]	13146	-0.21802949905395508	-0.42747933	No	
+row_140	Odf2l	outer dense fiber of sperm tails 2-like [Source:MGI Symbol;Acc:MGI:1098600]	13237	-0.22706368565559387	-0.43095022	No	
+row_141	Cep290	centrosomal protein 290 [Source:MGI Symbol;Acc:MGI:2384917]	13333	-0.23518379032611847	-0.43462628	No	
+row_142	Lca5	Leber congenital amaurosis 5 (human) [Source:MGI Symbol;Acc:MGI:1923032]	13342	-0.23555007576942444	-0.4343439	No	
+row_143	Mks1	MKS transition zone complex subunit 1 [Source:MGI Symbol;Acc:MGI:3584243]	13425	-0.24320726096630096	-0.4374066	No	
+row_144	Odf2	outer dense fiber of sperm tails 2 [Source:MGI Symbol;Acc:MGI:1098824]	13442	-0.24414145946502686	-0.43746457	No	
+row_145	Togaram1	TOG array regulator of axonemal microtubules 1 [Source:MGI Symbol;Acc:MGI:2684313]	13493	-0.2475004345178604	-0.43905988	No	
+row_146	Gorab	golgin, RAB6-interacting [Source:MGI Symbol;Acc:MGI:2138271]	13628	-0.2582905888557434	-0.44444656	No	
+row_147	Nisch	nischarin [Source:MGI Symbol;Acc:MGI:1928323]	13685	-0.2636569142341614	-0.44627047	No	
+row_148	Kif24	kinesin family member 24 [Source:MGI Symbol;Acc:MGI:1918345]	13796	-0.2759512662887573	-0.45051697	No	
+row_149	Gas8	growth arrest specific 8 [Source:MGI Symbol;Acc:MGI:1202386]	13839	-0.27957960963249207	-0.4516604	No	
+row_150	Dnaaf5	dynein, axonemal assembly factor 5 [Source:MGI Symbol;Acc:MGI:3616079]	14117	-0.30709394812583923	-0.4634179	No	
+row_151	Nek1	NIMA (never in mitosis gene a)-related expressed kinase 1 [Source:MGI Symbol;Acc:MGI:97303]	14171	-0.3122042119503021	-0.46497214	No	
+row_152	Cfap221	cilia and flagella associated protein 221 [Source:MGI Symbol;Acc:MGI:2684947]	14267	-0.3217611610889435	-0.46841067	No	
+row_153	Crocc	ciliary rootlet coiled-coil, rootletin [Source:MGI Symbol;Acc:MGI:3529431]	14334	-0.3285331428050995	-0.47051144	No	
+row_154	Ssx2ip	synovial sarcoma, X 2 interacting protein [Source:MGI Symbol;Acc:MGI:2139150]	14351	-0.3304235637187958	-0.47033268	No	
+row_155	Rfx3	regulatory factor X, 3 (influences HLA class II expression) [Source:MGI Symbol;Acc:MGI:106582]	14416	-0.3360224962234497	-0.47232193	No	
+row_156	Cluap1	clusterin associated protein 1 [Source:MGI Symbol;Acc:MGI:1924029]	14463	-0.34178316593170166	-0.47347662	No	
+row_157	Pcnt	pericentrin (kendrin) [Source:MGI Symbol;Acc:MGI:102722]	14483	-0.34321150183677673	-0.47339922	No	
+row_158	Ablim3	actin binding LIM protein family, member 3 [Source:MGI Symbol;Acc:MGI:2442582]	14608	-0.35480019450187683	-0.47806624	No	
+row_159	Ttc12	tetratricopeptide repeat domain 12 [Source:MGI Symbol;Acc:MGI:2444588]	14626	-0.3566262423992157	-0.47786105	No	
+row_160	Tchp	trichoplein, keratin filament binding [Source:MGI Symbol;Acc:MGI:1925082]	14674	-0.3618985414505005	-0.47900602	No	
+row_161	Asap1	ArfGAP with SH3 domain, ankyrin repeat and PH domain1 [Source:MGI Symbol;Acc:MGI:1342335]	14761	-0.3707248866558075	-0.4819008	No	
+row_162	Kcnf1	potassium voltage-gated channel, subfamily F, member 1 [Source:MGI Symbol;Acc:MGI:2687399]	14769	-0.3712875247001648	-0.48120055	No	
+row_163	Kif17	kinesin family member 17 [Source:MGI Symbol;Acc:MGI:1098229]	14833	-0.37796398997306824	-0.48302925	No	
+row_164	Ccdc63	coiled-coil domain containing 63 [Source:MGI Symbol;Acc:MGI:3607777]	14895	-0.38434359431266785	-0.48474947	No	
+row_165	Bbs7	Bardet-Biedl syndrome 7 (human) [Source:MGI Symbol;Acc:MGI:1918742]	14905	-0.3855926990509033	-0.4841009	No	
+row_166	Spag17	sperm associated antigen 17 [Source:MGI Symbol;Acc:MGI:1921612]	14958	-0.3908132314682007	-0.485394	No	
+row_167	Jhy	junctional cadherin complex regulator [Source:MGI Symbol;Acc:MGI:1918239]	15012	-0.39604130387306213	-0.48671824	No	
+row_168	Spata6	spermatogenesis associated 6 [Source:MGI Symbol;Acc:MGI:1915196]	15013	-0.3960689604282379	-0.48563156	No	
+row_169	Lpar1	lysophosphatidic acid receptor 1 [Source:MGI Symbol;Acc:MGI:108429]	15155	-0.41124382615089417	-0.49091697	No	
+row_170	Fam149b	family with sequence similarity 149, member B [Source:MGI Symbol;Acc:MGI:2145567]	15221	-0.4189577102661133	-0.49272418	No	
+row_171	Bbs9	Bardet-Biedl syndrome 9 (human) [Source:MGI Symbol;Acc:MGI:2442833]	15250	-0.4212455749511719	-0.49284208	No	
+row_172	Dnaaf3	dynein, axonemal assembly factor 3 [Source:MGI Symbol;Acc:MGI:3588207]	15331	-0.42892196774482727	-0.49530426	No	
+row_173	Nphp3	nephronophthisis 3 (adolescent) [Source:MGI Symbol;Acc:MGI:1921275]	15358	-0.4316873550415039	-0.49530253	No	
+row_174	Rab23	RAB23, member RAS oncogene family [Source:MGI Symbol;Acc:MGI:99833]	15418	-0.4392397105693817	-0.49678114	No	
+row_175	Dnah7c	dynein, axonemal, heavy chain 7C [Source:MGI Symbol;Acc:MGI:3639762]	15538	-0.4499889016151428	-0.5009596	No	
+row_176	Onecut2	one cut domain, family member 2 [Source:MGI Symbol;Acc:MGI:1891408]	15550	-0.4516502916812897	-0.5002207	No	
+row_177	Tmem67	transmembrane protein 67 [Source:MGI Symbol;Acc:MGI:1923928]	15563	-0.45255959033966064	-0.4995249	No	
+row_178	Adamts16	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 16 [Source:MGI Symbol;Acc:MGI:2429637]	15578	-0.4536858797073364	-0.49891695	No	
+row_179	Pcdh15	protocadherin 15 [Source:MGI Symbol;Acc:MGI:1891428]	15638	-0.46173128485679626	-0.5003339	No	
+row_180	Cfap97d1	CFAP97 domain containing 1 [Source:MGI Symbol;Acc:MGI:1922687]	15808	-0.4813176393508911	-0.5067007	No	
+row_181	Dctn1	dynactin 1 [Source:MGI Symbol;Acc:MGI:107745]	15941	-0.49729740619659424	-0.5113406	No	
+row_182	Arf4	ADP-ribosylation factor 4 [Source:MGI Symbol;Acc:MGI:99433]	16301	-0.5408214926719666	-0.5261869	No	
+row_183	Kcnq1	potassium voltage-gated channel, subfamily Q, member 1 [Source:MGI Symbol;Acc:MGI:108083]	16336	-0.5448097586631775	-0.5262387	No	
+row_184	Ptpn23	protein tyrosine phosphatase, non-receptor type 23 [Source:MGI Symbol;Acc:MGI:2144837]	16376	-0.5494093894958496	-0.5265053	No	
+row_185	Nme7	NME/NM23 family member 7 [Source:MGI Symbol;Acc:MGI:2449121]	16417	-0.5549547076225281	-0.5268021	No	
+row_186	4933427D14Rik	RIKEN cDNA 4933427D14 gene [Source:MGI Symbol;Acc:MGI:1921727]	16619	-0.5822269916534424	-0.5343477	No	
+row_187	Unc119b	unc-119 lipid binding chaperone B [Source:MGI Symbol;Acc:MGI:2147162]	16668	-0.5893282890319824	-0.5349142	No	
+row_188	Rab11fip3	RAB11 family interacting protein 3 (class II) [Source:MGI Symbol;Acc:MGI:2444431]	16682	-0.5915936231613159	-0.5338824	No	
+row_189	Dnaaf1	dynein, axonemal assembly factor 1 [Source:MGI Symbol;Acc:MGI:1915520]	16713	-0.5957582592964172	-0.53361243	No	
+row_190	Traf3ip1	TRAF3 interacting protein 1 [Source:MGI Symbol;Acc:MGI:1921269]	16764	-0.6027844548225403	-0.534233	No	
+row_191	Tbc1d21	TBC1 domain family, member 21 [Source:MGI Symbol;Acc:MGI:1921536]	16881	-0.6193516850471497	-0.5378102	No	
+row_192	Cplane2	ciliogenesis and planar polarity effector 2 [Source:MGI Symbol;Acc:MGI:1923416]	16976	-0.6305590867996216	-0.540356	No	
+row_193	Mphosph9	M-phase phosphoprotein 9 [Source:MGI Symbol;Acc:MGI:2443138]	16980	-0.6314989328384399	-0.5387598	No	
+row_194	Akap4	A kinase (PRKA) anchor protein 4 [Source:MGI Symbol;Acc:MGI:102794]	17031	-0.6383388042449951	-0.5392828	No	
+row_195	Abcc4	ATP-binding cassette, sub-family C (CFTR/MRP), member 4 [Source:MGI Symbol;Acc:MGI:2443111]	17150	-0.6541644334793091	-0.54285556	No	
+row_196	Dzip1	DAZ interacting protein 1 [Source:MGI Symbol;Acc:MGI:1914311]	17248	-0.6658031940460205	-0.5454411	No	
+row_197	Tbc1d32	TBC1 domain family, member 32 [Source:MGI Symbol;Acc:MGI:2442827]	17335	-0.6777703166007996	-0.54749346	No	
+row_198	Ccdc40	coiled-coil domain containing 40 [Source:MGI Symbol;Acc:MGI:2443893]	17415	-0.6876903772354126	-0.5492001	No	
+row_199	Ccdc57	coiled-coil domain containing 57 [Source:MGI Symbol;Acc:MGI:1918526]	17459	-0.6963649988174438	-0.54924554	Yes	
+row_200	Tmem237	transmembrane protein 237 [Source:MGI Symbol;Acc:MGI:2138365]	17462	-0.6970081925392151	-0.54742414	Yes	
+row_201	Cplane1	ciliogenesis and planar polarity effector 1 [Source:MGI Symbol;Acc:MGI:1920942]	17484	-0.700630784034729	-0.54645705	Yes	
+row_202	Pla2g3	phospholipase A2, group III [Source:MGI Symbol;Acc:MGI:2444945]	17491	-0.7015511989593506	-0.5448051	Yes	
+row_203	Cep126	centrosomal protein 126 [Source:MGI Symbol;Acc:MGI:2680221]	17518	-0.7047463655471802	-0.5440542	Yes	
+row_204	Cfap157	cilia and flagella associated protein 157 [Source:MGI Symbol;Acc:MGI:2447809]	17546	-0.7088720798492432	-0.54333746	Yes	
+row_205	Kif3a	kinesin family member 3A [Source:MGI Symbol;Acc:MGI:107689]	17553	-0.7103618383407593	-0.5416614	Yes	
+row_206	Ift22	intraflagellar transport 22 [Source:MGI Symbol;Acc:MGI:1914536]	17738	-0.7406665086746216	-0.54799896	Yes	
+row_207	Ift46	intraflagellar transport 46 [Source:MGI Symbol;Acc:MGI:1923818]	17794	-0.7497797608375549	-0.5484436	Yes	
+row_208	Hspb11	heat shock protein family B (small), member 11 [Source:MGI Symbol;Acc:MGI:1920188]	17830	-0.7558572292327881	-0.54796183	Yes	
+row_209	Dnaaf11	dynein axonemal assembly factor 11 [Source:MGI Symbol;Acc:MGI:1859553]	17877	-0.7638670206069946	-0.54795843	Yes	
+row_210	Dnah8	dynein, axonemal, heavy chain 8 [Source:MGI Symbol;Acc:MGI:107714]	17879	-0.7644346952438354	-0.54590654	Yes	
+row_211	Tbc1d7	TBC1 domain family, member 7 [Source:MGI Symbol;Acc:MGI:1914296]	17897	-0.7670838236808777	-0.5445752	Yes	
+row_212	Tmem138	transmembrane protein 138 [Source:MGI Symbol;Acc:MGI:1920232]	17971	-0.7797623872756958	-0.5457564	Yes	
+row_213	Dynll1	dynein light chain LC8-type 1 [Source:MGI Symbol;Acc:MGI:1861457]	17994	-0.7842080593109131	-0.5446055	Yes	
+row_214	Drc7	dynein regulatory complex subunit 7 [Source:MGI Symbol;Acc:MGI:2685616]	17998	-0.785152792930603	-0.54258776	Yes	
+row_215	Lrrc43	leucine rich repeat containing 43 [Source:MGI Symbol;Acc:MGI:2685907]	18087	-0.7994781732559204	-0.5443972	Yes	
+row_216	Lrguk	leucine-rich repeats and guanylate kinase domain containing [Source:MGI Symbol;Acc:MGI:1921604]	18133	-0.8073331713676453	-0.54422903	Yes	
+row_217	Cep19	centrosomal protein 19 [Source:MGI Symbol;Acc:MGI:1914244]	18193	-0.8174849152565002	-0.54466987	Yes	
+row_218	Daw1	dynein assembly factor with WDR repeat domains 1 [Source:MGI Symbol;Acc:MGI:1923089]	18196	-0.8176718354225159	-0.5425174	Yes	
+row_219	Dnah2	dynein, axonemal, heavy chain 2 [Source:MGI Symbol;Acc:MGI:107731]	18292	-0.835319995880127	-0.5445469	Yes	
+row_220	Enkd1	enkurin domain containing 1 [Source:MGI Symbol;Acc:MGI:2142593]	18318	-0.8386446237564087	-0.5433831	Yes	
+row_221	Bbs5	Bardet-Biedl syndrome 5 (human) [Source:MGI Symbol;Acc:MGI:1919819]	18324	-0.8400006294250488	-0.54130584	Yes	
+row_222	Arl6	ADP-ribosylation factor-like 6 [Source:MGI Symbol;Acc:MGI:1927136]	18351	-0.8458295464515686	-0.5401678	Yes	
+row_223	Ahi1	Abelson helper integration site 1 [Source:MGI Symbol;Acc:MGI:87971]	18401	-0.8565669655799866	-0.5400466	Yes	
+row_224	Tub	tubby bipartite transcription factor [Source:MGI Symbol;Acc:MGI:2651573]	18426	-0.861883819103241	-0.53877354	Yes	
+row_225	Fuz	fuzzy planar cell polarity protein [Source:MGI Symbol;Acc:MGI:1917550]	18495	-0.8731899857521057	-0.5394709	Yes	
+row_226	Mir34b	microRNA 34b [Source:MGI Symbol;Acc:MGI:3619364]	18510	-0.8767713904380798	-0.5377022	Yes	
+row_227	Nedd9	neural precursor cell expressed, developmentally down-regulated gene 9 [Source:MGI Symbol;Acc:MGI:97302]	18563	-0.8869043588638306	-0.53763413	Yes	
+row_228	Ift88	intraflagellar transport 88 [Source:MGI Symbol;Acc:MGI:98715]	18583	-0.8904038071632385	-0.53605545	Yes	
+row_229	Ttll8	tubulin tyrosine ligase-like family, member 8 [Source:MGI Symbol;Acc:MGI:1922902]	18621	-0.8957818150520325	-0.5352807	Yes	
+row_230	Ccdc13	coiled-coil domain containing 13 [Source:MGI Symbol;Acc:MGI:1920144]	18636	-0.8992853760719299	-0.5334502	Yes	
+row_231	Odad2	outer dynein arm docking complex subunit 2 [Source:MGI Symbol;Acc:MGI:1922184]	18663	-0.9040345549583435	-0.5321525	Yes	
+row_232	Cep20	centrosomal protein 20 [Source:MGI Symbol;Acc:MGI:1913336]	18678	-0.90851229429245	-0.5302966	Yes	
+row_233	Dnai2	dynein axonemal intermediate chain 2 [Source:MGI Symbol;Acc:MGI:2685574]	18709	-0.9144254922866821	-0.5291524	Yes	
+row_234	Stil	Scl/Tal1 interrupting locus [Source:MGI Symbol;Acc:MGI:107477]	18717	-0.9160098433494568	-0.5269576	Yes	
+row_235	Rpgrip1	retinitis pigmentosa GTPase regulator interacting protein 1 [Source:MGI Symbol;Acc:MGI:1932134]	18756	-0.9218246340751648	-0.5261569	Yes	
+row_236	Alms1	ALMS1, centrosome and basal body associated [Source:MGI Symbol;Acc:MGI:1934606]	18788	-0.9277005195617676	-0.5250217	Yes	
+row_237	Ift74	intraflagellar transport 74 [Source:MGI Symbol;Acc:MGI:1914944]	18794	-0.9284688234329224	-0.5227017	Yes	
+row_238	Evi5l	ecotropic viral integration site 5 like [Source:MGI Symbol;Acc:MGI:2442167]	18803	-0.9293512105941772	-0.52051574	Yes	
+row_239	Pfn4	profilin family, member 4 [Source:MGI Symbol;Acc:MGI:1920121]	18810	-0.9307328462600708	-0.518235	Yes	
+row_240	Eno4	enolase 4 [Source:MGI Symbol;Acc:MGI:2441717]	18900	-0.9478181004524231	-0.51968294	Yes	
+row_241	Rabl2	RAB, member RAS oncogene family-like 2 [Source:MGI Symbol;Acc:MGI:1915958]	18953	-0.9603843092918396	-0.5194133	Yes	
+row_242	Ccno	cyclin O [Source:MGI Symbol;Acc:MGI:2145534]	18959	-0.9610431790351868	-0.5170039	Yes	
+row_243	Cibar2	CBY1 interacting BAR domain containing 2 [Source:MGI Symbol;Acc:MGI:3588213]	19001	-0.9713091850280762	-0.51620394	Yes	
+row_244	Rab3ip	RAB3A interacting protein [Source:MGI Symbol;Acc:MGI:105933]	19007	-0.9724082946777344	-0.5137634	Yes	
+row_245	Arl3	ADP-ribosylation factor-like 3 [Source:MGI Symbol;Acc:MGI:1929699]	19020	-0.975049614906311	-0.51163405	Yes	
+row_246	Tekt2	tektin 2 [Source:MGI Symbol;Acc:MGI:1346335]	19122	-0.9990944266319275	-0.5134871	Yes	
+row_247	Bbs2	Bardet-Biedl syndrome 2 (human) [Source:MGI Symbol;Acc:MGI:2135267]	19178	-1.0123893022537231	-0.5132112	Yes	
+row_248	Spag1	sperm associated antigen 1 [Source:MGI Symbol;Acc:MGI:1349387]	19193	-1.0171175003051758	-0.5110574	Yes	
+row_249	Iqcb1	IQ calmodulin-binding motif containing 1 [Source:MGI Symbol;Acc:MGI:2443764]	19195	-1.0173982381820679	-0.50831145	Yes	
+row_250	Cfap298	cilia and flagella associate protien 298 [Source:MGI Symbol;Acc:MGI:1915251]	19212	-1.0204883813858032	-0.50623935	Yes	
+row_251	Dnaaf4	dynein axonemal assembly factor 4 [Source:MGI Symbol;Acc:MGI:1914935]	19219	-1.021766185760498	-0.5037089	Yes	
+row_252	Wwtr1	WW domain containing transcription regulator 1 [Source:MGI Symbol;Acc:MGI:1917649]	19220	-1.0223268270492554	-0.50090396	Yes	
+row_253	Erich3	glutamate rich 3 [Source:MGI Symbol;Acc:MGI:1919095]	19306	-1.0419607162475586	-0.5019116	Yes	
+row_254	Cep128	centrosomal protein 128 [Source:MGI Symbol;Acc:MGI:1922466]	19359	-1.0565900802612305	-0.501378	Yes	
+row_255	Lama5	laminin, alpha 5 [Source:MGI Symbol;Acc:MGI:105382]	19389	-1.0639468431472778	-0.499778	Yes	
+row_256	Cby1	chibby family member 1, beta catenin antagonist [Source:MGI Symbol;Acc:MGI:1920989]	19413	-1.0687358379364014	-0.49789193	Yes	
+row_257	Cep41	centrosomal protein 41 [Source:MGI Symbol;Acc:MGI:1891414]	19428	-1.072901725769043	-0.49558505	Yes	
+row_258	Mak	male germ cell-associated kinase [Source:MGI Symbol;Acc:MGI:96913]	19435	-1.0754183530807495	-0.49290738	Yes	
+row_259	Ift57	intraflagellar transport 57 [Source:MGI Symbol;Acc:MGI:1921166]	19447	-1.0780751705169678	-0.49044985	Yes	
+row_260	Ttll3	tubulin tyrosine ligase-like family, member 3 [Source:MGI Symbol;Acc:MGI:2141418]	19458	-1.0813677310943604	-0.48793778	Yes	
+row_261	Wdr90	WD repeat domain 90 [Source:MGI Symbol;Acc:MGI:1921267]	19473	-1.085046410560608	-0.48559758	Yes	
+row_262	Dnah5	dynein, axonemal, heavy chain 5 [Source:MGI Symbol;Acc:MGI:107718]	19474	-1.0854227542877197	-0.48261952	Yes	
+row_263	Ccdc66	coiled-coil domain containing 66 [Source:MGI Symbol;Acc:MGI:2443639]	19482	-1.0878007411956787	-0.47995335	Yes	
+row_264	Rfx4	regulatory factor X, 4 (influences HLA class II expression) [Source:MGI Symbol;Acc:MGI:1918387]	19500	-1.091855525970459	-0.47773093	Yes	
+row_265	Wdpcp	WD repeat containing planar cell polarity effector [Source:MGI Symbol;Acc:MGI:2144467]	19561	-1.1083968877792358	-0.4774191	Yes	
+row_266	Fam161a	family with sequence similarity 161, member A [Source:MGI Symbol;Acc:MGI:1921123]	19624	-1.122541904449463	-0.47715944	Yes	
+row_267	Septin9	septin 9 [Source:MGI Symbol;Acc:MGI:1858222]	19630	-1.1238635778427124	-0.47430333	Yes	
+row_268	Dnajb13	DnaJ heat shock protein family (Hsp40) member B13 [Source:MGI Symbol;Acc:MGI:1916637]	19751	-1.1583824157714844	-0.47658363	Yes	
+row_269	Ttc8	tetratricopeptide repeat domain 8 [Source:MGI Symbol;Acc:MGI:1923510]	19759	-1.1611686944961548	-0.47371614	Yes	
+row_270	Wdr19	WD repeat domain 19 [Source:MGI Symbol;Acc:MGI:2443231]	19807	-1.1757601499557495	-0.47262815	Yes	
+row_271	Cfap54	cilia and flagella associated protein 54 [Source:MGI Symbol;Acc:MGI:1922208]	19808	-1.175922155380249	-0.46940178	Yes	
+row_272	Ift27	intraflagellar transport 27 [Source:MGI Symbol;Acc:MGI:1914292]	19809	-1.1761912107467651	-0.4661747	Yes	
+row_273	Ift81	intraflagellar transport 81 [Source:MGI Symbol;Acc:MGI:1098597]	19851	-1.189515233039856	-0.46477604	Yes	
+row_274	Ccdc65	coiled-coil domain containing 65 [Source:MGI Symbol;Acc:MGI:2146001]	19912	-1.2015522718429565	-0.4642086	Yes	
+row_275	Dnaaf6b	dynein axonemal assembly factor 6B [Source:MGI Symbol;Acc:MGI:3607720]	19955	-1.212457299232483	-0.4627925	Yes	
+row_276	Mir34c	microRNA 34c [Source:MGI Symbol;Acc:MGI:3619365]	19970	-1.2203956842422485	-0.46008092	Yes	
+row_277	Intu	inturned planar cell polarity protein [Source:MGI Symbol;Acc:MGI:2443752]	19991	-1.2258085012435913	-0.45762745	Yes	
+row_278	Tmem216	transmembrane protein 216 [Source:MGI Symbol;Acc:MGI:1920020]	20019	-1.2362873554229736	-0.45546365	Yes	
+row_279	Cep89	centrosomal protein 89 [Source:MGI Symbol;Acc:MGI:1919390]	20021	-1.2372177839279175	-0.45211458	Yes	
+row_280	Tekt1	tektin 1 [Source:MGI Symbol;Acc:MGI:1333819]	20029	-1.2387638092041016	-0.4490342	Yes	
+row_281	Wdr54	WD repeat domain 54 [Source:MGI Symbol;Acc:MGI:1922909]	20041	-1.242629051208496	-0.4461252	Yes	
+row_282	Yap1	yes-associated protein 1 [Source:MGI Symbol;Acc:MGI:103262]	20077	-1.251093864440918	-0.44428465	Yes	
+row_283	Ift80	intraflagellar transport 80 [Source:MGI Symbol;Acc:MGI:1915509]	20103	-1.2561451196670532	-0.44197538	Yes	
+row_284	Syne2	spectrin repeat containing, nuclear envelope 2 [Source:MGI Symbol;Acc:MGI:2449316]	20147	-1.2693766355514526	-0.44044858	Yes	
+row_285	Drc1	dynein regulatory complex subunit 1 [Source:MGI Symbol;Acc:MGI:2685906]	20153	-1.2707854509353638	-0.4371894	Yes	
+row_286	Cdc14b	CDC14 cell division cycle 14B [Source:MGI Symbol;Acc:MGI:2441808]	20189	-1.2844367027282715	-0.43525738	Yes	
+row_287	Tmem17	transmembrane protein 17 [Source:MGI Symbol;Acc:MGI:2144205]	20235	-1.2993571758270264	-0.43373927	Yes	
+row_288	Cfap47	cilia and flagella associated protein 47 [Source:MGI Symbol;Acc:MGI:3781475]	20252	-1.304895043373108	-0.43088686	Yes	
+row_289	Dnal1	dynein, axonemal, light chain 1 [Source:MGI Symbol;Acc:MGI:1921462]	20253	-1.3051875829696655	-0.42730585	Yes	
+row_290	Mapk15	mitogen-activated protein kinase 15 [Source:MGI Symbol;Acc:MGI:2652894]	20282	-1.3150196075439453	-0.4249715	Yes	
+row_291	Cep164	centrosomal protein 164 [Source:MGI Symbol;Acc:MGI:2384878]	20289	-1.3160200119018555	-0.42163366	Yes	
+row_292	Ccdc113	coiled-coil domain containing 113 [Source:MGI Symbol;Acc:MGI:3606076]	20311	-1.3245306015014648	-0.41895482	Yes	
+row_293	Rp1	retinitis pigmentosa 1 (human) [Source:MGI Symbol;Acc:MGI:1341105]	20316	-1.3250283002853394	-0.4155013	Yes	
+row_294	Foxj1	forkhead box J1 [Source:MGI Symbol;Acc:MGI:1347474]	20335	-1.3313711881637573	-0.4126672	Yes	
+row_295	Ift43	intraflagellar transport 43 [Source:MGI Symbol;Acc:MGI:1923661]	20353	-1.3365806341171265	-0.40977335	Yes	
+row_296	Dnah7b	dynein, axonemal, heavy chain 7B [Source:MGI Symbol;Acc:MGI:2684953]	20412	-1.3530991077423096	-0.40869915	Yes	
+row_297	Ttc26	tetratricopeptide repeat domain 26 [Source:MGI Symbol;Acc:MGI:2444853]	20428	-1.360170841217041	-0.4056496	Yes	
+row_298	Catip	ciliogenesis associated TTC17 interacting protein [Source:MGI Symbol;Acc:MGI:2685062]	20455	-1.3712412118911743	-0.40307	Yes	
+row_299	Odad1	outer dynein arm docking complex subunit 1 [Source:MGI Symbol;Acc:MGI:2446120]	20471	-1.3765299320220947	-0.39997557	Yes	
+row_300	Dnah7a	dynein, axonemal, heavy chain 7A [Source:MGI Symbol;Acc:MGI:2685838]	20480	-1.3785549402236938	-0.39655715	Yes	
+row_301	Cfap161	cilia and flagella associated protein 161 [Source:MGI Symbol;Acc:MGI:1922806]	20546	-1.401161789894104	-0.3956695	Yes	
+row_302	Celsr2	cadherin, EGF LAG seven-pass G-type receptor 2 [Source:MGI Symbol;Acc:MGI:1858235]	20550	-1.4026554822921753	-0.39195752	Yes	
+row_303	Pkd2	polycystin 2, transient receptor potential cation channel [Source:MGI Symbol;Acc:MGI:1099818]	20558	-1.4044899940490723	-0.38842246	Yes	
+row_304	Armc9	armadillo repeat containing 9 [Source:MGI Symbol;Acc:MGI:1926045]	20575	-1.4091994762420654	-0.38528386	Yes	
+row_305	Dnmbp	dynamin binding protein [Source:MGI Symbol;Acc:MGI:1917352]	20603	-1.4187995195388794	-0.38261926	Yes	
+row_306	Cfap91	cilia and flagella associated protein 91 [Source:MGI Symbol;Acc:MGI:2443598]	20624	-1.4255441427230835	-0.37961778	Yes	
+row_307	Zfp423	zinc finger protein 423 [Source:MGI Symbol;Acc:MGI:1891217]	20647	-1.4330861568450928	-0.37668657	Yes	
+row_308	Cfap206	cilia and flagella associated protein 206 [Source:MGI Symbol;Acc:MGI:1916579]	20663	-1.4395978450775146	-0.37341908	Yes	
+row_309	Rsph4a	radial spoke head 4 homolog A (Chlamydomonas) [Source:MGI Symbol;Acc:MGI:3027894]	20714	-1.4585731029510498	-0.3716916	Yes	
+row_310	Dzip1l	DAZ interacting protein 1-like [Source:MGI Symbol;Acc:MGI:1919757]	20727	-1.4649626016616821	-0.36821806	Yes	
+row_311	Fbf1	Fas (TNFRSF6) binding factor 1 [Source:MGI Symbol;Acc:MGI:1922033]	20739	-1.4699440002441406	-0.36468536	Yes	
+row_312	Rsph9	radial spoke head 9 homolog (Chlamydomonas) [Source:MGI Symbol;Acc:MGI:1922814]	20744	-1.4713003635406494	-0.36083052	Yes	
+row_313	Klc3	kinesin light chain 3 [Source:MGI Symbol;Acc:MGI:1277971]	20755	-1.4760955572128296	-0.35723546	Yes	
+row_314	Arhgap35	Rho GTPase activating protein 35 [Source:MGI Symbol;Acc:MGI:1929494]	20762	-1.4783629179000854	-0.35345224	Yes	
+row_315	Ift122	intraflagellar transport 122 [Source:MGI Symbol;Acc:MGI:1932386]	20784	-1.4873918294906616	-0.35032654	Yes	
+row_316	Tmem231	transmembrane protein 231 [Source:MGI Symbol;Acc:MGI:2685024]	20814	-1.4984923601150513	-0.34753427	Yes	
+row_317	Cc2d2a	coiled-coil and C2 domain containing 2A [Source:MGI Symbol;Acc:MGI:1924487]	20815	-1.4985371828079224	-0.34342277	Yes	
+row_318	Cibar1	CBY1 interacting BAR domain containing 1 [Source:MGI Symbol;Acc:MGI:1915349]	20819	-1.499749779701233	-0.33944437	Yes	
+row_319	Fam161b	family with sequence similarity 161, member B [Source:MGI Symbol;Acc:MGI:2443027]	20833	-1.5048420429229736	-0.33590692	Yes	
+row_320	Wdr35	WD repeat domain 35 [Source:MGI Symbol;Acc:MGI:1921932]	20842	-1.5095858573913574	-0.33212897	Yes	
+row_321	Cfap126	cilia and flagella associated protein 126 [Source:MGI Symbol;Acc:MGI:1922722]	20846	-1.5104175806045532	-0.32812133	Yes	
+row_322	Ccdc103	coiled-coil domain containing 103 [Source:MGI Symbol;Acc:MGI:1920543]	20929	-1.5467311143875122	-0.32760757	Yes	
+row_323	1700012B09Rik	RIKEN cDNA 1700012B09 gene [Source:MGI Symbol;Acc:MGI:1916575]	20977	-1.5685412883758545	-0.32544193	Yes	
+row_324	Zic2	zinc finger protein of the cerebellum 2 [Source:MGI Symbol;Acc:MGI:106679]	20982	-1.5712831020355225	-0.32131276	Yes	
+row_325	Hoatz	HOATZ cilia and flagella associated protein [Source:MGI Symbol;Acc:MGI:1921013]	21005	-1.5814615488052368	-0.31797445	Yes	
+row_326	Cfap58	cilia and flagella associated protein 58 [Source:MGI Symbol;Acc:MGI:2685815]	21040	-1.5923348665237427	-0.31515217	Yes	
+row_327	Dync2li1	dynein cytoplasmic 2 light intermediate chain 1 [Source:MGI Symbol;Acc:MGI:1913996]	21049	-1.5982316732406616	-0.31113103	Yes	
+row_328	Rilp	Rab interacting lysosomal protein [Source:MGI Symbol;Acc:MGI:2144271]	21083	-1.6101716756820679	-0.3082143	Yes	
+row_329	Cep162	centrosomal protein 162 [Source:MGI Symbol;Acc:MGI:1925343]	21089	-1.6127004623413086	-0.304017	Yes	
+row_330	Dync2i1	dynein 2 intermediate chain 1 [Source:MGI Symbol;Acc:MGI:2445085]	21131	-1.634171724319458	-0.30139834	Yes	
+row_331	Ehd3	EH-domain containing 3 [Source:MGI Symbol;Acc:MGI:1928900]	21138	-1.6368683576583862	-0.2971802	Yes	
+row_332	Cfap44	cilia and flagella associated protein 44 [Source:MGI Symbol;Acc:MGI:1277238]	21145	-1.6418876647949219	-0.29294834	Yes	
+row_333	Ehd2	EH-domain containing 2 [Source:MGI Symbol;Acc:MGI:2154274]	21146	-1.6419219970703125	-0.28844342	Yes	
+row_334	Kif27	kinesin family member 27 [Source:MGI Symbol;Acc:MGI:1922300]	21163	-1.6532096862792969	-0.2846353	Yes	
+row_335	Dnah1	dynein, axonemal, heavy chain 1 [Source:MGI Symbol;Acc:MGI:107721]	21178	-1.6573017835617065	-0.28072503	Yes	
+row_336	Rpgr	retinitis pigmentosa GTPase regulator [Source:MGI Symbol;Acc:MGI:1344037]	21203	-1.6668344736099243	-0.27724347	Yes	
+row_337	Cfap61	cilia and flagella associated protein 61 [Source:MGI Symbol;Acc:MGI:1926024]	21235	-1.6803759336471558	-0.27404317	Yes	
+row_338	Stk36	serine/threonine kinase 36 [Source:MGI Symbol;Acc:MGI:1920831]	21247	-1.687033772468567	-0.26991484	Yes	
+row_339	Odad4	outer dynein arm complex subunit 4 [Source:MGI Symbol;Acc:MGI:1921657]	21273	-1.6994554996490479	-0.26638925	Yes	
+row_340	Ttc30b	tetratricopeptide repeat domain 30B [Source:MGI Symbol;Acc:MGI:1919671]	21275	-1.7002956867218018	-0.26176965	Yes	
+row_341	Tekt5	tektin 5 [Source:MGI Symbol;Acc:MGI:1917676]	21295	-1.7103511095046997	-0.25794128	Yes	
+row_342	Rpgrip1l	Rpgrip1-like [Source:MGI Symbol;Acc:MGI:1920563]	21305	-1.71443772315979	-0.2536468	Yes	
+row_343	Cep131	centrosomal protein 131 [Source:MGI Symbol;Acc:MGI:107440]	21341	-1.7375465631484985	-0.25047156	Yes	
+row_344	Dync2i2	dynein 2 intermediate chain 2 [Source:MGI Symbol;Acc:MGI:1919070]	21394	-1.7761459350585938	-0.24796373	Yes	
+row_345	Parva	parvin, alpha [Source:MGI Symbol;Acc:MGI:1931144]	21407	-1.7809375524520874	-0.24362326	Yes	
+row_346	Ccdc96	coiled-coil domain containing 96 [Source:MGI Symbol;Acc:MGI:1913967]	21408	-1.781970500946045	-0.23873408	Yes	
+row_347	Spef1	sperm flagellar 1 [Source:MGI Symbol;Acc:MGI:3513546]	21409	-1.7821094989776611	-0.23384453	Yes	
+row_348	Zmynd10	zinc finger, MYND domain containing 10 [Source:MGI Symbol;Acc:MGI:2387863]	21436	-1.7994492053985596	-0.2300901	Yes	
+row_349	Odad3	outer dynein arm docking complex subunit 3 [Source:MGI Symbol;Acc:MGI:1924859]	21442	-1.803581953048706	-0.22536907	Yes	
+row_350	Cfap65	cilia and flagella associated protein 65 [Source:MGI Symbol;Acc:MGI:2444274]	21444	-1.8037015199661255	-0.22046576	Yes	
+row_351	Tmem107	transmembrane protein 107 [Source:MGI Symbol;Acc:MGI:1914160]	21454	-1.817511796951294	-0.21588849	Yes	
+row_352	Tctn2	tectonic family member 2 [Source:MGI Symbol;Acc:MGI:1915228]	21457	-1.819885492324829	-0.21098626	Yes	
+row_353	Ak7	adenylate kinase 7 [Source:MGI Symbol;Acc:MGI:1926051]	21498	-1.8449676036834717	-0.20774376	Yes	
+row_354	Cfap70	cilia and flagella associated protein 70 [Source:MGI Symbol;Acc:MGI:1923920]	21517	-1.8562958240509033	-0.20346944	Yes	
+row_355	Cfap43	cilia and flagella associated protein 43 [Source:MGI Symbol;Acc:MGI:1289258]	21527	-1.8639730215072632	-0.19876468	Yes	
+row_356	Kctd17	potassium channel tetramerisation domain containing 17 [Source:MGI Symbol;Acc:MGI:1920094]	21536	-1.8718836307525635	-0.19399272	Yes	
+row_357	Dcdc2a	doublecortin domain containing 2a [Source:MGI Symbol;Acc:MGI:2652818]	21542	-1.8744463920593262	-0.18907726	Yes	
+row_358	Pierce2	piercer of microtubule wall 2 [Source:MGI Symbol;Acc:MGI:3648770]	21594	-1.8966554403305054	-0.1861933	Yes	
+row_359	Rsph1	radial spoke head 1 homolog (Chlamydomonas) [Source:MGI Symbol;Acc:MGI:1194909]	21629	-1.921134352684021	-0.1824689	Yes	
+row_360	Limk2	LIM motif-containing protein kinase 2 [Source:MGI Symbol;Acc:MGI:1197517]	21640	-1.927552342414856	-0.17763518	Yes	
+row_361	Bbs1	Bardet-Biedl syndrome 1 (human) [Source:MGI Symbol;Acc:MGI:1277215]	21649	-1.9343695640563965	-0.17269178	Yes	
+row_362	Iqcg	IQ motif containing G [Source:MGI Symbol;Acc:MGI:1916957]	21678	-1.9577218294143677	-0.16859406	Yes	
+row_363	B9d1	B9 protein domain 1 [Source:MGI Symbol;Acc:MGI:1351471]	21683	-1.9595668315887451	-0.16339958	Yes	
+row_364	Ubxn10	UBX domain protein 10 [Source:MGI Symbol;Acc:MGI:2443123]	21708	-1.978467345237732	-0.15906298	Yes	
+row_365	Pierce1	piercer of microtubule wall 1 [Source:MGI Symbol;Acc:MGI:1916577]	21712	-1.9841586351394653	-0.15375555	Yes	
+row_366	Rfx2	regulatory factor X, 2 (influences HLA class II expression) [Source:MGI Symbol;Acc:MGI:106583]	21721	-1.9915653467178345	-0.14865522	Yes	
+row_367	Ccdc39	coiled-coil domain containing 39 [Source:MGI Symbol;Acc:MGI:1289263]	21729	-1.99476957321167	-0.14350061	Yes	
+row_368	Pifo	primary cilia formation [Source:MGI Symbol;Acc:MGI:1923670]	21735	-2.0014638900756836	-0.13823666	Yes	
+row_369	Ulk4	unc-51-like kinase 4 [Source:MGI Symbol;Acc:MGI:1921622]	21769	-2.020294427871704	-0.1341947	Yes	
+row_370	Spag16	sperm associated antigen 16 [Source:MGI Symbol;Acc:MGI:1913972]	21770	-2.022165536880493	-0.12864652	Yes	
+row_371	Spaca9	sperm acrosome associated 9 [Source:MGI Symbol;Acc:MGI:1917237]	21772	-2.022608757019043	-0.1231426	Yes	
+row_372	Spef2	sperm flagellar 2 [Source:MGI Symbol;Acc:MGI:2443727]	21780	-2.027047634124756	-0.11789943	Yes	
+row_373	Iqub	IQ motif and ubiquitin domain containing [Source:MGI Symbol;Acc:MGI:3041159]	21792	-2.03658127784729	-0.11281206	Yes	
+row_374	Armc2	armadillo repeat containing 2 [Source:MGI Symbol;Acc:MGI:1916449]	21794	-2.0380003452301025	-0.10726592	Yes	
+row_375	Cdkl5	cyclin-dependent kinase-like 5 [Source:MGI Symbol;Acc:MGI:1278336]	21828	-2.0606369972229004	-0.10311327	Yes	
+row_376	Cfap69	cilia and flagella associated protein 69 [Source:MGI Symbol;Acc:MGI:2443778]	21844	-2.0702545642852783	-0.09811546	Yes	
+row_377	Mns1	meiosis-specific nuclear structural protein 1 [Source:MGI Symbol;Acc:MGI:107933]	21868	-2.087987184524536	-0.093432896	Yes	
+row_378	Dnai4	dynein axonemal intermediate chain 4 [Source:MGI Symbol;Acc:MGI:2385328]	21911	-2.1249051094055176	-0.0895133	Yes	
+row_379	Tekt4	tektin 4 [Source:MGI Symbol;Acc:MGI:1919090]	21926	-2.1337132453918457	-0.08429589	Yes	
+row_380	Spag6l	sperm associated antigen 6-like [Source:MGI Symbol;Acc:MGI:1354388]	21933	-2.1409764289855957	-0.07869465	Yes	
+row_381	Ofd1	OFD1, centriole and centriolar satellite protein [Source:MGI Symbol;Acc:MGI:1350328]	21970	-2.191586494445801	-0.074319184	Yes	
+row_382	Tsga10ip	testis specific 10 interacting protein [Source:MGI Symbol;Acc:MGI:1925556]	21981	-2.2124383449554443	-0.06870382	Yes	
+row_383	Ablim1	actin-binding LIM protein 1 [Source:MGI Symbol;Acc:MGI:1194500]	21992	-2.2286694049835205	-0.06304394	Yes	
+row_384	Nme5	NME/NM23 family member 5 [Source:MGI Symbol;Acc:MGI:1922783]	22001	-2.2413010597229004	-0.05725841	Yes	
+row_385	Hydin	HYDIN, axonemal central pair apparatus protein [Source:MGI Symbol;Acc:MGI:2389007]	22104	-2.4098012447357178	-0.05528641	Yes	
+row_386	Meig1	meiosis expressed gene 1 [Source:MGI Symbol;Acc:MGI:1202878]	22123	-2.4490444660186768	-0.049385782	Yes	
+row_387	Ttc29	tetratricopeptide repeat domain 29 [Source:MGI Symbol;Acc:MGI:1920551]	22175	-2.5505528450012207	-0.044707738	Yes	
+row_388	Dnai3	dynein axonemal intermediate chain 3 [Source:MGI Symbol;Acc:MGI:3045269]	22180	-2.5663347244262695	-0.037848473	Yes	
+row_389	Dnai1	dynein axonemal intermediate chain 1 [Source:MGI Symbol;Acc:MGI:1916172]	22189	-2.5956437587738037	-0.031090744	Yes	
+row_390	Syne1	spectrin repeat containing, nuclear envelope 1 [Source:MGI Symbol;Acc:MGI:1927152]	22210	-2.6418356895446777	-0.024752133	Yes	
+row_391	Fhdc1	FH2 domain containing 1 [Source:MGI Symbol;Acc:MGI:2684972]	22243	-2.7500007152557373	-0.0186626	Yes	
+row_392	Ttll5	tubulin tyrosine ligase-like family, member 5 [Source:MGI Symbol;Acc:MGI:2443657]	22245	-2.7597341537475586	-0.011136246	Yes	
+row_393	Gmnc	geminin coiled-coil domain containing [Source:MGI Symbol;Acc:MGI:2685452]	22309	-3.100179672241211	-0.005496049	Yes	
+row_394	Ttc21a	tetratricopeptide repeat domain 21A [Source:MGI Symbol;Acc:MGI:1921302]	22313	-3.1303493976593018	0.0029561813	Yes	

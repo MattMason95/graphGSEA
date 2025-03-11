@@ -1,0 +1,96 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	Neurl1a	neuralized E3 ubiquitin protein ligase 1A [Source:MGI Symbol;Acc:MGI:1334263]	1547	1.0432624816894531	-0.06047661	No	
+row_1	Dnaaf2	dynein, axonemal assembly factor 2 [Source:MGI Symbol;Acc:MGI:1923566]	3360	0.6739656329154968	-0.13601168	No	
+row_2	Cntrl	centriolin [Source:MGI Symbol;Acc:MGI:1889576]	3680	0.6303800344467163	-0.14492172	No	
+row_3	Dcx	doublecortin [Source:MGI Symbol;Acc:MGI:1277171]	4570	0.5194966793060303	-0.18036142	No	
+row_4	Spag6	sperm associated antigen 6 [Source:MGI Symbol;Acc:MGI:3040687]	8194	0.18469996750354767	-0.34136075	No	
+row_5	Tpgs1	tubulin polyglutamylase complex subunit 1 [Source:MGI Symbol;Acc:MGI:106618]	8785	0.13813194632530212	-0.36665273	No	
+row_6	Lrrc61	leucine rich repeat containing 61 [Source:MGI Symbol;Acc:MGI:2652848]	9184	0.10642567276954651	-0.38360053	No	
+row_7	Ttll1	tubulin tyrosine ligase-like 1 [Source:MGI Symbol;Acc:MGI:2443047]	9815	0.054738111793994904	-0.41140258	No	
+row_8	Dnah17	dynein, axonemal, heavy chain 17 [Source:MGI Symbol;Acc:MGI:1917176]	9994	0.04045981168746948	-0.41904348	No	
+row_9	Ube2b	ubiquitin-conjugating enzyme E2B [Source:MGI Symbol;Acc:MGI:102944]	12601	-0.17071157693862915	-0.5345246	No	
+row_10	Nisch	nischarin [Source:MGI Symbol;Acc:MGI:1928323]	13685	-0.2636569142341614	-0.5808638	No	
+row_11	Gas8	growth arrest specific 8 [Source:MGI Symbol;Acc:MGI:1202386]	13839	-0.27957960963249207	-0.58533245	No	
+row_12	Dnaaf5	dynein, axonemal assembly factor 5 [Source:MGI Symbol;Acc:MGI:3616079]	14117	-0.30709394812583923	-0.5951297	No	
+row_13	Cluap1	clusterin associated protein 1 [Source:MGI Symbol;Acc:MGI:1924029]	14463	-0.34178316593170166	-0.6076811	No	
+row_14	Ttc12	tetratricopeptide repeat domain 12 [Source:MGI Symbol;Acc:MGI:2444588]	14626	-0.3566262423992157	-0.611893	No	
+row_15	Ccdc63	coiled-coil domain containing 63 [Source:MGI Symbol;Acc:MGI:3607777]	14895	-0.38434359431266785	-0.62062407	No	
+row_16	Spag17	sperm associated antigen 17 [Source:MGI Symbol;Acc:MGI:1921612]	14958	-0.3908132314682007	-0.6200553	No	
+row_17	Jhy	junctional cadherin complex regulator [Source:MGI Symbol;Acc:MGI:1918239]	15012	-0.39604130387306213	-0.61903787	No	
+row_18	Dnaaf3	dynein, axonemal assembly factor 3 [Source:MGI Symbol;Acc:MGI:3588207]	15331	-0.42892196774482727	-0.62963045	No	
+row_19	Dnah7c	dynein, axonemal, heavy chain 7C [Source:MGI Symbol;Acc:MGI:3639762]	15538	-0.4499889016151428	-0.6350163	No	
+row_20	Cfap97d1	CFAP97 domain containing 1 [Source:MGI Symbol;Acc:MGI:1922687]	15808	-0.4813176393508911	-0.6429607	No	
+row_21	Dnaaf1	dynein, axonemal assembly factor 1 [Source:MGI Symbol;Acc:MGI:1915520]	16713	-0.5957582592964172	-0.67841965	No	
+row_22	Tbc1d21	TBC1 domain family, member 21 [Source:MGI Symbol;Acc:MGI:1921536]	16881	-0.6193516850471497	-0.6806032	No	
+row_23	Cplane2	ciliogenesis and planar polarity effector 2 [Source:MGI Symbol;Acc:MGI:1923416]	16976	-0.6305590867996216	-0.6794148	No	
+row_24	Tbc1d32	TBC1 domain family, member 32 [Source:MGI Symbol;Acc:MGI:2442827]	17335	-0.6777703166007996	-0.68966866	Yes	
+row_25	Ccdc40	coiled-coil domain containing 40 [Source:MGI Symbol;Acc:MGI:2443893]	17415	-0.6876903772354126	-0.68731725	Yes	
+row_26	Pla2g3	phospholipase A2, group III [Source:MGI Symbol;Acc:MGI:2444945]	17491	-0.7015511989593506	-0.68466747	Yes	
+row_27	Cfap157	cilia and flagella associated protein 157 [Source:MGI Symbol;Acc:MGI:2447809]	17546	-0.7088720798492432	-0.6810125	Yes	
+row_28	Ift46	intraflagellar transport 46 [Source:MGI Symbol;Acc:MGI:1923818]	17794	-0.7497797608375549	-0.68566775	Yes	
+row_29	Dnaaf11	dynein axonemal assembly factor 11 [Source:MGI Symbol;Acc:MGI:1859553]	17877	-0.7638670206069946	-0.6827978	Yes	
+row_30	Dnah8	dynein, axonemal, heavy chain 8 [Source:MGI Symbol;Acc:MGI:107714]	17879	-0.7644346952438354	-0.67628807	Yes	
+row_31	Drc7	dynein regulatory complex subunit 7 [Source:MGI Symbol;Acc:MGI:2685616]	17998	-0.785152792930603	-0.6748511	Yes	
+row_32	Lrrc43	leucine rich repeat containing 43 [Source:MGI Symbol;Acc:MGI:2685907]	18087	-0.7994781732559204	-0.67194504	Yes	
+row_33	Lrguk	leucine-rich repeats and guanylate kinase domain containing [Source:MGI Symbol;Acc:MGI:1921604]	18133	-0.8073331713676453	-0.667042	Yes	
+row_34	Daw1	dynein assembly factor with WDR repeat domains 1 [Source:MGI Symbol;Acc:MGI:1923089]	18196	-0.8176718354225159	-0.6628132	Yes	
+row_35	Dnah2	dynein, axonemal, heavy chain 2 [Source:MGI Symbol;Acc:MGI:107731]	18292	-0.835319995880127	-0.65991396	Yes	
+row_36	Ift88	intraflagellar transport 88 [Source:MGI Symbol;Acc:MGI:98715]	18583	-0.8904038071632385	-0.66529304	Yes	
+row_37	Odad2	outer dynein arm docking complex subunit 2 [Source:MGI Symbol;Acc:MGI:1922184]	18663	-0.9040345549583435	-0.66108656	Yes	
+row_38	Dnai2	dynein axonemal intermediate chain 2 [Source:MGI Symbol;Acc:MGI:2685574]	18709	-0.9144254922866821	-0.6552653	Yes	
+row_39	Tekt2	tektin 2 [Source:MGI Symbol;Acc:MGI:1346335]	19122	-0.9990944266319275	-0.6651872	Yes	
+row_40	Bbs2	Bardet-Biedl syndrome 2 (human) [Source:MGI Symbol;Acc:MGI:2135267]	19178	-1.0123893022537231	-0.65897465	Yes	
+row_41	Spag1	sperm associated antigen 1 [Source:MGI Symbol;Acc:MGI:1349387]	19193	-1.0171175003051758	-0.6508817	Yes	
+row_42	Dnaaf4	dynein axonemal assembly factor 4 [Source:MGI Symbol;Acc:MGI:1914935]	19219	-1.021766185760498	-0.6432425	Yes	
+row_43	Dnah5	dynein, axonemal, heavy chain 5 [Source:MGI Symbol;Acc:MGI:107718]	19474	-1.0854227542877197	-0.64533395	Yes	
+row_44	Dnajb13	DnaJ heat shock protein family (Hsp40) member B13 [Source:MGI Symbol;Acc:MGI:1916637]	19751	-1.1583824157714844	-0.647787	Yes	
+row_45	Ccdc65	coiled-coil domain containing 65 [Source:MGI Symbol;Acc:MGI:2146001]	19912	-1.2015522718429565	-0.6446644	Yes	
+row_46	Dnaaf6b	dynein axonemal assembly factor 6B [Source:MGI Symbol;Acc:MGI:3607720]	19955	-1.212457299232483	-0.636153	Yes	
+row_47	Drc1	dynein regulatory complex subunit 1 [Source:MGI Symbol;Acc:MGI:2685906]	20153	-1.2707854509353638	-0.63409716	Yes	
+row_48	Cfap47	cilia and flagella associated protein 47 [Source:MGI Symbol;Acc:MGI:3781475]	20252	-1.304895043373108	-0.62730616	Yes	
+row_49	Dnal1	dynein, axonemal, light chain 1 [Source:MGI Symbol;Acc:MGI:1921462]	20253	-1.3051875829696655	-0.6161149	Yes	
+row_50	Rp1	retinitis pigmentosa 1 (human) [Source:MGI Symbol;Acc:MGI:1341105]	20316	-1.3250283002853394	-0.6075358	Yes	
+row_51	Foxj1	forkhead box J1 [Source:MGI Symbol;Acc:MGI:1347474]	20335	-1.3313711881637573	-0.59692776	Yes	
+row_52	Dnah7b	dynein, axonemal, heavy chain 7B [Source:MGI Symbol;Acc:MGI:2684953]	20412	-1.3530991077423096	-0.58873624	Yes	
+row_53	Ttc26	tetratricopeptide repeat domain 26 [Source:MGI Symbol;Acc:MGI:2444853]	20428	-1.360170841217041	-0.5777466	Yes	
+row_54	Odad1	outer dynein arm docking complex subunit 1 [Source:MGI Symbol;Acc:MGI:2446120]	20471	-1.3765299320220947	-0.5678284	Yes	
+row_55	Dnah7a	dynein, axonemal, heavy chain 7A [Source:MGI Symbol;Acc:MGI:2685838]	20480	-1.3785549402236938	-0.5563671	Yes	
+row_56	Cfap91	cilia and flagella associated protein 91 [Source:MGI Symbol;Acc:MGI:2443598]	20624	-1.4255441427230835	-0.550561	Yes	
+row_57	Cfap206	cilia and flagella associated protein 206 [Source:MGI Symbol;Acc:MGI:1916579]	20663	-1.4395978450775146	-0.53992254	Yes	
+row_58	Rsph4a	radial spoke head 4 homolog A (Chlamydomonas) [Source:MGI Symbol;Acc:MGI:3027894]	20714	-1.4585731029510498	-0.5296598	Yes	
+row_59	Rsph9	radial spoke head 9 homolog (Chlamydomonas) [Source:MGI Symbol;Acc:MGI:1922814]	20744	-1.4713003635406494	-0.5183456	Yes	
+row_60	Cc2d2a	coiled-coil and C2 domain containing 2A [Source:MGI Symbol;Acc:MGI:1924487]	20815	-1.4985371828079224	-0.5086378	Yes	
+row_61	Ccdc103	coiled-coil domain containing 103 [Source:MGI Symbol;Acc:MGI:1920543]	20929	-1.5467311143875122	-0.5004463	Yes	
+row_62	Hoatz	HOATZ cilia and flagella associated protein [Source:MGI Symbol;Acc:MGI:1921013]	21005	-1.5814615488052368	-0.49025178	Yes	
+row_63	Cfap58	cilia and flagella associated protein 58 [Source:MGI Symbol;Acc:MGI:2685815]	21040	-1.5923348665237427	-0.47812417	Yes	
+row_64	Cfap44	cilia and flagella associated protein 44 [Source:MGI Symbol;Acc:MGI:1277238]	21145	-1.6418876647949219	-0.4687129	Yes	
+row_65	Dnah1	dynein, axonemal, heavy chain 1 [Source:MGI Symbol;Acc:MGI:107721]	21178	-1.6573017835617065	-0.4559385	Yes	
+row_66	Stk36	serine/threonine kinase 36 [Source:MGI Symbol;Acc:MGI:1920831]	21247	-1.687033772468567	-0.44452462	Yes	
+row_67	Odad4	outer dynein arm complex subunit 4 [Source:MGI Symbol;Acc:MGI:1921657]	21273	-1.6994554996490479	-0.43107462	Yes	
+row_68	Cep131	centrosomal protein 131 [Source:MGI Symbol;Acc:MGI:107440]	21341	-1.7375465631484985	-0.41918275	Yes	
+row_69	Spef1	sperm flagellar 1 [Source:MGI Symbol;Acc:MGI:3513546]	21409	-1.7821094989776611	-0.40690878	Yes	
+row_70	Zmynd10	zinc finger, MYND domain containing 10 [Source:MGI Symbol;Acc:MGI:2387863]	21436	-1.7994492053985596	-0.39264628	Yes	
+row_71	Odad3	outer dynein arm docking complex subunit 3 [Source:MGI Symbol;Acc:MGI:1924859]	21442	-1.803581953048706	-0.37740594	Yes	
+row_72	Cfap65	cilia and flagella associated protein 65 [Source:MGI Symbol;Acc:MGI:2444274]	21444	-1.8037015199661255	-0.36198506	Yes	
+row_73	Ak7	adenylate kinase 7 [Source:MGI Symbol;Acc:MGI:1926051]	21498	-1.8449676036834717	-0.34854388	Yes	
+row_74	Cfap43	cilia and flagella associated protein 43 [Source:MGI Symbol;Acc:MGI:1289258]	21527	-1.8639730215072632	-0.33381787	Yes	
+row_75	Pierce2	piercer of microtubule wall 2 [Source:MGI Symbol;Acc:MGI:3648770]	21594	-1.8966554403305054	-0.32051685	Yes	
+row_76	Rsph1	radial spoke head 1 homolog (Chlamydomonas) [Source:MGI Symbol;Acc:MGI:1194909]	21629	-1.921134352684021	-0.30556995	Yes	
+row_77	Iqcg	IQ motif containing G [Source:MGI Symbol;Acc:MGI:1916957]	21678	-1.9577218294143677	-0.2909376	Yes	
+row_78	Pierce1	piercer of microtubule wall 1 [Source:MGI Symbol;Acc:MGI:1916577]	21712	-1.9841586351394653	-0.2754054	Yes	
+row_79	Ccdc39	coiled-coil domain containing 39 [Source:MGI Symbol;Acc:MGI:1289263]	21729	-1.99476957321167	-0.25901937	Yes	
+row_80	Ulk4	unc-51-like kinase 4 [Source:MGI Symbol;Acc:MGI:1921622]	21769	-2.020294427871704	-0.2434466	Yes	
+row_81	Spag16	sperm associated antigen 16 [Source:MGI Symbol;Acc:MGI:1913972]	21770	-2.022165536880493	-0.22610766	Yes	
+row_82	Spaca9	sperm acrosome associated 9 [Source:MGI Symbol;Acc:MGI:1917237]	21772	-2.022608757019043	-0.2088098	Yes	
+row_83	Spef2	sperm flagellar 2 [Source:MGI Symbol;Acc:MGI:2443727]	21780	-2.027047634124756	-0.1917431	Yes	
+row_84	Armc2	armadillo repeat containing 2 [Source:MGI Symbol;Acc:MGI:1916449]	21794	-2.0380003452301025	-0.17485176	Yes	
+row_85	Cfap69	cilia and flagella associated protein 69 [Source:MGI Symbol;Acc:MGI:2443778]	21844	-2.0702545642852783	-0.15929936	Yes	
+row_86	Mns1	meiosis-specific nuclear structural protein 1 [Source:MGI Symbol;Acc:MGI:107933]	21868	-2.087987184524536	-0.14242816	Yes	
+row_87	Dnai4	dynein axonemal intermediate chain 4 [Source:MGI Symbol;Acc:MGI:2385328]	21911	-2.1249051094055176	-0.12609304	Yes	
+row_88	Spag6l	sperm associated antigen 6-like [Source:MGI Symbol;Acc:MGI:1354388]	21933	-2.1409764289855957	-0.10867774	Yes	
+row_89	Ofd1	OFD1, centriole and centriolar satellite protein [Source:MGI Symbol;Acc:MGI:1350328]	21970	-2.191586494445801	-0.09150161	Yes	
+row_90	Hydin	HYDIN, axonemal central pair apparatus protein [Source:MGI Symbol;Acc:MGI:2389007]	22104	-2.4098012447357178	-0.076807305	Yes	
+row_91	Meig1	meiosis expressed gene 1 [Source:MGI Symbol;Acc:MGI:1202878]	22123	-2.4490444660186768	-0.056615863	Yes	
+row_92	Dnai3	dynein axonemal intermediate chain 3 [Source:MGI Symbol;Acc:MGI:3045269]	22180	-2.5663347244262695	-0.037123982	Yes	
+row_93	Dnai1	dynein axonemal intermediate chain 1 [Source:MGI Symbol;Acc:MGI:1916172]	22189	-2.5956437587738037	-0.01522678	Yes	
+row_94	Ttll5	tubulin tyrosine ligase-like family, member 5 [Source:MGI Symbol;Acc:MGI:2443657]	22245	-2.7597341537475586	0.00596827	Yes	

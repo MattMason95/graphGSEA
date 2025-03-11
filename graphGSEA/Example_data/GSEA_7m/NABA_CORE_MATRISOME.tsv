@@ -1,0 +1,226 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	Srgn	serglycin [Source:MGI Symbol;Acc:MGI:97756]	14	3.4198224544525146	0.013995669	No	
+row_1	Comp	cartilage oligomeric matrix protein [Source:MGI Symbol;Acc:MGI:88469]	37	3.167114496231079	0.02654932	No	
+row_2	Fgl2	fibrinogen-like protein 2 [Source:MGI Symbol;Acc:MGI:103266]	79	2.758100986480713	0.036495864	No	
+row_3	Tgfbi	transforming growth factor, beta induced [Source:MGI Symbol;Acc:MGI:99959]	210	2.228189706802368	0.040158488	No	
+row_4	Postn	periostin, osteoblast specific factor [Source:MGI Symbol;Acc:MGI:1926321]	380	1.8331278562545776	0.040370908	No	
+row_5	Slamf6	SLAM family member 6 [Source:MGI Symbol;Acc:MGI:1353620]	432	1.772109866142273	0.045648687	No	
+row_6	Emilin2	elastin microfibril interfacer 2 [Source:MGI Symbol;Acc:MGI:2389136]	577	1.6298998594284058	0.046120305	No	
+row_7	Agrn	agrin [Source:MGI Symbol;Acc:MGI:87961]	902	1.3534717559814453	0.037284613	No	
+row_8	Mfap3	microfibrillar-associated protein 3 [Source:MGI Symbol;Acc:MGI:1924068]	1131	1.2128801345825195	0.032180868	No	
+row_9	Spp1	secreted phosphoprotein 1 [Source:MGI Symbol;Acc:MGI:98389]	1299	1.1462769508361816	0.029545698	No	
+row_10	Col27a1	collagen, type XXVII, alpha 1 [Source:MGI Symbol;Acc:MGI:2672118]	1505	1.0600996017456055	0.024826655	No	
+row_11	Ntng2	netrin G2 [Source:MGI Symbol;Acc:MGI:2159341]	2216	0.8660529255867004	-0.0035173642	No	
+row_12	Ints14	integrator complex subunit 14 [Source:MGI Symbol;Acc:MGI:1917132]	3003	0.723912239074707	-0.035899892	No	
+row_13	Dcn	decorin [Source:MGI Symbol;Acc:MGI:94872]	3379	0.6711037755012512	-0.049956348	No	
+row_14	Dpt	dermatopontin [Source:MGI Symbol;Acc:MGI:1928392]	3582	0.6440656781196594	-0.056319475	No	
+row_15	Col10a1	collagen, type X, alpha 1 [Source:MGI Symbol;Acc:MGI:88445]	3645	0.6349405646324158	-0.056402236	No	
+row_16	Lgi3	leucine-rich repeat LGI family, member 3 [Source:MGI Symbol;Acc:MGI:2182619]	3827	0.6123073101043701	-0.061953295	No	
+row_17	Slit1	slit guidance ligand 1 [Source:MGI Symbol;Acc:MGI:1315203]	4123	0.5738179087638855	-0.072814785	No	
+row_18	Mfap1a	microfibrillar-associated protein 1A [Source:MGI Symbol;Acc:MGI:1914782]	4465	0.5319372415542603	-0.085931785	No	
+row_19	Vwa5a	von Willebrand factor A domain containing 5A [Source:MGI Symbol;Acc:MGI:1915026]	4481	0.5307112336158752	-0.08433885	No	
+row_20	Ints6l	integrator complex subunit 6 like [Source:MGI Symbol;Acc:MGI:2442593]	4512	0.5261590480804443	-0.083442464	No	
+row_21	Col13a1	collagen, type XIII, alpha 1 [Source:MGI Symbol;Acc:MGI:1277201]	4606	0.5153266191482544	-0.08543615	No	
+row_22	Fn1	fibronectin 1 [Source:MGI Symbol;Acc:MGI:95566]	4806	0.4922136664390564	-0.09231338	No	
+row_23	Crispld2	cysteine-rich secretory protein LCCL domain containing 2 [Source:MGI Symbol;Acc:MGI:1926142]	5558	0.4174363911151886	-0.124426946	No	
+row_24	Cilp2	cartilage intermediate layer protein 2 [Source:MGI Symbol;Acc:MGI:1915959]	5692	0.40395915508270264	-0.12870252	No	
+row_25	Egfem1	EGF-like and EMI domain containing 1 [Source:MGI Symbol;Acc:MGI:1922990]	5842	0.3894297480583191	-0.13376246	No	
+row_26	Col15a1	collagen, type XV, alpha 1 [Source:MGI Symbol;Acc:MGI:88449]	5848	0.38823768496513367	-0.13232754	No	
+row_27	Fndc7	fibronectin type III domain containing 7 [Source:MGI Symbol;Acc:MGI:2443535]	5954	0.3786851465702057	-0.13544735	No	
+row_28	Lamb3	laminin, beta 3 [Source:MGI Symbol;Acc:MGI:99915]	6056	0.36862418055534363	-0.13842963	No	
+row_29	Rspo1	R-spondin 1 [Source:MGI Symbol;Acc:MGI:2183426]	6304	0.3432841897010803	-0.14811052	No	
+row_30	Aspn	asporin [Source:MGI Symbol;Acc:MGI:1913945]	6359	0.3391258716583252	-0.14909746	No	
+row_31	Abi3bp	ABI family member 3 binding protein [Source:MGI Symbol;Acc:MGI:2444583]	6533	0.32270896434783936	-0.15552612	No	
+row_32	Matn1	matrilin 1, cartilage matrix protein [Source:MGI Symbol;Acc:MGI:106591]	6584	0.3178394138813019	-0.15642355	No	
+row_33	Vwa5b2	von Willebrand factor A domain containing 5B2 [Source:MGI Symbol;Acc:MGI:2681859]	6913	0.2910565435886383	-0.16998406	No	
+row_34	Mfap1b	microfibrillar-associated protein 1B [Source:MGI Symbol;Acc:MGI:3694697]	7105	0.27561038732528687	-0.17742667	No	
+row_35	Hapln2	hyaluronan and proteoglycan link protein 2 [Source:MGI Symbol;Acc:MGI:2137300]	7903	0.20892325043678284	-0.21250848	No	
+row_36	Spock1	sparc/osteonectin, cwcv and kazal-like domains proteoglycan 1 [Source:MGI Symbol;Acc:MGI:105371]	8215	0.18259796500205994	-0.22576556	No	
+row_37	Nepn	nephrocan [Source:MGI Symbol;Acc:MGI:1913900]	8685	0.14617331326007843	-0.24631031	No	
+row_38	Ndnf	neuron-derived neurotrophic factor [Source:MGI Symbol;Acc:MGI:1915419]	8901	0.12749157845973969	-0.2554698	No	
+row_39	Col20a1	collagen, type XX, alpha 1 [Source:MGI Symbol;Acc:MGI:1920618]	9036	0.11799591034650803	-0.26101366	No	
+row_40	Ccn3	cellular communication network factor 3 [Source:MGI Symbol;Acc:MGI:109185]	9138	0.10956653207540512	-0.265104	No	
+row_41	Col5a3	collagen, type V, alpha 3 [Source:MGI Symbol;Acc:MGI:1858212]	9409	0.08815214037895203	-0.27691436	No	
+row_42	Vwce	von Willebrand factor C and EGF domains [Source:MGI Symbol;Acc:MGI:1919018]	9593	0.07175300270318985	-0.28486782	No	
+row_43	Col11a2	collagen, type XI, alpha 2 [Source:MGI Symbol;Acc:MGI:88447]	10192	0.025132115930318832	-0.31175318	No	
+row_44	Col9a3	collagen, type IX, alpha 3 [Source:MGI Symbol;Acc:MGI:894686]	10734	-0.016069717705249786	-0.33610442	No	
+row_45	Esm1	endothelial cell-specific molecule 1 [Source:MGI Symbol;Acc:MGI:1918940]	10768	-0.019495965912938118	-0.3375106	No	
+row_46	Sned1	sushi, nidogen and EGF-like domains 1 [Source:MGI Symbol;Acc:MGI:3045960]	10813	-0.02304241806268692	-0.33939815	No	
+row_47	Col17a1	collagen, type XVII, alpha 1 [Source:MGI Symbol;Acc:MGI:88450]	11138	-0.04934801906347275	-0.35381195	No	
+row_48	Hapln3	hyaluronan and proteoglycan link protein 3 [Source:MGI Symbol;Acc:MGI:1914916]	11168	-0.052015386521816254	-0.35489848	No	
+row_49	Zp3	zona pellucida glycoprotein 3 [Source:MGI Symbol;Acc:MGI:99215]	11234	-0.05786818265914917	-0.35758498	No	
+row_50	Fndc8	fibronectin type III domain containing 8 [Source:MGI Symbol;Acc:MGI:1926169]	11285	-0.061748117208480835	-0.3595778	No	
+row_51	Impg2	interphotoreceptor matrix proteoglycan 2 [Source:MGI Symbol;Acc:MGI:3044955]	11305	-0.06394699215888977	-0.3601619	No	
+row_52	Matn3	matrilin 3 [Source:MGI Symbol;Acc:MGI:1328350]	11339	-0.0669284462928772	-0.3613652	No	
+row_53	Vcan	versican [Source:MGI Symbol;Acc:MGI:102889]	11554	-0.08610498905181885	-0.37065658	No	
+row_54	Dmp1	dentin matrix protein 1 [Source:MGI Symbol;Acc:MGI:94910]	11583	-0.08910315483808517	-0.37153932	No	
+row_55	Tnr	tenascin R [Source:MGI Symbol;Acc:MGI:99516]	12042	-0.12658089399337769	-0.39167136	No	
+row_56	Reln	reelin [Source:MGI Symbol;Acc:MGI:103022]	12052	-0.12728415429592133	-0.3915332	No	
+row_57	Thsd4	thrombospondin, type I, domain containing 4 [Source:MGI Symbol;Acc:MGI:2672033]	12193	-0.13952165842056274	-0.3972558	No	
+row_58	Slit3	slit guidance ligand 3 [Source:MGI Symbol;Acc:MGI:1315202]	12201	-0.14007511734962463	-0.39697263	No	
+row_59	Spock3	sparc/osteonectin, cwcv and kazal-like domains proteoglycan 3 [Source:MGI Symbol;Acc:MGI:1920152]	12292	-0.14723517000675201	-0.40040535	No	
+row_60	Lgi2	leucine-rich repeat LGI family, member 2 [Source:MGI Symbol;Acc:MGI:2180196]	12389	-0.15553797781467438	-0.40407336	No	
+row_61	Spon1	spondin 1, (f-spondin) extracellular matrix protein [Source:MGI Symbol;Acc:MGI:2385287]	12603	-0.17092272639274597	-0.41295677	No	
+row_62	Ncan	neurocan [Source:MGI Symbol;Acc:MGI:104694]	12621	-0.17303283512592316	-0.412984	No	
+row_63	Bcan	brevican [Source:MGI Symbol;Acc:MGI:1096385]	12678	-0.17845191061496735	-0.4147485	No	
+row_64	Matn4	matrilin 4 [Source:MGI Symbol;Acc:MGI:1328314]	12817	-0.18977434933185577	-0.4201659	No	
+row_65	Colq	collagen-like tail subunit (single strand of homotrimer) of asymmetric acetylcholinesterase [Source:MGI Symbol;Acc:MGI:1338761]	12823	-0.19033940136432648	-0.41957745	No	
+row_66	Mfap2	microfibrillar-associated protein 2 [Source:MGI Symbol;Acc:MGI:99559]	12967	-0.2033965140581131	-0.4251623	No	
+row_67	Chadl	chondroadherin-like [Source:MGI Symbol;Acc:MGI:3036284]	12984	-0.2048967182636261	-0.4250081	No	
+row_68	Igfbpl1	insulin-like growth factor binding protein-like 1 [Source:MGI Symbol;Acc:MGI:1933198]	13008	-0.20688475668430328	-0.42516136	No	
+row_69	Col14a1	collagen, type XIV, alpha 1 [Source:MGI Symbol;Acc:MGI:1341272]	13021	-0.2078474909067154	-0.42481402	No	
+row_70	Vtn	vitronectin [Source:MGI Symbol;Acc:MGI:98940]	13297	-0.2318386286497116	-0.43623546	No	
+row_71	Nyx	nyctalopin [Source:MGI Symbol;Acc:MGI:2448607]	13402	-0.24129194021224976	-0.4398978	No	
+row_72	Hmcn2	hemicentin 2 [Source:MGI Symbol;Acc:MGI:2677838]	13411	-0.24229706823825836	-0.43922254	No	
+row_73	AW551984	expressed sequence AW551984 [Source:MGI Symbol;Acc:MGI:2143322]	13704	-0.2670472264289856	-0.45126075	No	
+row_74	Mfap4	microfibrillar-associated protein 4 [Source:MGI Symbol;Acc:MGI:1342276]	13768	-0.27407974004745483	-0.45293218	No	
+row_75	Edil3	EGF-like repeats and discoidin I-like domains 3 [Source:MGI Symbol;Acc:MGI:1329025]	13864	-0.281878799200058	-0.45601466	No	
+row_76	Tecta	tectorin alpha [Source:MGI Symbol;Acc:MGI:109575]	13877	-0.2831912338733673	-0.45534503	No	
+row_77	Col22a1	collagen, type XXII, alpha 1 [Source:MGI Symbol;Acc:MGI:1916950]	14003	-0.29448047280311584	-0.45972776	No	
+row_78	Egflam	EGF-like, fibronectin type III and laminin G domains [Source:MGI Symbol;Acc:MGI:2146149]	14282	-0.32275569438934326	-0.47089577	No	
+row_79	Fbln1	fibulin 1 [Source:MGI Symbol;Acc:MGI:95487]	14316	-0.3262796700000763	-0.47098973	No	
+row_80	Ccn2	cellular communication network factor 2 [Source:MGI Symbol;Acc:MGI:95537]	14414	-0.3358173370361328	-0.4739318	No	
+row_81	Ntn1	netrin 1 [Source:MGI Symbol;Acc:MGI:105088]	14476	-0.3427625000476837	-0.47521913	No	
+row_82	Igfals	insulin-like growth factor binding protein, acid labile subunit [Source:MGI Symbol;Acc:MGI:107973]	14523	-0.34687313437461853	-0.47581184	No	
+row_83	Creld2	cysteine-rich with EGF-like domains 2 [Source:MGI Symbol;Acc:MGI:1923987]	14524	-0.34701743721961975	-0.47432753	No	
+row_84	Vwa7	von Willebrand factor A domain containing 7 [Source:MGI Symbol;Acc:MGI:1306798]	14876	-0.3818933069705963	-0.4885377	No	
+row_85	Kcp	kielin/chordin-like protein [Source:MGI Symbol;Acc:MGI:2141640]	15110	-0.4053839445114136	-0.49732104	No	
+row_86	Lama3	laminin, alpha 3 [Source:MGI Symbol;Acc:MGI:99909]	15139	-0.40914270281791687	-0.4968349	No	
+row_87	Vit	vitrin [Source:MGI Symbol;Acc:MGI:1921449]	15190	-0.4152255952358246	-0.4973158	No	
+row_88	Col9a2	collagen, type IX, alpha 2 [Source:MGI Symbol;Acc:MGI:88466]	15235	-0.419849157333374	-0.49750605	No	
+row_89	Mgp	matrix Gla protein [Source:MGI Symbol;Acc:MGI:96976]	15381	-0.4348607361316681	-0.5021911	No	
+row_90	Ltbp4	latent transforming growth factor beta binding protein 4 [Source:MGI Symbol;Acc:MGI:1321395]	15449	-0.4419157803058624	-0.5033252	No	
+row_91	Hmcn1	hemicentin 1 [Source:MGI Symbol;Acc:MGI:2685047]	15513	-0.44683581590652466	-0.5042577	No	
+row_92	Sbspon	somatomedin B and thrombospondin, type 1 domain containing [Source:MGI Symbol;Acc:MGI:2684952]	15562	-0.4525442123413086	-0.50448865	No	
+row_93	Lama2	laminin, alpha 2 [Source:MGI Symbol;Acc:MGI:99912]	15688	-0.4676135778427124	-0.50813085	No	
+row_94	Igfbp5	insulin-like growth factor binding protein 5 [Source:MGI Symbol;Acc:MGI:96440]	15786	-0.4781873822212219	-0.51046395	No	
+row_95	Cilp	cartilage intermediate layer protein, nucleotide pyrophosphohydrolase [Source:MGI Symbol;Acc:MGI:2444507]	16000	-0.5042451024055481	-0.5179217	No	
+row_96	Ecm1	extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:103060]	16169	-0.5263710021972656	-0.5232535	No	
+row_97	Col26a1	collagen, type XXVI, alpha 1 [Source:MGI Symbol;Acc:MGI:2155345]	16178	-0.5271989107131958	-0.5213596	No	
+row_98	Col2a1	collagen, type II, alpha 1 [Source:MGI Symbol;Acc:MGI:88452]	16385	-0.5510475635528564	-0.5283012	No	
+row_99	Mmrn2	multimerin 2 [Source:MGI Symbol;Acc:MGI:2385618]	16482	-0.5636500120162964	-0.53022355	No	
+row_100	Col4a6	collagen, type IV, alpha 6 [Source:MGI Symbol;Acc:MGI:2152695]	16512	-0.5673693418502808	-0.5291058	No	
+row_101	Igfbp3	insulin-like growth factor binding protein 3 [Source:MGI Symbol;Acc:MGI:96438]	16663	-0.5882449150085449	-0.5333605	No	
+row_102	Hapln1	hyaluronan and proteoglycan link protein 1 [Source:MGI Symbol;Acc:MGI:1337006]	16790	-0.6060470342636108	-0.5364557	No	
+row_103	Fbln7	fibulin 7 [Source:MGI Symbol;Acc:MGI:1917620]	16820	-0.6099867224693298	-0.5351556	No	
+row_104	Smoc2	SPARC related modular calcium binding 2 [Source:MGI Symbol;Acc:MGI:1929881]	16922	-0.6242607831954956	-0.53704447	No	
+row_105	Pxdn	peroxidasin [Source:MGI Symbol;Acc:MGI:1916925]	16935	-0.6252765655517578	-0.53491163	No	
+row_106	Ntn3	netrin 3 [Source:MGI Symbol;Acc:MGI:1341188]	17097	-0.6462675333023071	-0.53941464	No	
+row_107	Svep1	sushi, von Willebrand factor type A, EGF and pentraxin domain containing 1 [Source:MGI Symbol;Acc:MGI:1928849]	17112	-0.64901202917099	-0.53727055	No	
+row_108	Col6a3	collagen, type VI, alpha 3 [Source:MGI Symbol;Acc:MGI:88461]	17171	-0.657343327999115	-0.53707695	No	
+row_109	Nell1	NEL-like 1 [Source:MGI Symbol;Acc:MGI:2443902]	17283	-0.6701688170433044	-0.5392208	No	
+row_110	Lrg1	leucine-rich alpha-2-glycoprotein 1 [Source:MGI Symbol;Acc:MGI:1924155]	17558	-0.7107300162315369	-0.54854876	No	
+row_111	Lama1	laminin, alpha 1 [Source:MGI Symbol;Acc:MGI:99892]	17765	-0.7454061508178711	-0.554659	No	
+row_112	Fgl1	fibrinogen-like protein 1 [Source:MGI Symbol;Acc:MGI:102795]	17900	-0.7680557370185852	-0.55742234	Yes	
+row_113	Smoc1	SPARC related  modular calcium binding 1 [Source:MGI Symbol;Acc:MGI:1929878]	17909	-0.7694995403289795	-0.5544921	Yes	
+row_114	Ccn1	cellular communication network factor 1 [Source:MGI Symbol;Acc:MGI:88613]	18003	-0.7856403589248657	-0.55532956	Yes	
+row_115	Pcolce	procollagen C-endopeptidase enhancer protein [Source:MGI Symbol;Acc:MGI:105099]	18014	-0.786824107170105	-0.55241543	Yes	
+row_116	Papln	papilin, proteoglycan-like sulfated glycoprotein [Source:MGI Symbol;Acc:MGI:2386139]	18039	-0.7908068895339966	-0.55011624	Yes	
+row_117	Lamc2	laminin, gamma 2 [Source:MGI Symbol;Acc:MGI:99913]	18072	-0.7972118258476257	-0.5481508	Yes	
+row_118	Lama4	laminin, alpha 4 [Source:MGI Symbol;Acc:MGI:109321]	18121	-0.8060020804405212	-0.54686993	Yes	
+row_119	Thbs2	thrombospondin 2 [Source:MGI Symbol;Acc:MGI:98738]	18148	-0.8098947405815125	-0.5445794	Yes	
+row_120	Podnl1	podocan-like 1 [Source:MGI Symbol;Acc:MGI:2685352]	18164	-0.81333327293396	-0.54177755	Yes	
+row_121	Matn2	matrilin 2 [Source:MGI Symbol;Acc:MGI:109613]	18219	-0.8216844201087952	-0.54070044	Yes	
+row_122	Ltbp2	latent transforming growth factor beta binding protein 2 [Source:MGI Symbol;Acc:MGI:99502]	18230	-0.8235104084014893	-0.5376294	Yes	
+row_123	Crim1	cysteine rich transmembrane BMP regulator 1 (chordin like) [Source:MGI Symbol;Acc:MGI:1354756]	18251	-0.8271502256393433	-0.53499424	Yes	
+row_124	Lamc1	laminin, gamma 1 [Source:MGI Symbol;Acc:MGI:99914]	18303	-0.8367372751235962	-0.53371733	Yes	
+row_125	Creld1	cysteine-rich with EGF-like domains 1 [Source:MGI Symbol;Acc:MGI:2152539]	18355	-0.8461949229240417	-0.53239995	Yes	
+row_126	Vwa1	von Willebrand factor A domain containing 1 [Source:MGI Symbol;Acc:MGI:2179729]	18377	-0.8514375686645508	-0.52970606	Yes	
+row_127	Srpx	sushi-repeat-containing protein [Source:MGI Symbol;Acc:MGI:1858306]	18413	-0.858931303024292	-0.527612	Yes	
+row_128	Col18a1	collagen, type XVIII, alpha 1 [Source:MGI Symbol;Acc:MGI:88451]	18462	-0.8683967590332031	-0.5260642	Yes	
+row_129	Mfge8	milk fat globule EGF and factor V/VIII domain containing [Source:MGI Symbol;Acc:MGI:102768]	18499	-0.8737391233444214	-0.52395195	Yes	
+row_130	Hapln4	hyaluronan and proteoglycan link protein 4 [Source:MGI Symbol;Acc:MGI:2679531]	18554	-0.8847237825393677	-0.52260524	Yes	
+row_131	Rspo2	R-spondin 2 [Source:MGI Symbol;Acc:MGI:1922667]	18616	-0.8951901793479919	-0.5215297	Yes	
+row_132	Lgi4	leucine-rich repeat LGI family, member 4 [Source:MGI Symbol;Acc:MGI:2180197]	18710	-0.9145269989967346	-0.52181584	Yes	
+row_133	Prg4	proteoglycan 4 (megakaryocyte stimulating factor, articular superficial zone protein) [Source:MGI Symbol;Acc:MGI:1891344]	18721	-0.9168677926063538	-0.51834553	Yes	
+row_134	Fbln2	fibulin 2 [Source:MGI Symbol;Acc:MGI:95488]	18766	-0.9238032102584839	-0.51638025	Yes	
+row_135	Npnt	nephronectin [Source:MGI Symbol;Acc:MGI:2148811]	18771	-0.9249006509780884	-0.5126047	Yes	
+row_136	Rspo3	R-spondin 3 [Source:MGI Symbol;Acc:MGI:1920030]	18890	-0.9462565183639526	-0.51388365	Yes	
+row_137	Prelp	proline arginine-rich end leucine-rich repeat [Source:MGI Symbol;Acc:MGI:2151110]	18929	-0.9530531764030457	-0.5115224	Yes	
+row_138	Sspo	SCO-spondin [Source:MGI Symbol;Acc:MGI:2674311]	18938	-0.9559252262115479	-0.50779474	Yes	
+row_139	Ntng1	netrin G1 [Source:MGI Symbol;Acc:MGI:1934028]	18954	-0.9604211449623108	-0.50436383	Yes	
+row_140	Tsku	tsukushi, small leucine rich proteoglycan [Source:MGI Symbol;Acc:MGI:2443855]	18981	-0.966313362121582	-0.5014042	Yes	
+row_141	Col16a1	collagen, type XVI, alpha 1 [Source:MGI Symbol;Acc:MGI:1095396]	18986	-0.9671918153762817	-0.4974478	Yes	
+row_142	Podn	podocan [Source:MGI Symbol;Acc:MGI:2674939]	19003	-0.9716962575912476	-0.4940138	Yes	
+row_143	Col11a1	collagen, type XI, alpha 1 [Source:MGI Symbol;Acc:MGI:88446]	19073	-0.9881572127342224	-0.49290168	Yes	
+row_144	Epyc	epiphycan [Source:MGI Symbol;Acc:MGI:107942]	19256	-1.0311000347137451	-0.49670658	Yes	
+row_145	Adipoq	adiponectin, C1Q and collagen domain containing [Source:MGI Symbol;Acc:MGI:106675]	19337	-1.051486849784851	-0.49582013	Yes	
+row_146	Col23a1	collagen, type XXIII, alpha 1 [Source:MGI Symbol;Acc:MGI:2653243]	19352	-1.0550799369812012	-0.4919392	Yes	
+row_147	Lamb1	laminin B1 [Source:MGI Symbol;Acc:MGI:96743]	19353	-1.055436372756958	-0.48742476	Yes	
+row_148	Lama5	laminin, alpha 5 [Source:MGI Symbol;Acc:MGI:105382]	19389	-1.0639468431472778	-0.4844538	Yes	
+row_149	Ccn4	cellular communication network factor 4 [Source:MGI Symbol;Acc:MGI:1197008]	19392	-1.0644524097442627	-0.4799911	Yes	
+row_150	Col5a1	collagen, type V, alpha 1 [Source:MGI Symbol;Acc:MGI:88457]	19483	-1.0879875421524048	-0.47939992	Yes	
+row_151	Fmod	fibromodulin [Source:MGI Symbol;Acc:MGI:1328364]	19572	-1.1105380058288574	-0.47862202	Yes	
+row_152	Igfbp7	insulin-like growth factor binding protein 7 [Source:MGI Symbol;Acc:MGI:1352480]	19612	-1.1199439764022827	-0.47559208	Yes	
+row_153	Nid2	nidogen 2 [Source:MGI Symbol;Acc:MGI:1298229]	19638	-1.1278518438339233	-0.47189638	Yes	
+row_154	Tnc	tenascin C [Source:MGI Symbol;Acc:MGI:101922]	19668	-1.1368629932403564	-0.4683427	Yes	
+row_155	Fbln5	fibulin 5 [Source:MGI Symbol;Acc:MGI:1346091]	19690	-1.1424415111541748	-0.46440405	Yes	
+row_156	Ntn4	netrin 4 [Source:MGI Symbol;Acc:MGI:1888978]	19725	-1.1505873203277588	-0.46101734	Yes	
+row_157	Lamb2	laminin, beta 2 [Source:MGI Symbol;Acc:MGI:99916]	19815	-1.1782152652740479	-0.4599951	Yes	
+row_158	Crispld1	cysteine-rich secretory protein LCCL domain containing 1 [Source:MGI Symbol;Acc:MGI:1934666]	19852	-1.189631462097168	-0.45653167	Yes	
+row_159	Sparcl1	SPARC-like 1 [Source:MGI Symbol;Acc:MGI:108110]	19857	-1.1904025077819824	-0.45162052	Yes	
+row_160	Ltbp3	latent transforming growth factor beta binding protein 3 [Source:MGI Symbol;Acc:MGI:1101355]	19913	-1.2016081809997559	-0.4489635	Yes	
+row_161	Ecm2	extracellular matrix protein 2, female organ and adipocyte specific [Source:MGI Symbol;Acc:MGI:3039578]	19929	-1.2045788764953613	-0.44448823	Yes	
+row_162	Fbn1	fibrillin 1 [Source:MGI Symbol;Acc:MGI:95489]	19938	-1.2064886093139648	-0.43968883	Yes	
+row_163	Omd	osteomodulin [Source:MGI Symbol;Acc:MGI:1350918]	19952	-1.2117738723754883	-0.4350925	Yes	
+row_164	Emid1	EMI domain containing 1 [Source:MGI Symbol;Acc:MGI:2155091]	19972	-1.2205015420913696	-0.4307297	Yes	
+row_165	Vwa5b1	von Willebrand factor A domain containing 5B1 [Source:MGI Symbol;Acc:MGI:1922968]	20080	-1.251314401626587	-0.43020725	Yes	
+row_166	Tspear	thrombospondin type laminin G domain and EAR repeats [Source:MGI Symbol;Acc:MGI:2671932]	20219	-1.2943499088287354	-0.43090007	Yes	
+row_167	Ltbp1	latent transforming growth factor beta binding protein 1 [Source:MGI Symbol;Acc:MGI:109151]	20226	-1.2957184314727783	-0.42562872	Yes	
+row_168	Bgn	biglycan [Source:MGI Symbol;Acc:MGI:88158]	20246	-1.3036593198776245	-0.4209102	Yes	
+row_169	Emilin1	elastin microfibril interfacer 1 [Source:MGI Symbol;Acc:MGI:1926189]	20298	-1.3200198411941528	-0.41756615	Yes	
+row_170	Cdcp3	CUB domain containing protein 3 [Source:MGI Symbol;Acc:MGI:1918645]	20351	-1.3349030017852783	-0.41420358	Yes	
+row_171	Col8a2	collagen, type VIII, alpha 2 [Source:MGI Symbol;Acc:MGI:88464]	20402	-1.3506942987442017	-0.41068318	Yes	
+row_172	Thbs1	thrombospondin 1 [Source:MGI Symbol;Acc:MGI:98737]	20493	-1.3818516731262207	-0.40883505	Yes	
+row_173	Col4a2	collagen, type IV, alpha 2 [Source:MGI Symbol;Acc:MGI:88455]	20509	-1.388549566268921	-0.4035729	Yes	
+row_174	Col7a1	collagen, type VII, alpha 1 [Source:MGI Symbol;Acc:MGI:88462]	20532	-1.396736741065979	-0.39859167	Yes	
+row_175	Coch	cochlin [Source:MGI Symbol;Acc:MGI:1278313]	20614	-1.422433614730835	-0.39616373	Yes	
+row_176	Efemp1	epidermal growth factor-containing fibulin-like extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:1339998]	20615	-1.422856092453003	-0.39007774	Yes	
+row_177	Pcolce2	procollagen C-endopeptidase enhancer 2 [Source:MGI Symbol;Acc:MGI:1923727]	20710	-1.4578858613967896	-0.38808495	Yes	
+row_178	Vwa3a	von Willebrand factor A domain containing 3A [Source:MGI Symbol;Acc:MGI:3041229]	20798	-1.4911999702453613	-0.3856337	Yes	
+row_179	Col3a1	collagen, type III, alpha 1 [Source:MGI Symbol;Acc:MGI:88453]	20926	-1.545603632926941	-0.38475528	Yes	
+row_180	Gas6	growth arrest specific 6 [Source:MGI Symbol;Acc:MGI:95660]	21170	-1.6548213958740234	-0.3886458	Yes	
+row_181	Optc	opticin [Source:MGI Symbol;Acc:MGI:2151113]	21193	-1.6645976305007935	-0.38251886	Yes	
+row_182	Aebp1	AE binding protein 1 [Source:MGI Symbol;Acc:MGI:1197012]	21227	-1.6785595417022705	-0.37682873	Yes	
+row_183	Vwa3b	von Willebrand factor A domain containing 3B [Source:MGI Symbol;Acc:MGI:1918103]	21246	-1.6867690086364746	-0.37042642	Yes	
+row_184	Tnfaip6	tumor necrosis factor alpha induced protein 6 [Source:MGI Symbol;Acc:MGI:1195266]	21258	-1.6907685995101929	-0.363691	Yes	
+row_185	Tinagl1	tubulointerstitial nephritis antigen-like 1 [Source:MGI Symbol;Acc:MGI:2137617]	21421	-1.788185715675354	-0.36335483	Yes	
+row_186	Oit3	oncoprotein induced transcript 3 [Source:MGI Symbol;Acc:MGI:1201782]	21429	-1.7959264516830444	-0.3559891	Yes	
+row_187	Igfbp2	insulin-like growth factor binding protein 2 [Source:MGI Symbol;Acc:MGI:96437]	21549	-1.8774592876434326	-0.35333014	Yes	
+row_188	Vwf	Von Willebrand factor [Source:MGI Symbol;Acc:MGI:98941]	21551	-1.878663182258606	-0.34533966	Yes	
+row_189	Efemp2	epidermal growth factor-containing fibulin-like extracellular matrix protein 2 [Source:MGI Symbol;Acc:MGI:1891209]	21574	-1.888789415359497	-0.3382538	Yes	
+row_190	Lamc3	laminin gamma 3 [Source:MGI Symbol;Acc:MGI:1344394]	21605	-1.9016715288162231	-0.33147392	Yes	
+row_191	Col8a1	collagen, type VIII, alpha 1 [Source:MGI Symbol;Acc:MGI:88463]	21612	-1.91351318359375	-0.3235601	Yes	
+row_192	Col6a2	collagen, type VI, alpha 2 [Source:MGI Symbol;Acc:MGI:88460]	21638	-1.9261326789855957	-0.3164499	Yes	
+row_193	Nid1	nidogen 1 [Source:MGI Symbol;Acc:MGI:97342]	21673	-1.9550217390060425	-0.3096224	Yes	
+row_194	Col4a1	collagen, type IV, alpha 1 [Source:MGI Symbol;Acc:MGI:88454]	21679	-1.957731008529663	-0.30147427	Yes	
+row_195	Sparc	secreted acidic cysteine rich glycoprotein [Source:MGI Symbol;Acc:MGI:98373]	21707	-1.9774614572525024	-0.29423484	Yes	
+row_196	Col12a1	collagen, type XII, alpha 1 [Source:MGI Symbol;Acc:MGI:88448]	21709	-1.9807665348052979	-0.28580764	Yes	
+row_197	Spock2	sparc/osteonectin, cwcv and kazal-like domains proteoglycan 2 [Source:MGI Symbol;Acc:MGI:1891351]	21781	-2.0284297466278076	-0.28033626	Yes	
+row_198	Fras1	Fraser extracellular matrix complex subunit 1 [Source:MGI Symbol;Acc:MGI:2385368]	21789	-2.033954381942749	-0.27195242	Yes	
+row_199	Fndc1	fibronectin type III domain containing 1 [Source:MGI Symbol;Acc:MGI:1915905]	21807	-2.0472116470336914	-0.26396322	Yes	
+row_200	Srpx2	sushi-repeat-containing protein, X-linked 2 [Source:MGI Symbol;Acc:MGI:1916042]	21848	-2.072856903076172	-0.25690255	Yes	
+row_201	Igfbp4	insulin-like growth factor binding protein 4 [Source:MGI Symbol;Acc:MGI:96439]	21925	-2.1330738067626953	-0.25120926	Yes	
+row_202	Hspg2	perlecan (heparan sulfate proteoglycan 2) [Source:MGI Symbol;Acc:MGI:96257]	21929	-2.1384201049804688	-0.24219802	Yes	
+row_203	Nell2	NEL-like 2 [Source:MGI Symbol;Acc:MGI:1858510]	21974	-2.195920705795288	-0.2347915	Yes	
+row_204	Col5a2	collagen, type V, alpha 2 [Source:MGI Symbol;Acc:MGI:88458]	22017	-2.2589800357818604	-0.22702499	Yes	
+row_205	Thbs3	thrombospondin 3 [Source:MGI Symbol;Acc:MGI:98739]	22038	-2.290632963180542	-0.21813004	Yes	
+row_206	Eln	elastin [Source:MGI Symbol;Acc:MGI:95317]	22080	-2.3643712997436523	-0.20986758	Yes	
+row_207	Spon2	spondin 2, extracellular matrix protein [Source:MGI Symbol;Acc:MGI:1923724]	22125	-2.4540469646453857	-0.20135699	Yes	
+row_208	Lum	lumican [Source:MGI Symbol;Acc:MGI:109347]	22157	-2.5177252292633057	-0.19198722	Yes	
+row_209	Col4a4	collagen, type IV, alpha 4 [Source:MGI Symbol;Acc:MGI:104687]	22168	-2.5424137115478516	-0.18156393	Yes	
+row_210	Mfap5	microfibrillar associated protein 5 [Source:MGI Symbol;Acc:MGI:1354387]	22177	-2.5561506748199463	-0.17099161	Yes	
+row_211	Tnxb	tenascin XB [Source:MGI Symbol;Acc:MGI:1932137]	22178	-2.5642285346984863	-0.16002364	Yes	
+row_212	Slit2	slit guidance ligand 2 [Source:MGI Symbol;Acc:MGI:1315205]	22188	-2.5951626300811768	-0.1493296	Yes	
+row_213	Col4a5	collagen, type IV, alpha 5 [Source:MGI Symbol;Acc:MGI:88456]	22203	-2.6277096271514893	-0.13872203	Yes	
+row_214	Ogn	osteoglycin [Source:MGI Symbol;Acc:MGI:109278]	22238	-2.7386322021484375	-0.1285428	Yes	
+row_215	Lgi1	leucine-rich repeat LGI family, member 1 [Source:MGI Symbol;Acc:MGI:1861691]	22241	-2.749133825302124	-0.116874196	Yes	
+row_216	Igfbp6	insulin-like growth factor binding protein 6 [Source:MGI Symbol;Acc:MGI:96441]	22252	-2.786175012588501	-0.10540827	Yes	
+row_217	Bmper	BMP-binding endothelial regulator [Source:MGI Symbol;Acc:MGI:1920480]	22270	-2.887977361679077	-0.09382289	Yes	
+row_218	Col6a1	collagen, type VI, alpha 1 [Source:MGI Symbol;Acc:MGI:88459]	22287	-2.9853649139404297	-0.0817758	Yes	
+row_219	Col4a3	collagen, type IV, alpha 3 [Source:MGI Symbol;Acc:MGI:104688]	22292	-2.9997622966766357	-0.069125466	Yes	
+row_220	Thbs4	thrombospondin 4 [Source:MGI Symbol;Acc:MGI:1101779]	22303	-3.068241596221924	-0.056453064	Yes	
+row_221	Ccn5	cellular communication network factor 5 [Source:MGI Symbol;Acc:MGI:1328326]	22336	-3.3317084312438965	-0.04364678	Yes	
+row_222	Col1a1	collagen, type I, alpha 1 [Source:MGI Symbol;Acc:MGI:88467]	22348	-3.4366495609283447	-0.02944372	Yes	
+row_223	Cthrc1	collagen triple helix repeat containing 1 [Source:MGI Symbol;Acc:MGI:1915838]	22353	-3.485361337661743	-0.0147163365	Yes	
+row_224	Col1a2	collagen, type I, alpha 2 [Source:MGI Symbol;Acc:MGI:88468]	22362	-3.6938846111297607	7.2240893E-4	Yes	
