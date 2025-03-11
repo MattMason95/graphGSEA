@@ -18,7 +18,7 @@ By evaluating subgraphs of interrelated nodes, instead of individual genesets, t
 ## Installation <a name = "installation"></a>
 ```python
 
-pip install enrich-omics
+pip install graphGSEA
 
 ```
 ## Tutorial <a name = "tutorial"></a>
