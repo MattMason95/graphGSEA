@@ -1,4 +1,4 @@
-### GSEA Network Graph
+### graphGSEA
 
 ## Table of contents
 - [About](#about)
