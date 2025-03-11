@@ -53,4 +53,4 @@ outputs = parseGSEA(filepath='./Example_data').fileAccessor(jaccardFilter=0.5,st
 plotGSEA.iterativePlotting(outputs,save=False)
 ```
 
-![alt text](https://github.com/MattMason95/GSEA-Network-Graph/blob/main/GSEA_7m.png?raw=true)
+![alt text](https://github.com/MattMason95/graphGSEA/blob/0f615d395f0c10978e4715f787159687d8333d9b/graphGSEA/GSEA_7m.png)
