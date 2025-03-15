@@ -22,6 +22,7 @@ class networkResults:
     label: str
     dataframe: pd.DataFrame
     metadata: Dict[str, Any]
+    filters: Dict[str, Any]
     statistics: Dict[str, Any]
     lookup: Dict[str, Any]
 
@@ -32,6 +33,8 @@ class networkResults:
            return self.dataframe
         elif key == 'metadata':
             return self.metadata
+        elif key == 'filter':
+            return self.filters
         elif key == 'statistics':
             return self.statistics
         elif key == 'lookup':
@@ -317,7 +320,7 @@ class parseGSEA:
 
       print('Computing Jaccard indices.')
       time.sleep(0.5)
-      
+
       ## Calculate the Jaccard indices for the significantly enriched genesets
       jaccardIndices = self.Jaccard([x[0] for x in sigModules],[x[1] for x in sigModules])
 
@@ -337,9 +340,13 @@ class parseGSEA:
                               'condition':target})
 
       ## Append data from this loop to the networkResults object 
-      output.label = target 
+      output.label = target
       output.dataframe = networkData
       output.metadata = metaData
+      output.filters = {
+         'jaccardFilter':jaccardFilter,
+         'statThreshold':statThreshold
+      }
       output.statistics = statsData
       output.lookup = geneDict
     

@@ -40,6 +40,7 @@ class plotGSEA:
 
     network = data.dataframe
     meta = data.metadata
+    thresholds = data.filters
 
     ## Iterate through the different conditions within the network analysis dataframe 
     for condition in network['condition'].unique():
@@ -51,7 +52,7 @@ class plotGSEA:
       graph = nx.from_pandas_edgelist(shortNetwork, source='node1', target='node2', edge_attr='jaccard_index')
 
       ## Specify that no edges are created between nodes with a Jaccard index of < 0.5 - remove tham from the edge list 
-      noEdge = list(filter(lambda e: e[2] < 0.5, (e for e in graph.edges.data('jaccard_index'))))
+      noEdge = list(filter(lambda e: e[2] < thresholds['jaccardFilter'], (e for e in graph.edges.data('jaccard_index'))))
       noEdgePairs = list(e[:2] for e in noEdge)
       
       graph.remove_edges_from(noEdgePairs)

@@ -11,42 +11,35 @@ import itertools
 import time
 import networkx as nx
 from parsing import networkResults
-from typing import List
+from typing import List, Dict
 from collections import Counter
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 class analyseGSEA:
   def __init__(self):
-    print('~~~~~~ analyseGSEA ~~~~~~')
+    print('~~~~~~ analyseGSEA ~~~~~~\n')
   
   # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
   def getClusterNES(
         self,
-        clusters: List,
+        clusters: Dict,
         metadata: pd.DataFrame):
     '''
     This function will access all of the normalised enrichment scores for the constituent genesets in each subgraph and compute an overall average for the subgraph. 
     '''
-    
-    clusterIndex, clusterLists = zip(*clusters)
+    clusterNES = {}
 
-    averageNES = []
-    moduleIndex = []
+    for idx, cluster in clusters.items():
 
-    for i in range(len(clusterLists)):
-        moduleIndex.append(clusterIndex[i])
-    
         moduleNES = []
-        for j in clusterLists[i]:
-            nes = metadata['nes'][metadata['node'] == j].values[0]
+        for geneset in cluster:
+            nes = metadata['nes'][metadata['node'] == geneset].values[0]
             moduleNES.append(nes)
         
         average = np.mean(moduleNES)
-        averageNES.append(average)
-
-    clusterNES = list(zip(moduleIndex,averageNES))
+        clusterNES[idx] = average
     
     return clusterNES
 
@@ -54,7 +47,7 @@ class analyseGSEA:
 
   def extractiveSummarisation(
         self, 
-        clusterList: List,
+        clusterList: Dict,
         metadata: pd.DataFrame
         ):
      
@@ -72,11 +65,10 @@ class analyseGSEA:
     relativeBackground = dict([[k,v/len(allGenesets)] for k,v in backgroundCount.items()])
 
     ## Prepare output containers for geneset tokenisation 
-    commonWords = []
-    clusterIndex = []
+    clusterTokens = {}
 
     ## Iterate through the genesets within each subgraph and quantify tokens 
-    for idx,subgraph in clusterList:
+    for idx,subgraph in clusterList.items():
         ## Calculate local frequency of words 
         tokens = [item for sublist in [x.split('_')[1:] for x in subgraph] for item in sublist] # Take slice from 1st index to omit database name (KEGG, GOBP, etc.)
         ## Append short 2-token substrings  
@@ -88,11 +80,9 @@ class analyseGSEA:
         ## Calculate the expected frequency of word - from background ratios given the sample size  
         ## Divide observed frequency by the expected frequency to give a relative enrichment
         relativeCounts = dict([[k,v/(relativeBackground[k]*len(subgraph))] for k,v in counter.items()])
-        # highestCounts = relativeCounts.most_common()
-        clusterIndex.append(idx)
-        commonWords.append(relativeCounts)
+        clusterTokens[idx] = relativeCounts
 
-    clusterTokens = list(zip(clusterIndex,commonWords))
+    # clusterTokens = list(zip(clusterIndex,commonWords))
 
     return clusterTokens
 
@@ -109,38 +99,37 @@ class analyseGSEA:
     - Evaluate annotation terminology with tokenisation
     - Compute average normalised enrichment score from the constituent genesets.
     '''
-    print(' ')
     from collections import Counter
     network = graphData.dataframe
     metadata = graphData.metadata
+    filters = graphData.filters
+
     print('Creating instance of graph network.')
     time.sleep(0.5)
     ## Generate instance of graph object
     graph = nx.from_pandas_edgelist(network, source='node1', target='node2', edge_attr='jaccard_index')
     ## Remove edges from genesets with Jaccard < 0.5
-    noEdge = list(filter(lambda e: e[2] < 0.5, (e for e in graph.edges.data('jaccard_index'))))
+    noEdge = list(filter(lambda e: e[2] < filters['jaccardFilter'], (e for e in graph.edges.data('jaccard_index'))))
     noEdgePairs = list(e[:2] for e in noEdge)
     graph.remove_edges_from(noEdgePairs) 
     
     ## Extract the subgraphs from the network
-    print('Extracting subgraphs.')
+    print('Evaluating subgraphs.')
     time.sleep(0.5)
     subGraphs = nx.connected_components(graph)
 
-    largeClusters = []
-    graphIndex = []
+    print('Accessing subgraph constituents.')
+    time.sleep(0.5)
 
+    outputClusters = {}
     ## Iteratively filter subgraphs that are larger than the user-defined clustersize threshold
-    for idx,i in enumerate(subGraphs):
-        if len(i) > clustersize:
-            largeClusters.append(i)
-            graphIndex.append(idx)
+    for idx,subgraph in enumerate(subGraphs):
+        if len(subgraph) > clustersize:
+            outputClusters[idx] = subgraph
         else:
             continue
 
-    outputClusters = list(zip(graphIndex,largeClusters))
-
-    print('Calculating relative enrichment of geneset annotations.')
+    print('Performing extractive summarisation of geneset annotations.')
     time.sleep(0.5)
     relativeEnrichment = self.extractiveSummarisation(outputClusters,metadata)
     
