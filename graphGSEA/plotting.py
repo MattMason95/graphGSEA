@@ -16,7 +16,7 @@ from typing import Any
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 class plotGSEA:
   def __init__(self):
-    pass
+    print('~~~~~~ plotGSEA ~~~~~~')
 
   def iterativePlotting(
       data: networkResults,

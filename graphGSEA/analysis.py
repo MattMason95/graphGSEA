@@ -8,6 +8,7 @@ import regex as re
 import re
 import os
 import itertools
+import time
 import networkx as nx
 from parsing import networkResults
 from typing import List
@@ -108,19 +109,22 @@ class analyseGSEA:
     - Evaluate annotation terminology with tokenisation
     - Compute average normalised enrichment score from the constituent genesets.
     '''
-
+    print(' ')
     from collections import Counter
     network = graphData.dataframe
     metadata = graphData.metadata
-
+    print('Creating instance of graph network.')
+    time.sleep(0.5)
     ## Generate instance of graph object
     graph = nx.from_pandas_edgelist(network, source='node1', target='node2', edge_attr='jaccard_index')
     ## Remove edges from genesets with Jaccard < 0.5
     noEdge = list(filter(lambda e: e[2] < 0.5, (e for e in graph.edges.data('jaccard_index'))))
     noEdgePairs = list(e[:2] for e in noEdge)
-    graph.remove_edges_from(noEdgePairs)
+    graph.remove_edges_from(noEdgePairs) 
     
     ## Extract the subgraphs from the network
+    print('Extracting subgraphs.')
+    time.sleep(0.5)
     subGraphs = nx.connected_components(graph)
 
     largeClusters = []
@@ -136,9 +140,17 @@ class analyseGSEA:
 
     outputClusters = list(zip(graphIndex,largeClusters))
 
+    print('Calculating relative enrichment of geneset annotations.')
+    time.sleep(0.5)
     relativeEnrichment = self.extractiveSummarisation(outputClusters,metadata)
-
+    
+    print('Calculating mean normalised enrichment scores.')
+    time.sleep(0.5)
     moduleNES = self.getClusterNES(outputClusters,metadata)
+
+    print('Analysis complete.\n')
+    time.sleep(0.5)
+    print('~~~~~~ </analyseGSEA> ~~~~~~')
 
     return relativeEnrichment, outputClusters, moduleNES
   

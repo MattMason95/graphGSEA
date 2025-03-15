@@ -241,7 +241,7 @@ class parseGSEA:
                 continue
             else:
                 destination = str(f'{root}/{folder}')  #os.path.join(root,folder)
-                print(f'EDB folder found at:{destination}.')
+                print(f'EDB folder found at: {destination}.')
                 destinations.append(destination)
 
     ## Prepare output object
@@ -250,9 +250,10 @@ class parseGSEA:
     ## Iterate through the target file paths identified above
     for target in destinations:
       print('Parsing data at destinations.')
-      time.sleep(2)
+      time.sleep(0.5)
       ## At this indentation level, we are within one of the target folder paths, so handling of gmt and edb data unique to one folder - i.e. unique to one pairing of conditions 
       print('Parsing:',target)
+      time.sleep(0.5)
 
       gmtData = []
       edbData = []
@@ -294,7 +295,8 @@ class parseGSEA:
         moduleGenes.append(genes)
       
       print('PARSED - .gmt file.')
-          
+      time.sleep(0.5)
+
       ## Zip together module names and module genes to avoid mismatching
       modulesZipped = list(zip(moduleNames,moduleGenes))
       
@@ -302,17 +304,20 @@ class parseGSEA:
       ## edbFileParser extracts the statistical data (NES and FDR) from the edb file, with the corresponding geneset name
       statsData = self.edbFileParser(edbData,label=target,mode='full')
       print('PARSED - .edb file.')
+      time.sleep(0.5)
 
       ## significantGenesets receives the zipped statistical data from edbFileParser and filters the full list with an FDR cutoff of <0.1 - it also has the functionality to unzip data
       statsDataThresholded = self.significantGenesets(statsData,statThreshold)
       print('PARSED - Significant genesets.')
+      time.sleep(0.5)
 
       ## Extract geneset names from the significant geneset data and use this to truncate the modulesZipped variable to include only the statistically significant genesets                
       sigGenesets = [x[0] for x in statsDataThresholded]
       sigModules = [x for x in modulesZipped if x[0] in sigGenesets]
 
       print('Computing Jaccard indices.')
-      time.sleep(1)
+      time.sleep(0.5)
+      
       ## Calculate the Jaccard indices for the significantly enriched genesets
       jaccardIndices = self.Jaccard([x[0] for x in sigModules],[x[1] for x in sigModules])
 
@@ -338,5 +343,8 @@ class parseGSEA:
       output.statistics = statsData
       output.lookup = geneDict
     
+    print('Parsing Complete.\n')
+    print('~~~~~~ </parseGSEA> ~~~~~~')
+
     return output
 
