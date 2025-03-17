@@ -76,35 +76,51 @@ class analyseGSEA:
         metadata: pd.DataFrame
         ):
      
-    ## Calculate background counts of words
+    ## Fetch all genesets from meta data
     allGenesets = list(metadata['node'].unique())
-    allTokens = [item for sublist in [x.split('_')[1:] for x in allGenesets] for item in sublist]
-
-    ## Append short 2-token substrings  
-    allTokens += [f"{x.split('_')[1:][idx]}_{x.split('_')[1:][idx+1]}" 
-                  for x in allGenesets 
-                  for idx in range(len(x.split('_')[1:])-1)]
-    
-    backgroundCount = Counter(allTokens)
-    ## Convert counts to relative proportion of word frequency in background
-    relativeBackground = dict([[k,v/len(allGenesets)] for k,v in backgroundCount.items()])
 
     ## Prepare output containers for geneset tokenisation 
     clusterTokens = {}
 
     ## Iterate through the genesets within each subgraph and quantify tokens 
     for idx,subgraph in clusterList.items():
-        ## Calculate local frequency of words 
+        ## Remove current genesets from full list to generate a background
+        backgroundGenesets = [ele for ele in allGenesets if ele not in list(subgraph)]
+
+        ## Generate single-word tokens from background genesets
+        allTokens = [item for sublist in [x.split('_')[1:] for x in backgroundGenesets] for item in sublist]
+
+        ## Append short 2-token substrings
+        allTokens += [f"{x.split('_')[1:][idx]}_{x.split('_')[1:][idx+1]}" 
+                    for x in backgroundGenesets 
+                    for idx in range(len(x.split('_')[1:])-1)]
+        
+        ## Count token frequencies
+        backgroundCount = Counter(allTokens)
+
+        ## Convert counts to relative proportion of word frequency in background
+        relativeBackground = dict([[k,v/len(backgroundGenesets)] for k,v in backgroundCount.items()])
+
+        ## Calculate local frequency of words - in the current subgraph
         tokens = [item for sublist in [x.split('_')[1:] for x in subgraph] for item in sublist] # Take slice from 1st index to omit database name (KEGG, GOBP, etc.)
+        
         ## Append short 2-token substrings  
         tokens += [f"{x.split('_')[1:][idx]}_{x.split('_')[1:][idx+1]}" 
                   for x in subgraph 
                   for idx in range(len(x.split('_')[1:])-1)]
+        
+        ## Count token frequencies
         counter = Counter(tokens)
 
         ## Calculate the expected frequency of word - from background ratios given the sample size  
-        ## Divide observed frequency by the expected frequency to give a relative enrichment
-        relativeCounts = dict([[k,v/(relativeBackground[k]*len(subgraph))] for k,v in counter.items()])
+        ## Try to divide observed frequency by the expected frequency to give a relative enrichment
+        ## If word doesn't exist in the background dataset, use the lowest enrichment score
+        try:
+           relativeCounts = dict([[k,v/(relativeBackground[k]*len(subgraph))] for k,v in counter.items()])
+        except:
+           minBackground = min(relativeBackground, key=relativeBackground.get)
+           relativeCounts = dict([[k,v/(relativeBackground[minBackground]*len(subgraph))] for k,v in counter.items()])
+        
         clusterTokens[idx] = relativeCounts
 
     return clusterTokens
@@ -172,7 +188,7 @@ class analyseGSEA:
     output.clusters = outputClusters
     output.clusterNES = moduleNES
     output.enrichment = relativeEnrichment
-    
+
     return output
   
   # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
