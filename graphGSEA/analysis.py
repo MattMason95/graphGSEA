@@ -11,8 +11,33 @@ import itertools
 import time
 import networkx as nx
 from parsing import networkResults
-from typing import List, Dict
+from typing import List, Dict, Any
 from collections import Counter
+from dataclasses import dataclass
+
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+@dataclass
+class analysisResults:
+    ''' 
+    Data class for main function. Returns an object containing the outputs of the cluster analysis.
+    '''
+    label: str
+    clusters: Dict[str, Any]
+    clusterNES: Dict[str, Any]
+    enrichment: Dict[str, Any]
+
+    def __getitem__(self, key):
+        if key == 'label':
+            return self.label
+        elif key == 'clusters':
+           return self.clusters
+        elif key == 'clusterNES':
+            return self.clusterNES
+        elif key == 'enrichment':
+            return self.enrichment
+        else:
+            raise KeyError(f'Invalid key: {key}.')
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -82,8 +107,6 @@ class analyseGSEA:
         relativeCounts = dict([[k,v/(relativeBackground[k]*len(subgraph))] for k,v in counter.items()])
         clusterTokens[idx] = relativeCounts
 
-    # clusterTokens = list(zip(clusterIndex,commonWords))
-
     return clusterTokens
 
   # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -100,15 +123,18 @@ class analyseGSEA:
     - Compute average normalised enrichment score from the constituent genesets.
     '''
     from collections import Counter
+    label = graphData.label
     network = graphData.dataframe
     metadata = graphData.metadata
     filters = graphData.filters
 
     print('Creating instance of graph network.')
     time.sleep(0.5)
+
     ## Generate instance of graph object
     graph = nx.from_pandas_edgelist(network, source='node1', target='node2', edge_attr='jaccard_index')
-    ## Remove edges from genesets with Jaccard < 0.5
+
+    ## Remove edges from genesets with Jaccard index lower than user-specified jaccardFilter (retrieved from networkResults object)
     noEdge = list(filter(lambda e: e[2] < filters['jaccardFilter'], (e for e in graph.edges.data('jaccard_index'))))
     noEdgePairs = list(e[:2] for e in noEdge)
     graph.remove_edges_from(noEdgePairs) 
@@ -126,7 +152,7 @@ class analyseGSEA:
     for idx,subgraph in enumerate(subGraphs):
         if len(subgraph) > clustersize:
             outputClusters[idx] = subgraph
-        else:
+        else: 
             continue
 
     print('Performing extractive summarisation of geneset annotations.')
@@ -141,6 +167,12 @@ class analyseGSEA:
     time.sleep(0.5)
     print('~~~~~~ </analyseGSEA> ~~~~~~')
 
-    return relativeEnrichment, outputClusters, moduleNES
+    output = analysisResults
+    output.label = label
+    output.clusters = outputClusters
+    output.clusterNES = moduleNES
+    output.enrichment = relativeEnrichment
+    
+    return output
   
   # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
